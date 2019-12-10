@@ -23,7 +23,7 @@ _**(I suspect that the initial learning curve will be steep, so I have posted a 
 - [Schedule and lecture materials](#schedule-and-lecture-materials)
 - [Syllabus](#syllabus)
 - [Assignments](assignments/assignments.md)
-- Need help? Resources for when you are stuck (stack overflow, peers, our github, google, then me) (link to page **xxxxxxxxxx**)
+- Need help? Procedures and resources for when you are stuck (procedure: readme/help functions, py documentation, stack overflow, peers, our github, google, then me) (link to page **xxxxxxxxxx**)
 
 # Schedule and lecture materials
 
