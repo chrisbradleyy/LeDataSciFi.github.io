@@ -20,7 +20,9 @@ _**(I suspect that the initial learning curve will be steep, so I have posted a 
 
 # Key Links
 
-[asignment](ASGN01.md)
+[asignment](_assignments/ASGN01.md)
+
+try now
 
 - [Schedule and lecture materials](#schedule-and-lecture-materials)
 - [Syllabus](#syllabus)
