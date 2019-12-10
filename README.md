@@ -31,6 +31,8 @@ Put a schedule table here. Would be great if it dynamically highligts/emphasizes
 
 Items in table: Date, Lecture (# with link), Topic/description
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSubrvywcJ7EcNfhsobhckXfRGvEAxZBmrTlN2BHar5F5RFM0g18JqwoowBo5_wjczJqWtKwBdyMzDc/pubhtml?widget=true&amp;headers=false"></iframe>
+
 # Syllabus 
 
 (1) project management and programming golden rules, 
