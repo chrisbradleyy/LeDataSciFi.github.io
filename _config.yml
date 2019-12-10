@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+remote_theme: poole/hyde
 title: "Data Analysis (Science) for Finance"
 subtitle: "FIN377 at Lehigh"
 description: Please bookmark this page!
