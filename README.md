@@ -31,7 +31,7 @@ Put a schedule table here. Would be great if it dynamically highligts/emphasizes
 
 Items in table: Date, Lecture (# with link), Topic/description
 
-<iframe width="214" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B6491313208C1D5B%21105&authkey=%21AH6fznaxA0YLuV4&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AC42&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="500" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B6491313208C1D5B%21105&authkey=%21AH6fznaxA0YLuV4&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AC42&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 # Syllabus 
 
