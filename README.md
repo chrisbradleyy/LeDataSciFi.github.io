@@ -28,6 +28,10 @@ try now
 
 try this one
 
+[asgn3](assignments/ASGN03.md)
+
+try thiiiiis one - no hyphen in subfolder name
+
 - [Schedule and lecture materials](#schedule-and-lecture-materials)
 - [Syllabus](#syllabus)
 - Assignments (the assignment website has instructions for each assignment and related peer reviews) (link to page **xxxxxxxxxx**)
