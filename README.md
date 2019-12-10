@@ -1,12 +1,3 @@
----
-title: "new title"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 2
-    toc_float: true
----
-
 # FIN377 
 
 - obtain, explore, groom, visualize, and analyze data
