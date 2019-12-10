@@ -1,16 +1,17 @@
-# FIN377 in a nutshell
+# FIN377 
 
-quick description **xxxxxxxxxx**
+- obtain, explore, groom, visualize, and analyze data
+- make all of that reproducible, reusable, and shareable 
+- in python, with applications in finance
 
 ###  Donald Bowen
+Office: RBC 460
 
-Meetings: 
+### Class Meetings: 
 1. TuThu 135pm-250pm in **xxxxxxxxxx**
 1. TuThu 3pm-415pm in **xxxxxxxxxx**
 
-Office: RBC 460
-
-**~~Office hours~~ Student drop-in hours, subject to change**: 
+### **~~Office hours~~ Student drop-in hours, subject to change**: 
 - Tu 10am-11am
 - Wed 4pm-5pm
 - Thu 10am-11am
@@ -19,7 +20,7 @@ _**(I suspect that the initial learning curve will be steep, so I have posted a 
 
 # Key Links
 
-- Schedule and lecture materials (link to header below **xxxxxxxxxx**)
+- [Schedule and lecture materials](#Schedule and lecture materials)
 - Syllabus (link to header below **xxxxxxxxxx**)
 - Assignments (the assignment website has instructions for each assignment and related peer reviews) (link to page **xxxxxxxxxx**)
 - Need help? Resources for when you are stuck (stack overflow, peers, our github, google, then me) (link to page **xxxxxxxxxx**)
@@ -30,9 +31,18 @@ Put a schedule table here. Would be great if it dynamically highligts/emphasizes
 
 Items in table: Date, Lecture (# with link), Topic/description
 
-# Syllabus
+# Syllabus 
 
+**xxxxxxxxxx**
 
+##
+
+## Acknowledgments / License
+
+This course draws on great work, including, but not limited to:
+- 
+- 
+- 
 
 
 
