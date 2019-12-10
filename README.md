@@ -64,6 +64,40 @@ learning from the model:  what does the output of my analysis mean? (A and B are
 
 ## Acknowledgments / License
 
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
+## Acknowledgments / License
+
 This course draws on great work, including, but not limited to:
 - **xxxxxxxxxx**
 - 
