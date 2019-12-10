@@ -1,6 +1,16 @@
 ## FIN377
 
-###  
+###  Donald Bowen
+
+# Welcome to FIN377
+
+## 1. Topic 1
+
+1. List
+2. List item two
+1. List item three
+
+## 2. Topic 1
 
 
 You can use the [editor on GitHub](https://github.com/LeDataSciFi/LeDataSciFi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
