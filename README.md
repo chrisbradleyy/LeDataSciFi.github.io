@@ -20,8 +20,8 @@ _**(I suspect that the initial learning curve will be steep, so I have posted a 
 
 # Key Links
 
-- [Schedule and lecture materials](#Schedule and lecture materials)
-- Syllabus (link to header below **xxxxxxxxxx**)
+- [Schedule and lecture materials](#schedule-and-lecture-materials)
+- [Syllabus](#syllabus)
 - Assignments (the assignment website has instructions for each assignment and related peer reviews) (link to page **xxxxxxxxxx**)
 - Need help? Resources for when you are stuck (stack overflow, peers, our github, google, then me) (link to page **xxxxxxxxxx**)
 
