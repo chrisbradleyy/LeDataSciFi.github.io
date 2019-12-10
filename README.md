@@ -24,6 +24,10 @@ _**(I suspect that the initial learning curve will be steep, so I have posted a 
 
 try now
 
+[asgn2](ASGN02.md)
+
+try this one
+
 - [Schedule and lecture materials](#schedule-and-lecture-materials)
 - [Syllabus](#syllabus)
 - Assignments (the assignment website has instructions for each assignment and related peer reviews) (link to page **xxxxxxxxxx**)
