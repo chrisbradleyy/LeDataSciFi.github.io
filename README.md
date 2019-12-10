@@ -1,16 +1,44 @@
-## FIN377
+# FIN377 in a nutshell
+
+quick description **xxxxxxxxxx**
 
 ###  Donald Bowen
 
-# Welcome to FIN377
+Meetings: 
+1. TuThu 135pm-250pm in **xxxxxxxxxx**
+1. TuThu 3pm-415pm in **xxxxxxxxxx**
 
-## 1. Topic 1
+Office: RBC 460
 
-1. List
-2. List item two
-1. List item three
+**~~Office hours~~ Student drop-in hours, subject to change**: 
+- Tu 10am-11am
+- Wed 4pm-5pm
+- Thu 10am-11am
+- Fri 2-3pm
+_**(I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the Stuck Resources (link to it **xxxxxxxxxx**)
 
-## 2. Topic 1
+# Key Links
+
+- Schedule and lecture materials (link to header below **xxxxxxxxxx**)
+- Syllabus (link to header below **xxxxxxxxxx**)
+- Assignments (the assignment website has instructions for each assignment and related peer reviews) (link to page **xxxxxxxxxx**)
+- Need help? Resources for when you are stuck (stack overflow, peers, our github, google, then me) (link to page **xxxxxxxxxx**)
+
+# Schedule and lecture materials
+
+Put a schedule table here. Would be great if it dynamically highligts/emphasizes next valid date.
+
+Items in table: Date, Lecture (# with link), Topic/description
+
+# Syllabus
+
+
+
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/LeDataSciFi/LeDataSciFi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -41,10 +69,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeDataSciFi/LeDataSciFi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
