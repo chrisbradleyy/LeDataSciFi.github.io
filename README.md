@@ -1,3 +1,12 @@
+---
+title: "new title"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
 # FIN377 
 
 - obtain, explore, groom, visualize, and analyze data
@@ -30,8 +39,6 @@ _**(I suspect that the initial learning curve will be steep, so I have posted a 
 Put a schedule table here. Would be great if it dynamically highligts/emphasizes next valid date.
 
 Items in table: Date, Lecture (# with link), Topic/description
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSubrvywcJ7EcNfhsobhckXfRGvEAxZBmrTlN2BHar5F5RFM0g18JqwoowBo5_wjczJqWtKwBdyMzDc/pubhtml?widget=true&amp;headers=false"></iframe>
 
 # Syllabus 
 
