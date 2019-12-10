@@ -20,21 +20,9 @@ _**(I suspect that the initial learning curve will be steep, so I have posted a 
 
 # Key Links
 
-[asignment](_assignments/ASGN01.md)
-
-try now
-
-[asgn2](ASGN02.md)
-
-try this one
-
-[asgn3](assignments/ASGN03.md)
-
-try thiiiiis one - no hyphen in subfolder name
-
 - [Schedule and lecture materials](#schedule-and-lecture-materials)
 - [Syllabus](#syllabus)
-- Assignments (the assignment website has instructions for each assignment and related peer reviews) (link to page **xxxxxxxxxx**)
+- [Assignments](assignments/assignments.md)
 - Need help? Resources for when you are stuck (stack overflow, peers, our github, google, then me) (link to page **xxxxxxxxxx**)
 
 # Schedule and lecture materials
