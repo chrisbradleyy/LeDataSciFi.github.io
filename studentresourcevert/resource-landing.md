@@ -18,13 +18,15 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 ### Python
 - [A whirlwind tour of python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [datacamp.com](datacamp.com) has many self guided lessons
-- [Python cheat sheet](https://github.com/QuantEcon/QuantEcon.cheatsheet/blob/master/python/python-cheatsheet.pdf), note there are many, many more online, including:
-  - []()
-  - [pandas](https://python-graph-gallery.com/wp-content/uploads/Pandas_Cheat_Datacamp.png)
-  - [matplotlib](https://python-graph-gallery.com/wp-content/uploads/Matplotlib_cheatsheet_datacamp.png)
-  - [seaborn](https://python-graph-gallery.com/wp-content/uploads/Seaborn_Cheatsheet_Datacamp.png)
-  - [a link](/img/seaborn.pdf)
-  - <a href="img/seaborn.pdf" class="image fit">Seaborn, pdf</a>	
+- [Python cheat sheet](https://github.com/QuantEcon/QuantEcon.cheatsheet/blob/master/python/python-cheatsheet.pdf), note there are many, many more online, including these from datacamp.com:
+  - [python basics](/img/pythonbasics.pdf)
+  - [jupyter notebook](/img/jupyternotebook.pdf)
+  - [importing data](/img/importingdata.pdf)
+  - [numpy](/img/numpy.pdf)
+  - [pandas basics](/img/pandasbasics.pdf) and [more on pandas](/img/pandas.pdf) 
+  - [matplotlib](/img/matplotlib.pdf)
+  - [scitkit-learn](/img/scitkit-learn.pdf)
+  - [seaborn](/img/seaborn.pdf)
 
 ### Data Science (broad)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
