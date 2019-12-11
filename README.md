@@ -2,7 +2,7 @@
 
 - obtain, explore, groom, visualize, and analyze data
 - make all of that reproducible, reusable, and shareable 
-- in python, with applications in finance  
+- in python, with applications in finance   
 
 ###  Donald Bowen
 Office: RBC 460
