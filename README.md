@@ -18,14 +18,7 @@ Office: RBC 460
 - Fri 2-3pm
 _**(I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the Stuck Resources (link to it **xxxxxxxxxx**)
 
-# Key Links
-
-- [Schedule and lecture materials](#schedule-and-lecture-materials)
-- [Syllabus](#syllabus)
-- [Assignments](assignments/assignments.md)
-- Need help? Procedures and resources for when you are stuck (procedure: readme/help functions, py documentation, stack overflow, peers, our github, google, then me) (link to page **xxxxxxxxxx**)
-
-# Schedule and lecture materials
+# Schedule
 
 Put a schedule table here. Would be great if it dynamically highligts/emphasizes next valid date.
 
