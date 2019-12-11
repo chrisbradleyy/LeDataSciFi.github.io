@@ -9,7 +9,7 @@ Here is the sequence of steps you might follow, although the exact things you do
 
 procedure: readme/help functions, py documentation, stack overflow, peers, our github, google, then me
 
-## Resources
+# Resources
 
 ### The standbys
 - Google, Stack Overflow, [Github help](https://help.github.com), [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/running.html), [Python help](https://www.python.org/doc/): can't be beat
@@ -34,22 +34,23 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 - Again... [Coding best practices, and project management](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml)
 - [The most thorough yet simple walkthrough of Git and Github use on the web](https://happygitwithr.com). Applies to python use for the most part. 
   
-### Places to get data and practice ML
-- [Some are built-into python packages, like scikit](https://scikit-learn.org/stable/datasets/index.html), which has data on Boston real estate, wine, a larger california housing dataset 
+### Data, and practice ML
+- [Scikit (python package) can read in some data](https://scikit-learn.org/stable/datasets/index.html), which has data on Boston real estate, wine, a larger california housing dataset 
+- [Pandas can read in a LOT of useful data!](https://pandas-datareader.readthedocs.io/en/latest/readers/index.html) **Data providers include: Federal Reserve, Ken French, NASDAQ, OECD, Qunadl, TSP, World Bank, and more!**
 - [ML competitions with serious prizes at drivendata.org](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/)
   - [This comp was interesting](https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/page/99/). You could start trying [to analyze it here](http://drivendata.co/blog/worldbank-poverty-benchmark/). This has a good example of the process you might follow. After you're done, you can see [the winner's code and discussion of the winning approach](https://github.com/drivendataorg/pover-t-tests/tree/9a1918856c5e6ee537caed103eb80dabefb2fe44)  
 - **[kaggle.com](kaggle.com) has ML competitions, some FAQs, tutorials, data and competitions*
   - [Real estate data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), a tutorial [exploring that data](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python), and a [pass at a model](https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset)
   - Philly based data would be fun. Here is [real estate, one option for data, seems ok, N=805](https://www.kaggle.com/harry007/philly-real-estate-data-set-sample)
-	- [Predict box office for movies](https://www.kaggle.com/c/tmdb-box-office-prediction). VaultML claims they can do this by reading the screenplays and using textual analysis tools
+  - [Predict box office for movies](https://www.kaggle.com/c/tmdb-box-office-prediction). VaultML claims they can do this by reading the screenplays and using textual analysis tools
   - [Wine, but not necessarily the best data source](https://www.kaggle.com/zynicide/wine-reviews)
 - [UC Irvine has a data repo](https://archive.ics.uci.edu/ml/index.php), some of these are available via scikit package
   - [Predicting where the wine is from (wine/location](https://archive.ics.uci.edu/ml/datasets/Wine) <--- easy starter challenge (where is the wine from?)
   - [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
-  - [german credit data by person](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+  - [German credit data by person](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
 
 ### Some books you might look for
 - [Signal and the Noise, by Nate Silver](https://www.amazon.com/gp/product/159420411X)
+- [Range, by David Epstein](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) is a very interesting book generally, and it touches on prediction skill too
 - [Superforecasters](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
   - A decent [free summary](https://medium.com/west-stringfellow/superforecasting-the-art-and-science-of-prediction-review-and-summary-e075be35a936)
-- [Range, by David Epstein](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) is a very interesting book generally, and it touches on prediction skill too
