@@ -11,11 +11,14 @@ Office: RBC 460
 1. TuThu 135pm-250pm in **xxxxxxxxxx**
 1. TuThu 3pm-415pm in **xxxxxxxxxx**
 
-<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <s>Office hours</s>, actually let's call these...
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <b><s>Office hours</s></b>, actually let's call these...
 </p>
 
-### Student drop-in hours, subject to change: 
+### Student drop-in hours: 
+**These are subject to change, so please check back!
+
 **I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the resources in the [Stuck? tab](https://ledatascifi.github.io/studentresourcevert/resource-landing.html).
+
 - Tu 10am-11am
 - Wed 4pm-5pm
 - Thu 10am-11am
