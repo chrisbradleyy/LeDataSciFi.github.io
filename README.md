@@ -55,47 +55,13 @@ what we're going to do with the data. producing and improving a model. applied e
 understanding the how "data analysis/ML/<<buzz word #51>>" fit into the bigger picture of producing and using knowledge. to quote Prof Gunther: data < info < knowledge < wisdom
 learning from the model:  what does the output of my analysis mean? (A and B are related, but **WHY**) 	
 
-##
+# FAQ
 
-## Acknowledgments / License
+Always evolving. Check back often.
+
+# Acknowledgments / License
 
 This course draws on great work, including, but not limited to:
-- **xxxxxxxxxx**
-- 
-- 
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/LeDataSciFi/LeDataSciFi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered 
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+- The [STAT545](https://stat545.stat.ubc.ca) course at UBC initially developed by Jenny Bryan and its [companion site](https://happygitwithr.com/) detailing how to set up a Git/Github workflow with R
+- The [Python Data Science Notebook](https://jakevdp.github.io/PythonDataScienceHandbook/) 
+- Grant McDermott's [EC607](https://github.com/uo-ec607/lectures) course at Oregon 
