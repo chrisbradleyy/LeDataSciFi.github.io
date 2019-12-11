@@ -11,7 +11,7 @@ Office: RBC 460
 1. TuThu 135pm-250pm in **xxxxxxxxxx**
 1. TuThu 3pm-415pm in **xxxxxxxxxx**
 
-<p style="font-size:24px; line-height:1.1; color:#393939; margin:0 0 10px;">  <s>Office hours</s>, actually let's call these...
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <s>Office hours</s>, actually let's call these...
 </p>
 
 ### Student drop-in hours, subject to change: 
@@ -19,7 +19,8 @@ Office: RBC 460
 - Wed 4pm-5pm
 - Thu 10am-11am
 - Fri 2-3pm
-_**(I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the Stuck Resources (link to it **xxxxxxxxxx**)
+
+**(I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the Stuck Resources (link to it **xxxxxxxxxx**)
 
 # Schedule
 
@@ -28,6 +29,8 @@ Put a schedule table here. Would be great if it dynamically highligts/emphasizes
 Items in table: Date, Lecture (# with link), Topic/description
 
 <iframe width="402" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B6491313208C1D5B%21111&authkey=%21ANz3fPzmwJ1uA4A&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AC42&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
+
 
 # Syllabus 
 
