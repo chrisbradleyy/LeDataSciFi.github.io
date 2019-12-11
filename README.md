@@ -15,12 +15,12 @@ Office: RBC 460
 </p>
 
 ### Student drop-in hours, subject to change: 
+**I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the resources in the [Stuck? tab](https://ledatascifi.github.io/studentresourcevert/resource-landing.html).
 - Tu 10am-11am
 - Wed 4pm-5pm
 - Thu 10am-11am
 - Fri 2-3pm
 
-**(I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the Stuck Resources (link to it **xxxxxxxxxx**)
 
 # Schedule
 
@@ -31,6 +31,7 @@ Items in table: Date, Lecture (# with link), Topic/description
 <iframe width="402" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B6491313208C1D5B%21111&authkey=%21ANz3fPzmwJ1uA4A&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AC42&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 
+<p style="margin-bottom:3cm;"></p> <!-- a blank line for spacing-->
 
 # Syllabus 
 
