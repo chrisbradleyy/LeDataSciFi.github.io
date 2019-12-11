@@ -7,14 +7,14 @@
 ###  Donald Bowen
 Office: RBC 460
 
-### Class Meetings: 
+### Class Meetings 
 1. TuThu 135pm-250pm in **xxxxxxxxxx**
 1. TuThu 3pm-415pm in **xxxxxxxxxx**
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <b><s>Office hours</s>, actually let's call these...</b>
 </p>
 
-### Student drop-in hours: 
+### Student drop-in hours
 **These are subject to change, so please check back!**
 
 **I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the resources in the [Stuck? tab](https://ledatascifi.github.io/studentresourcevert/resource-landing.html).**
@@ -34,7 +34,7 @@ Items in table: Date, Lecture (# with link), Topic/description
 <iframe width="402" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B6491313208C1D5B%21111&authkey=%21ANz3fPzmwJ1uA4A&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AC42&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 
-<p style="margin-bottom:3cm;"></p> <!-- a blank line for spacing-->
+<p style="margin-bottom:.75cm;"></p> <!-- a blank line for spacing-->
 
 # Syllabus 
 
