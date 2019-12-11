@@ -31,7 +31,7 @@ Items in table: Date, Lecture (# with link), Topic/description
 (1) project management and programming golden rules, 
 
 organized workflows and good programming habits reduce errors, increase speed, and make it easier for others to read it (including yourself when you look at the code 8 months later)
-portable code is better, too 	
+portable code is better, too 	 
 intro to programming	
 oh: working "asynchronously" on group projects is a way of life in 21st century jobs, we're going to learn how to do that with more productively* and with fewer headaches**
 
