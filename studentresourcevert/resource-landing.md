@@ -20,6 +20,7 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 - [datacamp.com](datacamp.com) has many self guided lessons
 - [Python cheat sheet](https://github.com/QuantEcon/QuantEcon.cheatsheet/blob/master/python/python-cheatsheet.pdf), note there are many, many more online, including these from datacamp.com:
   - [python basics](/img/pythonbasics.pdf)
+  - [python basics](/img/pythonbasics.pdf)
   - [jupyter notebook](/img/jupyternotebook.pdf)
   - [importing data](/img/importingdata.pdf)
   - [numpy](/img/numpy.pdf)
