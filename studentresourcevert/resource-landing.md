@@ -25,10 +25,11 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 - [Probably the best collection of Python noteooks on the web](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 ### Data visualization
+- **[Kaggle's Data viz tutorial](https://www.kaggle.com/residentmario/welcome-to-data-visualization) is excellent**. It has reproducible code and data, using python. 
+- [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) is excellent as well.
 - [STAT545 on good visualization](https://stat545.com/effective-graphs.html)
 - [Data Visualization: A practical introduction, by Kieran Healy](https://socviz.co/lookatdata.html#lookatdata) especially discusses the "whys" of visualization in a smart way. The walkthroughs are in R, not python, however. 
 - [Some good data viz blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)
-- **[Kaggle's Data viz tutorial](https://www.kaggle.com/residentmario/welcome-to-data-visualization) is excellent**. It has reproducible code and data, using python. 
 
 ### Github, Git, and Version control
 - [Getting started on GitHub](https://guides.github.com/activities/hello-world/) and a twitter length [description of how a project flows](https://help.github.com/en/articles/github-glossary) 
