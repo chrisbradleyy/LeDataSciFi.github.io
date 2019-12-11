@@ -32,7 +32,7 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 
 ### Data Science (broad)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Probably the best collection of Python noteooks on the web](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+- [Probably the best collection of Python notebooks on the web](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 ### Data visualization
 - **[Kaggle's Data viz tutorial](https://www.kaggle.com/residentmario/welcome-to-data-visualization) is excellent**. It has reproducible code and data, using python. 
