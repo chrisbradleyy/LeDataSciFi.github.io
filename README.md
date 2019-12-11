@@ -71,7 +71,8 @@ Always evolving. Check back often.
 
 # Acknowledgments / License
 
-This course draws on great work, including, but not limited to:
+This course draws on great work, including:
 - The [STAT545](https://stat545.stat.ubc.ca) course at UBC initially developed by Jenny Bryan and its [companion site](https://happygitwithr.com/) detailing how to set up a Git/Github workflow with R
 - The [Python Data Science Notebook](https://jakevdp.github.io/PythonDataScienceHandbook/) 
 - Grant McDermott's [EC607](https://github.com/uo-ec607/lectures) course at Oregon 
+- Many other "dependencies" I appreciate are listed in the [Resources](https://ledatascifi.github.io/studentresourcevert/resource-landing.html) section 
