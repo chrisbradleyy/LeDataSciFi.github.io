@@ -11,7 +11,10 @@ Office: RBC 460
 1. TuThu 135pm-250pm in **xxxxxxxxxx**
 1. TuThu 3pm-415pm in **xxxxxxxxxx**
 
-### **~~Office hours~~ Student drop-in hours, subject to change**: 
+<p style="font-size:24px; line-height:1.1; color:#393939; margin:0 0 10px;">  <s>Office hours</s>, actually let's call these...
+</p>
+
+### Student drop-in hours, subject to change: 
 - Tu 10am-11am
 - Wed 4pm-5pm
 - Thu 10am-11am
