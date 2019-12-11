@@ -18,7 +18,7 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 ### Python
 - [A whirlwind tour of python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [datacamp.com](datacamp.com) has many self guided lessons
-- [Python cheat sheet](https://github.com/QuantEcon/QuantEcon.cheatsheet/blob/master/python/python-cheatsheet.pdf), note there are many, many more online, including these from datacamp.com:
+- Cheat sheets. There are many, many online, including these from datacamp.com:
   - [python basics](/img/pythonbasics.pdf)
   - [python basics](/img/pythonbasics.pdf)
   - [jupyter notebook](/img/jupyternotebook.pdf)
@@ -28,6 +28,7 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
   - [matplotlib](/img/matplotlib.pdf)
   - [scitkit-learn](/img/scitkit-learn.pdf)
   - [seaborn](/img/seaborn.pdf)
+  
 
 ### Data Science (broad)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
