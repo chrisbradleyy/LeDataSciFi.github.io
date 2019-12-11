@@ -20,13 +20,15 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 - [datacamp.com](datacamp.com) has many self guided lessons
 - [Python cheat sheet](https://github.com/QuantEcon/QuantEcon.cheatsheet/blob/master/python/python-cheatsheet.pdf), note there are many, many more online
 
-### Data Science
+### Data Science (broad)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Probably the best collection of Python noteooks on the web](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+### Data visualization
 - [STAT545 on good visualization](https://stat545.com/effective-graphs.html)
-- [Some good data vix blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)
-- **[Kaggle's Data viz tutorial](https://www.kaggle.com/residentmario/welcome-to-data-visualization) is excellent**. It has reproducible code and data, using python. 
 - [Data Visualization: A practical introduction, by Kieran Healy](https://socviz.co/lookatdata.html#lookatdata) especially discusses the "whys" of visualization in a smart way. The walkthroughs are in R, not python, however. 
+- [Some good data viz blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)
+- **[Kaggle's Data viz tutorial](https://www.kaggle.com/residentmario/welcome-to-data-visualization) is excellent**. It has reproducible code and data, using python. 
 
 ### Github, Git, and Version control
 - [Getting started on GitHub](https://guides.github.com/activities/hello-world/) and a twitter length [description of how a project flows](https://help.github.com/en/articles/github-glossary) 
