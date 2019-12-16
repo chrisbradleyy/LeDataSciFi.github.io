@@ -108,6 +108,10 @@ Items in table: Date, Lecture (# with link), Topic/description
 
 ### Grading:
 
+<p style="padding-right: 20px;">10%</p> Partication <br>
+<p style="padding-right: 20px;">1</p> Partication <br>
+
+
 <table>
   <tr>
     <td>10%</td>
