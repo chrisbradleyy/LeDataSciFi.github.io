@@ -87,7 +87,7 @@ Items in table: Date, Lecture (# with link), Topic/description
 - understanding the how "data analysis/ML/<<buzz word #51>>" fit into the bigger picture of producing and using knowledge.* to quote Prof Gunther: data < info < knowledge < wisdom
 - learning from the model:  what does the output of my analysis mean? (A and B are related, but **WHY**) 	
 
-\*_"A few times a year, I get asked to be a judge of student statistical projects in politics or sports. While the students are very bright, they spend WAY too much time using fancy statistical methods and not enough time framing the right questions and contextualizing their answers. If you want to be a good data scientist, you should spend ~49% of your time developing your statistical intuition (i.e. how to ask good questions of the data), and ~49% of your time on domain knowledge (improving overall understanding of your field). Only ~2% on methods per se." - Nate Silver
+\* _"A few times a year, I get asked to be a judge of student statistical projects in politics or sports. While the students are very bright, they spend WAY too much time using fancy statistical methods and not enough time framing the right questions and contextualizing their answers. If you want to be a good data scientist, you should spend ~49% of your time developing your statistical intuition (i.e. how to ask good questions of the data), and ~49% of your time on domain knowledge (improving overall understanding of your field). Only ~2% on methods per se."_ - Nate Silver
 
 <b> Outputs: </b>
 
