@@ -1,5 +1,5 @@
 # FIN377 - Lehigh's Data Science for Finance
-<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
   <b>Spring 2020</b>
 <br>
   <b>Professor Donald Bowen</b>
@@ -8,13 +8,17 @@ Office: RBC 460 <br>
 Phone: Not the way to get a hold of me <br>
 Email: deb219 
 
-### Objective
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+ Objectives, briefly
+</p>
 1. obtain, explore, groom, visualize, and analyze data
 2. make all of that reproducible, reusable, and shareable 
 
 (1) puts the world of data at your fingertips, (2) makes the essential task of collaboration &mdash; a must in (complicated and large) real-world projects &mdash; easier. We will work in **Python**, and work on applying the lessons to financial problems. 
 
-### Class Meetings 
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+ Class Meetings
+</p>
 1. TuThu 135pm-250pm in STEPS 290
 1. TuThu 3pm-415pm in STEPS 290
 
@@ -22,7 +26,6 @@ Email: deb219
 </p>
 
 ### Student Drop-in Hours
-**These are subject to change, so please check back!**
 
 **I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the resources in the [Resources and Help tab](https://ledatascifi.github.io/studentresourcevert/resource-landing.html).**
 
@@ -30,6 +33,8 @@ Email: deb219
 - Wed 4pm-5pm
 - Thu 10am-11am
 - Fri 2-3pm
+
+**These are subject to change, so please check back!** 
 
 
 # Schedule
@@ -45,52 +50,68 @@ Items in table: Date, Lecture (# with link), Topic/description
 
 # Syllabus 
 
-(1) project management and programming golden rules, 
+### Objectives, in more detail 
+
+<b> (1) project management and programming golden rules, </b>
 
 - organized workflows and good programming habits reduce errors, increase speed, and make it easier for others to read it (including yourself when you look at the code 8 months later)
 - portable code is better, too 	 
 - intro to programming	
-- oh: working "asynchronously" on group projects is a way of life in 21st century jobs, we're going to learn how to do that with - more productively* and with fewer headaches**
+- oh: working "asynchronously" on group projects is a way of life in 21st century jobs, we're going to learn how to do that more productively* and with fewer headaches**
 
-* = $$$, and ** = :)
+\* = $$$, and ** = :)
 
-(2) Python (our programming language), Anaconda and Spyder - how we will use python
+<b> (2) our data science "stack" </b>
 
-(3) data cleaning and organization 
+- Python: Loaded via Anaconda, and coding in Jupyter (and Spyder when it suits the task)
+- Github: Sharing and storing code, data, and reports + collaboration.
+- Git: Version control system. "Like" Google Docs or "track changes" in Microsoft word, but built for software projects that teams work on.  
+
+<b> (3) data cleaning and organization  </b>
 
 - some data will be given to you and well organized.
 - but much of the data that will be given to you will be poorly organized.
 - we are going to learn good dataset habits
-
-(4) web crawling and data scraping
+ 
+<b> (4) web crawling and data scraping </b>
 
 - some data will be given to you.
 - but most of the world's data is uncollected and unorganized (despite google's best efforts)
 - finding and using that data - that's where we make our money	
 
-(5) prediction models and data analysis
+<b> (5) prediction models and data analysis </b>
 
 - what we're going to do with the data. producing and improving a model. applied econometrics (ie more conceptual than mathematical rigor) to understand and improve the output
 - understanding the how "data analysis/ML/<<buzz word #51>>" fit into the bigger picture of producing and using knowledge. to quote Prof Gunther: data < info < knowledge < wisdom
 - learning from the model:  what does the output of my analysis mean? (A and B are related, but **WHY**) 	
 
-### Student Senate Statement on Academic Integrity
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+ Student Senate Statement on Academic Integrity
+</p>
 
 We, the Lehigh University Student Senate, as the standing representative body of all undergraduates, reaffirm the duty and obligation of students to meet and uphold the highest principles and values of personal, moral and ethical conduct. As partners in our educational community, both students and faculty share the responsibility for promoting and helping to ensure an environment of academic integrity. As such, each student is expected to complete all academic course work in accordance to the standards set forth by the faculty and in compliance with the University's Code of Conduct.
 
-### More on Academic Integrity 
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+ More on Academic Integrity 
+</p>
 
 The work you do in this course must be your own. **This means that you must be aware when you are building on someone else's ideas—including  the ideas of your classmates, your professor, and the authors you read—and explicitly acknowledge when you are doing so.** Feel free to build on, react to, criticize, and analyze the ideas of others but, when you do, make it known whose ideas you are working with. If you ever have questions about drawing the line between others' work and your own, ask me and I will give you clear guidance or you may visit Lehigh Library’s ‘Proper Use of Information’ page at http://libraryguides.lehigh.edu/plagiarism 
 
-### The Principles of Our Equitable Community
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+ The Principles of Our Equitable Community 
+</p>
 
 The Principles of Our Equitable Community:  Lehigh University endorses [The Principles of Our Equitable Community](www.lehigh.edu/diversity). We expect each member of this class to acknowledge and practice these Principles. Respect for each other and for differing viewpoints is a vital component of the learning environment inside and outside the classroom.
 
-### Accommodations for Students with Disabilities
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+ Accommodations for Students with Disabilities 
+</p>
 
 Lehigh University is committed to maintaining an equitable and inclusive community and welcomes students with disabilities into all of the University’s educational programs.  In order to receive consideration for reasonable accommodations, a student with a disability must contact Disability Support Services (DSS), provide documentation, and participate in an interactive review process.  If the documentation supports a request for reasonable accommodations, DSS will provide students with a Letter of Accommodations. Students who are approved for accommodations at Lehigh should share this letter and discuss their accommodations and learning needs with instructors as early in the semester as possible.  For more information or to request services, please contact Disability Support Services in person in Williams Hall, Suite 301, via phone at 610-758-4152, via email at [indss@lehigh.edu](mailto:indss@lehigh.edu), or online at [https://studentaffairs.lehigh.edu/disabilities]().
 
-### Lehigh University Policy on Harassment and Non-Discrimination
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+Lehigh University Policy on Harassment and Non-Discrimination
+</p>
 
 Lehigh University upholds The Principles of Our Equitable Community and is committed to providing an educational, working, co-curricular, social, and living environment for all students, staff, faculty, trustees, contract workers, and visitors that is free from harassment and discrimination on the basis of age, color, disability, gender identity or expression, genetic information, marital or familial status, national or ethnic origin, race, religion, sex, sexual orientation, or veteran status.  Such harassment or discrimination is unacceptable behavior and will not be tolerated. The University strongly encourages (and, depending upon the circumstances, may require) students, faculty, staff or visitors who experience or witness harassment or discrimination, or have information about harassment or discrimination in University programs or activities, to immediately report such conduct. 
 
