@@ -108,31 +108,6 @@ Items in table: Date, Lecture (# with link), Topic/description
 
 ### Grading:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <td class="tg-0lax">10%</td>
-    <td class="tg-0lax">Participation</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><br>50%</td>
-    <td class="tg-0lax">Assignments</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">15%</td>
-    <td class="tg-0lax">Peer review</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">25%</td>
-    <td class="tg-0lax">Final Project</td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td>10%</td>
