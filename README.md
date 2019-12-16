@@ -85,6 +85,31 @@ Items in table: Date, Lecture (# with link), Topic/description
 - understanding the how "data analysis/ML/<<buzz word #51>>" fit into the bigger picture of producing and using knowledge. to quote Prof Gunther: data < info < knowledge < wisdom
 - learning from the model:  what does the output of my analysis mean? (A and B are related, but **WHY**) 	
 
+<b> Outputs: </b>
+
+1. Use all methods above in one project that can be on your resume +  teaches peers/myself + demonstrates accumulated finance knowledge + (BONUS) shows off ability to deliver reports/work product that bosses 
+2. Your resume can now list several new skills employers pay $$$ for
+3. Your resume can now list a completed project showing off those skills (which employers pay $$$ for)
+4. Experience you can take to interviews
+
+### Practical Matters and Expectations
+
+- **I expect students to attend all classes.** It is crucial to learning the content in this class, but also for hearing announcements and course changes. _Remember: This class is brand new, so things are liable to change. If you don't attend class, you will be offguard or unaware of developments I announce verbally._ 
+- Please bring your laptops to class. This will be a very hands-on course, with relatively little in the way of formal theory. Instead, we’ll be working through lecture notes together in class and you’ll be running code on your own machines. 
+- **Participation is essential for understanding and integrating the material.** All students should be willing to volunteer answers, speculation, and argue for different approaches. Students should engage with hypotheticals in discussions, and be working on the code of the moment when called. Participation grade is based on: (1) submitted codes developed during class, (2) preparation when cold-called, and (3) volunteering answers. Please don't over-volunteer: I will cap credit at a point. 
+- **The whole class is run off this website and GitHub. GitHub is how we'll submit assignmnts, provide feedback, receive grades, etc.**  You'll learn how this works as the semester procedes. 
+- All resources and software required for this course are open-source and/or free. :)
+- "**Taking a step back, one of the goals of this course is to make you aware of the incredible array of instruction material that is freely available online.** I also want to encourage you to be entrepreneurial. In that spirit, many of the lectures will follow a tutorial on someone’s blog tutorial, or involve reproducing an existing study with open source tools." -Grant McDermott
+- Later on, the class will involve group work. I'll describe this when the time comes.
+
+### Grading:
+
+|-----|---------------|
+|     | Final Project |
+|     | Assignments   |
+| 10% | Participation |
+|-----|---------------|
+
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;"> <b> <!-- makes it like H3 -->
  Student Senate Statement on Academic Integrity
 </b></p>
