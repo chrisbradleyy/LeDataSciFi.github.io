@@ -109,34 +109,12 @@ Items in table: Date, Lecture (# with link), Topic/description
 ### Grading
 
 <style>
-.tab {position:absolute;left:250px; }
+.tab {position:absolute;left:75px; }
 </style>
 <p>10%<span class="tab">Partication</span></p>
-<p>1rrr<span class="tab">Partication</span></p>
-<p>1<span class="tab">Partication</span></p>
-
-<p style="padding-right: 20px;">10%</p> Partication <br>
-<p style="padding-right: 20px;">1</p> Partication <br>
-
-
-<table>
-  <tr>
-    <td>10%</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td><br>50%</td>
-    <td>Assignments</td>
-  </tr>
-  <tr>
-    <td>15%</td>
-    <td>Peer review</td>
-  </tr>
-  <tr>
-    <td>25%</td>
-    <td>Final Project</td>
-  </tr>
-</table>
+<p>50%<span class="tab">Assignments</span></p>
+<p>15%<span class="tab">Peer review</span></p>
+<p>25%<span class="tab">Final Project</span></p>
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;"> <b> <!-- makes it like H3 -->
  Student Senate Statement on Academic Integrity
