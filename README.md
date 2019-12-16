@@ -52,7 +52,7 @@ Items in table: Date, Lecture (# with link), Topic/description
 
 ### Objectives, in more detail 
 
-<b> (1) project management and programming golden rules, </b>
+<b> (1) project management and programming golden rules>
 
 - organized workflows and good programming habits reduce errors, increase speed, and make it easier for others to read it (including yourself when you look at the code 8 months later)
 - portable code is better, too 	 
@@ -64,13 +64,15 @@ Items in table: Date, Lecture (# with link), Topic/description
 <b> (2) our data science "stack" </b>
 
 - Python: Loaded via Anaconda, and coding in Jupyter (and Spyder when it suits the task)
-- Github: Sharing and storing code, data, and reports + collaboration.
-- Git: Version control system. "Like" Google Docs or "track changes" in Microsoft word, but built for software projects that teams work on.  
+- Github: Sharing and storing code, data, and reports + collaboration
+- Git: Version control system. Can think of it like Google Docs or "track changes" in Microsoft Word, but built for software projects that teams work on.  
 
-<b> (3) data cleaning and organization  </b>
+<b> (3) data: cleaning, exploring, visualizing and organizing  </b>
 
-- some data will be given to you and well organized.
-- but much of the data that will be given to you will be poorly organized.
+- some data will be given to you and well organized
+- but much of the data that will be given to you will be poorly organized
+- so we need to know how to explore it (both to clean it and learn from it)
+- tables will help you understand data, but visuals are usually better
 - we are going to learn good dataset habits
  
 <b> (4) web crawling and data scraping </b>
@@ -82,8 +84,10 @@ Items in table: Date, Lecture (# with link), Topic/description
 <b> (5) prediction models and data analysis </b>
 
 - what we're going to do with the data. producing and improving a model. applied econometrics (ie more conceptual than mathematical rigor) to understand and improve the output
-- understanding the how "data analysis/ML/<<buzz word #51>>" fit into the bigger picture of producing and using knowledge. to quote Prof Gunther: data < info < knowledge < wisdom
+- understanding the how "data analysis/ML/<<buzz word #51>>" fit into the bigger picture of producing and using knowledge.* to quote Prof Gunther: data < info < knowledge < wisdom
 - learning from the model:  what does the output of my analysis mean? (A and B are related, but **WHY**) 	
+
+\*_"A few times a year, I get asked to be a judge of student statistical projects in politics or sports. While the students are very bright, they spend WAY too much time using fancy statistical methods and not enough time framing the right questions and contextualizing their answers. If you want to be a good data scientist, you should spend ~49% of your time developing your statistical intuition (i.e. how to ask good questions of the data), and ~49% of your time on domain knowledge (improving overall understanding of your field). Only ~2% on methods per se." - Nate Silver
 
 <b> Outputs: </b>
 
@@ -104,12 +108,49 @@ Items in table: Date, Lecture (# with link), Topic/description
 
 ### Grading:
 
-|-----|---------------|
-| 10% | Participation |
-| 50% | Assignments   |
-| 15% | Peer Reviews  |
-| 25% | Final Project |
-|-----|---------------|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <td class="tg-0lax">10%</td>
+    <td class="tg-0lax">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><br>50%</td>
+    <td class="tg-0lax">Assignments</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15%</td>
+    <td class="tg-0lax">Peer review</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">25%</td>
+    <td class="tg-0lax">Final Project</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>10%</td>
+    <td>Participation</td>
+  </tr>
+  <tr>
+    <td><br>50%</td>
+    <td>Assignments</td>
+  </tr>
+  <tr>
+    <td>15%</td>
+    <td>Peer review</td>
+  </tr>
+  <tr>
+    <td>25%</td>
+    <td>Final Project</td>
+  </tr>
+</table>
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;"> <b> <!-- makes it like H3 -->
  Student Senate Statement on Academic Integrity
