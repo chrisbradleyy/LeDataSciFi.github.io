@@ -106,7 +106,14 @@ Items in table: Date, Lecture (# with link), Topic/description
 - "**Taking a step back, one of the goals of this course is to make you aware of the incredible array of instruction material that is freely available online.** I also want to encourage you to be entrepreneurial. In that spirit, many of the lectures will follow a tutorial on someone’s blog tutorial, or involve reproducing an existing study with open source tools." -Grant McDermott
 - Later on, the class will involve group work. I'll describe this when the time comes.
 
-### Grading:
+### Grading
+
+<style>
+.tab {position:absolute;left:250px; }
+</style>
+<p>10%<span class="tab">Partication</span></p>
+<p>1rrr<span class="tab">Partication</span></p>
+<p>1<span class="tab">Partication</span></p>
 
 <p style="padding-right: 20px;">10%</p> Partication <br>
 <p style="padding-right: 20px;">1</p> Partication <br>
