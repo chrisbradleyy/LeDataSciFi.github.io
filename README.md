@@ -105,9 +105,10 @@ Items in table: Date, Lecture (# with link), Topic/description
 ### Grading:
 
 |-----|---------------|
-|     | Final Project |
-|     | Assignments   |
 | 10% | Participation |
+| 50% | Assignments   |
+| 15% | Peer Reviews  |
+| 25% | Final Project |
 |-----|---------------|
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;"> <b> <!-- makes it like H3 -->
