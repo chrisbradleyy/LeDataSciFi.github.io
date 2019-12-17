@@ -49,7 +49,7 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
   
 ### Data, and practice ML
 - [Scikit (python package) can read in some data](https://scikit-learn.org/stable/datasets/index.html), which has data on Boston real estate, wine, a larger california housing dataset 
-- [Pandas can read in a LOT of useful data!](https://pandas-datareader.readthedocs.io/en/latest/readers/index.html) **Data providers include: Federal Reserve, Ken French, NASDAQ, OECD, Qunadl, TSP, World Bank, and more!**
+- [Pandas can read in a LOT of useful data!](https://pandas-datareader.readthedocs.io/en/latest/readers/index.html) **Data providers include: Federal Reserve ("FRED"), Ken French, NASDAQ, OECD, Qunadl, TSP, World Bank, and more!**
 - [ML competitions with serious prizes at drivendata.org](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/)
   - [This comp was interesting](https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/page/99/). You could start trying [to analyze it here](http://drivendata.co/blog/worldbank-poverty-benchmark/). This has a good example of the process you might follow. After you're done, you can see [the winner's code and discussion of the winning approach](https://github.com/drivendataorg/pover-t-tests/tree/9a1918856c5e6ee537caed103eb80dabefb2fe44)  
 - **[kaggle.com](kaggle.com) has ML competitions, some FAQs, tutorials, data and competitions*
@@ -61,6 +61,7 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
   - [Predicting where the wine is from (wine/location](https://archive.ics.uci.edu/ml/datasets/Wine) <--- easy starter challenge (where is the wine from?)
   - [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
   - [German credit data by person](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- More good sources: <data.gov>, <data.census.gov>, <data.world>, <https://ourworldindata.org/> is incredible and [has many repos on Github](https://github.com/owid) including [one that imports data via python](https://github.com/owid/owid-importer), ...
 
 ### Some books you might look for
 - [Signal and the Noise, by Nate Silver](https://www.amazon.com/gp/product/159420411X)
