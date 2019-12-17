@@ -9,6 +9,11 @@ Phone: Not the way to get a hold of me <br>
 Email: deb219 
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
+ <b> TA - Daniel Appierto </b>
+</p>
+Email: dma220
+
+<p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> Objectives, briefly </b>
 </p>
 1. obtain, explore, groom, visualize, and analyze data
@@ -29,10 +34,15 @@ Email: deb219
 
 **I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the resources in the [Resources and Help tab](https://ledatascifi.github.io/studentresourcevert/resource-landing.html).**
 
+**In RBC 460, with Prof. Bowen:**
 - Tu 10am-11am
 - Wed 4pm-5pm
 - Thu 10am-11am
 - Fri 2-3pm
+
+**In _TBD_, with Mr. Appierto:**
+- TBD
+
 
 **These are subject to change, so please check back!** 
 
