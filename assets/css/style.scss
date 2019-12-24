@@ -34,7 +34,7 @@ nav {
 
         a {
           font-weight: bold;
-          color: #333;
+          color: #ffffff;
         }
 
         + .tag-h2 {
@@ -56,9 +56,9 @@ nav {
       &:hover { color: #FBDD40; }
     }
 
-     .active {
-       border-right:solid 4px #FBDD40;
-       padding-right:13px;
-     }
+    // .active {
+    //   border-right:solid 4px #FBDD40;
+    //   padding-right:13px;
+    // }
   }
 }
