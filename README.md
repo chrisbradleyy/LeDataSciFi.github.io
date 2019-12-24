@@ -4,7 +4,7 @@
 <br>
   <b>Professor Donald Bowen</b>
 </p>
-Office: RBC 460 <br>
+Office: RBC 460  <br>
 Phone: Not the way to get a hold of me <br>
 Email: deb219 
 
