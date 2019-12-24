@@ -5,7 +5,6 @@
   <b>Professor Donald Bowen </b>
 </p>
 Office: RBC 460  <br>
-Phone: Not the way to get a hold of me <br>
 Email: deb219 
 <br>
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
