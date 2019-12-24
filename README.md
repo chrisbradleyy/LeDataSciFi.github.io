@@ -8,8 +8,6 @@ Office: RBC 460  <br>
 Phone: Not the way to get a hold of me <br>
 Email: deb219 
 
-a change was made again
-
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> TA - Daniel Appierto </b>
 </p>
