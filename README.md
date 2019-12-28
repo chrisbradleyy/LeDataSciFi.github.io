@@ -29,7 +29,7 @@ Email: dma220
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <b><s>Office hours</s>, actually let's call these...</b>
 </p>
 
-### Student Drop-in Hours
+### Student Drop-in Hours 
 
 **I suspect that the initial learning curve will be steep, so I have posted a lot of office hours. Around Valentines Day, I will reduce my explicit office hours. Remember, when you get stuck, to check out the resources in the [Resources and Help tab](https://ledatascifi.github.io/studentresourcevert/resource-landing.html).**
 
