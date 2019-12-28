@@ -2,7 +2,7 @@
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
   <b>Spring 2020</b>
 <br>
-  <b>Professor Donald Bowen </b>
+  <b>Professor Donald Bowen  </b>
 </p>
 Office: RBC 460  <br>
 Email: deb219
