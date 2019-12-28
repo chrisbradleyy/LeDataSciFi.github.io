@@ -9,7 +9,7 @@ Here is the sequence of steps you might follow, although the exact things you do
 
 procedure: readme/help functions, py documentation, stack overflow, peers, our github, google, then me
 
-# Resources
+# Resources 
 
 ### The standbys
 - Google, Stack Overflow, [Github help](https://help.github.com), [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/running.html), [Python help](https://www.python.org/doc/): can't be beat
