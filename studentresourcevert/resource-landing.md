@@ -43,6 +43,16 @@ Once you have solved the problem (either by yourself or with the help of an inst
 - https://www.propublica.org/nerds/how-to-ask-programming-questions
 - https://cfss.uchicago.edu/faq/asking-questions/
 
+### A few more tricks to deal with getting stuck
+
+1. Stop coding! Take a quick break and clear your head.
+2. Get out a piece of paper and map out how to solve the problem using plain words (pseudocode).
+3. Add print statements everywhere (old school).
+4. Use %debug in IPython.
+5. Clear your head more substantive - go for a run, take a nap, get groceries. Returning to the code with a fresh eye will solve problems more often than you would believe. 
+6. Sleep! Coding tired is a sure way to make mistakes.  
+
+
 # Resources 
 
 ### The standbys
