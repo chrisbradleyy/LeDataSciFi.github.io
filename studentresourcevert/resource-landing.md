@@ -17,7 +17,9 @@ procedure: readme/help functions, py documentation, stack overflow, peers, our g
 
 ### Python
 - [A whirlwind tour of python](https://github.com/jakevdp/WhirlwindTourOfPython)
-- [datacamp.com](datacamp.com) has many self guided lessons
+- [datacamp.com](https://www.datacamp.com/) has many self guided lessons
+- Lessons 3 and 5 of the [official documentation](https://docs.python.org/3/tutorial/introduction.html)
+- [Dive Into Python](https://diveinto.org/python3/table-of-contents.html)
 - Cheat sheets. There are many, many online, including these from datacamp.com:
   - [python basics](/img/pythonbasics.pdf)
   - [python basics](/img/pythonbasics.pdf)
