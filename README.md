@@ -23,7 +23,7 @@ Email: dma220
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> Class Meetings </b>
 </p>
-1. TuThu 135pm-250pm in STEPS 290
+1. TuThu 135pm-250pm in STEPS 290 
 1. TuThu 3pm-415pm in STEPS 290
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <b><s>Office hours</s>, actually let's call these...</b>
