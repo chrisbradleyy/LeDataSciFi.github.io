@@ -2,7 +2,7 @@
 
 ## Are you stuck on something? 
 
-Here is the sequence of steps you might follow, although the exact things you do obviously will depend on the task:
+We all get stuck sometimes.  Here is the sequence of steps you might follow, although the exact things you do obviously will depend on the task:
 1. Help functions and Python documentation
 1. Search Google/Stack Overflow. Stack Overflow in particular is where the programming community asks and answers questions. 
 1. Ask your peers - either in person or by posting an issue in the [class discussion repo page](https://github.com/LeDataSciFi/Discussion) - and other programmers on Stack Overflow. 
@@ -17,6 +17,15 @@ Asking questions (steps 3-5 above) is an important part of this class! I'm borro
 ### How to properly ask for help
 
 This section applies to Stack Overflow, our discussion repo, and if you follow this, office hours will be more efficient too. Coders expect other programmers will try the obvious (documentation, and previous Stack Overflow threads) and then follow these tips so the community can answer effectively and efficiently. 
+
+Making your question _effective_ is an art. To make your question effective, the idea is to make things as easy as possible for someone to answer. 
+
+- Will they have to dig to find a resource you're talking about, or do you provide links?
+- If your code isn't doing what you expect, or you don't know how to obtain an output, do you provide a [__reproducible example__](https://stackoverflow.com/help/minimal-reproducible-example) (aka "reprex")?
+  - Ideally, someone should be able to copy and paste a chunk of code to reproduce the problem you are talking about.
+- Is your reproducible example _minimal_, meaning you've removed all the unnecessary parts to reproduce the problem?
+
+You'll probably find that the act of writing an effective question causes you to answer your own question! So, here are the elements of a good question:
 
 **# 1: Introduce the problem with an informative title**
 
