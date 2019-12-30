@@ -43,7 +43,7 @@ If you miss class, you can still do the activities another time. Again, the poin
 ## Your repo should include:
 
 1. Live coding worksheet from "Jupyter Basics" lecture. Call this `02 jupyter basics`.
-2. More to come...
+2. More to come... 
 
 ## Acknowledgments 
 
