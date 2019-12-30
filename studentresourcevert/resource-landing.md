@@ -64,6 +64,7 @@ Once you have solved the problem (either by yourself or with the help of an inst
 - [datacamp.com](https://www.datacamp.com/) has many self guided lessons
 - Lessons 3 and 5 of the [official documentation](https://docs.python.org/3/tutorial/introduction.html)
 - [Dive Into Python](https://diveinto.org/python3/table-of-contents.html)
+- [This has to be the best list of Python resources on the internet](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python).
 - Cheat sheets. There are many, many online, including these from datacamp.com:
   - [python basics](/img/pythonbasics.pdf)
   - [python basics](/img/pythonbasics.pdf)
