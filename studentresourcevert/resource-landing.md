@@ -5,7 +5,7 @@
 Here is the sequence of steps you might follow, although the exact things you do obviously will depend on the task:
 1. Help functions and Python documentation
 1. Search Google/Stack Overflow. Stack Overflow in particular is where the programming community asks and answers questions. 
-1. Ask your peers - either in person or on the class discussion repo page - and other programmers on Stack Overflow by posting a question. 
+1. Ask your peers - either in person or by posting an issue in the [class discussion repo page](https://github.com/LeDataSciFi/Discussion) - and other programmers on Stack Overflow. 
 1. The TA's office hours
 1. My office hours or email. I've listed myself last because, although I'm happy to help (I am!), I can't actually debug for 60+ students.
 
