@@ -52,7 +52,7 @@ Put a schedule table here. Would be great if it dynamically highligts/emphasizes
 
 Items in table: Date, Lecture (# with link), Topic/description
 
-<iframe width="641" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B6491313208C1D5B%21111&authkey=%21ANz3fPzmwJ1uA4A&em=2&wdAllowInteractivity=False&Item='Sheet1%20(2)'!C22%3AF131&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="566" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B6491313208C1D5B%21111&authkey=%21ANz3fPzmwJ1uA4A&em=2&wdAllowInteractivity=False&Item='Sheet1%20(2)'!C22%3AF131&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 <p style="margin-bottom:.75cm;"></p> <!-- a blank line for spacing-->
 
