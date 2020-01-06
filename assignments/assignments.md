@@ -5,7 +5,7 @@
 
 Read this before you start doing any assignments!
 
-### [Guidelines for peer-review](guidelines-peerreview.html)
+### [Guidelines for peer review](guidelines-peerreview.html)
 
 Read this before you start doing any peer-review!
 
