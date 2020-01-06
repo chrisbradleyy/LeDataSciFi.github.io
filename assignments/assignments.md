@@ -1,23 +1,36 @@
-# Assignment 1
 
-## Objective 
+General assignment guidelines
 
-## Blah blah
+General peer-review guidelines 
 
-## Grading
+## Assignments 
 
-## Peer review instructions
+### [A#1 - title](https://ledatascifi.github.io/assignments/asgn01.html)
 
-(on date X, add a list of who is grading who, with links to the appropriate repos) 
+We will... %todo
 
-# Assignment 2
+### [A#2 - title](https://ledatascifi.github.io/assignments/asgn02.html)
 
-## Objective
+We will... %todo
 
-## Blah blah
+### [A#3 - title](https://ledatascifi.github.io/assignments/asgn03.html)
 
-## Grading
+We will... %todo
 
-## Peer review instructions
+### [A#4 - title](https://ledatascifi.github.io/assignments/asgn04.html)
 
-(on date X, add a list of who is grading who, with links to the appropriate repos) 
+We will... %todo
+
+### [A#5 - title](https://ledatascifi.github.io/assignments/asgn05.html)
+
+We will... %todo
+
+### [A#6 - title](https://ledatascifi.github.io/assignments/asgn06.html)
+
+We will... %todo
+
+### [A#7 - title](https://ledatascifi.github.io/assignments/asgn07.html)
+
+We will... %todo
+
+## Acknowledgments 
