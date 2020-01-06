@@ -1,15 +1,21 @@
 
-General assignment guidelines
+## General guidelines
 
-General peer-review guidelines 
+### [Guidelines for assignments](
+
+Read this before you start doing any assignments!
+
+### Guidelines for peer-review
+
+Read this before you start doing any peer-review!
 
 ## Assignments 
 
-### [A#1 - title](https://ledatascifi.github.io/assignments/asgn01.html)
+### [A#1 - title](asgn01.html)
 
 We will... %todo
 
-### [A#2 - title](https://ledatascifi.github.io/assignments/asgn02.html)
+### [A#2 - title](asgn02.html)
 
 We will... %todo
 
