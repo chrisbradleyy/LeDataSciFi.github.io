@@ -117,8 +117,10 @@ Email: dma220
 </style>
 10% <span class="tab"> Participation, <a href="https://ledatascifi.github.io/participation/participation.html">details here</a>   </span><br>
 50% <span class="tab"> Assignments, <a href="https://ledatascifi.github.io/assignments/assignments.html">details here</a>     </span><br>
-15% <span class="tab"> Peer review, details later     </span><br>
+15% <span class="tab"> Peer review, <a href="https://ledatascifi.github.io/assignments/assignments.html">details here</a>     </span><br>
 25% <span class="tab"> Final Project, details later   </span><br>
+
+Unless explicitly noted, all assignments must be completed individually. Changes to submissions after the deadline will be ignored, and missed assignments will receive a zero. 
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;"> <b> <!-- makes it like H3 -->
  Student Senate Statement on Academic Integrity
