@@ -26,8 +26,8 @@ If you miss class, you can still do the activities another time. Again, the poin
 
 1. On your user account, make a new repository:
 
-    - Click on the icon in the top-right corner -> then from the drop-down menu click "Your repositories"
-    - Click on the green button to the right that says "New". Call it `FIN377-participation`
+    - Click the "+" in the top-right corner -> "New repository"
+    - Call it `FIN377-participation`
     - I highly recommend making this a public repo. But if you so desire, make it private. You can change this later.
     - Say YES to initializing with a README.
 
