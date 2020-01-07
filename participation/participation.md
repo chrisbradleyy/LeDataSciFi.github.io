@@ -34,7 +34,7 @@ If you miss class, you can still do the activities another time. Again, the poin
 2. Add the teaching team as collaborators:
 
     - Click on “Settings” -> “Collaborators”.
-    - Add the instructors: `donbowen` and **%todo Dan's username is needed!**
+    - Add the instructors: `donbowen` and `danielappierto`
 
 3. Submit your repo URL to us: **%todo instructions**
 
