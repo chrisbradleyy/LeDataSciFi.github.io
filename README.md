@@ -40,8 +40,8 @@ Email: dma220
 - Fri 2-3pm
 
 **In _TBD_, with Mr. Appierto:**
-- TBD
-
+- Wed 3pm-5pm
+- Fri 10am-12pm
 
 **These are subject to change, so please check back!** 
 
