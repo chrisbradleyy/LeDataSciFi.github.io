@@ -6,16 +6,17 @@ As part of this course you will be reviewing, commenting on, and marking other s
 
 1. After a homework deadline, you will receive an email inviting you to the repos of **TWO** classmates. Accept these invitations.
 2. Navigate to your classmates’ homework submissions and look it over. If there are any specific instructions in the README.md about grading a particular assignment, follow those.
-3. Open a new Issue on their homework repository with your review. 
-  - Generally, you will copy the [peer review template here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/peerreview_template.md) into that Issue, fill in your and the reviewee's githud IDs, add an "x" where needed for grades, and fill out the remarks. 
-  - How should you decide between "Excellent", "Satisfactory", and "Needs Work"? [Jump to the rubric below](#Assigning-grades).
-  - Some assignments might ask you to evaluate specific things. Follow those instructions if present.
+3. Open a new Issue on their homework repository and fill in your review:
+
+- Generally, you will copy the [peer review template here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/peerreview_template.md) into that Issue, fill in your and the reviewee's githud IDs, add an "x" where needed for grades, and fill out the remarks. 
+- How should you decide between "Excellent", "Satisfactory", and "Needs Work"? [Jump to the guide to filling out a rubric below](#assigning-grades).
+- Some assignments might ask you to evaluate specific things or additional topics. Follow those instructions if present.
 
 ## How are peer reviews themselves graded?
 
 <table >
   <tr>
-    <td> No attempt (0) </td>    
+    <td> (0) </td>    
     <td> Poor (F) </td>
     <td> Unsatisfactory (D) 	 </td>
     <td> Satisfactory (C- to C+)  </td>
@@ -23,7 +24,7 @@ As part of this course you will be reviewing, commenting on, and marking other s
     <td> Excellent (A- to A+)  </td>    
   </tr>
   <tr>
-    <td> No attempt (0) </td>    
+    <td> No attempt </td>    
     <td> The review is mean or disrespectful. </td>
     <td> The review is so generic that it's hard to determine which assignment it's reviewing. It doesn't offer any praise and yet doesn't offer any suggestions either. </td>
     <td>  </td>
@@ -53,11 +54,11 @@ This probably means that we don’t have you on the class roster. Email me immed
 - Your review is mean
 - You can’t find anything to praise/learn and yet you don’t offer any suggestions either
 
-## Assigning grades
+# Filling out the rubric
 
 *Also consult any specific guidance given in the relevant assignment itself*
 
-Topic| Excellent: <br> ✓+ coded as +  | Satisfactory: <br> ✓ coded as 0  |Needs work: <br> ✓- coded as - |
+| Topic| Excellent  | Satisfactory | Needs work |
 |-----------| ---------------------- |--------------------------| ----------------------|
 |Coding style| Student has gone beyond what was expected and required, coding manual is followed, code is well commented | Coding style lacks refinement and has some errors, but code is readable and has some comments | Many errors in coding style, little attention paid to making the code human readable|
 |Coding strategy| Complicated problem broken down into sub-problems that are individually much simpler. Code is efficient, correct, and minimal. Code uses appropriate data structure (list, data frame, vector/matrix/array). Code checks for common errors  | Code is correct, but could be edited down to leaner code. Some "hacking" instead of using suitable data structure. Some checks for errors. |   Code tackles complicated problem in one big chunk. Code is repetitive and could easily be functionalized. No anticipation of errors. |
