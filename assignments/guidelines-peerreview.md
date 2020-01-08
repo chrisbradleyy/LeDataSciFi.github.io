@@ -67,5 +67,5 @@ Topic| Excellent: <br> ✓+ coded as +  | Satisfactory: <br> ✓ coded as 0  |Ne
 
 ## Acknowledgements
 
-As always, thanks to [STAT545](https://stat545.stat.ubc.ca). 
+As always, thanks to [STAT545](https://stat545.stat.ubc.ca). Also to [MACS 30500](https://cfss.uchicago.edu/).
 
