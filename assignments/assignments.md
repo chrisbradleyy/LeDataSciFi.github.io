@@ -38,3 +38,14 @@ Let's try to learn from the text something about a firm's technology, the risks 
 **In the project**, we will define a question, acquire the necessary data, explore the data (for introductory analysis and to look for data issues), refine the data, and then analyze the data using (some number of) appropriate techniques. All of this will be put into a report and presentation.
 
 In order to get use ready for the project, **this assignment** will focus on practicing that workflow and digging into the execution and interpretation of analytic models we covered in this portion of class.
+
+### Project
+
+The project will have four deliverable stages, according to the [schedule](../#schedule)
+
+1. Project proposal (initial)
+2. Project proposal (final)
+3. Project status report
+4. Project delivery
+
+
