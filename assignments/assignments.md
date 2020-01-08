@@ -11,32 +11,30 @@ Read this before you start doing any peer review!
 
 ## Assignments 
 
-### [A#1 - title](asgn01.html)
+### [ASGN01 - Our tools](asgn01.html)
 
-We will... %todo
+Using GitHub, writing in Markdown, managing a repo with GitHub and GitHub Desktop, and basic Python coding in Jupyter.
 
-### [A#2 - title](asgn02.html)
+### [ASGN02 - Golden rules in practice, with pandas](asgn02.html)
 
-We will... %todo
+We will explore a dataset using the `pandas` package, push our programming toolkit further, and practice good habits.
 
-### [A#3 - title](asgn03.html)
+### [ASGN03 - Data viz](asgn03.html)
 
-We will... %todo
+Tables are decent for understanding data and conveying trends and relationships, but figures are often much better. 
 
-### [A#4 - title](asgn04.html)
+### [ASGN04 - Merging data and munging data](asgn04.html)
 
-We will... %todo
+More often than not, you'll need to combine multiple data files. Let's try a bunch of merges, and learn how merging is related to data cleaning.
 
-### [A#5 - title](asgn05.html)
+### [ASGN05 - Scraping data](asgn05.html)
 
-We will... %todo
+We're going scrap some 10-K reports from EDGAR, extract and process the text, and merge some text-based variables to Compustat.
 
-### [A#6 - title](asgn06.html)
+Let's try to learn from the text something about a firm's technology, the risks it faces, and investment choices.
 
-We will... %todo
+### [ASGN06 - Data analysis](asgn06.html)
 
-### [A#7 - title](asgn07.html)
+**In the project**, we will define a question, acquire the necessary data, explore the data (for introductory analysis and to look for data issues), refine the data, and then analyze the data using (some number of) appropriate techniques. All of this will be put into a report and presentation.
 
-We will... %todo
-
-## Acknowledgments 
+In order to get use ready for the project, **this assignment** will focus on practicing that workflow and digging into the execution and interpretation of analytic models we covered in this portion of class.
