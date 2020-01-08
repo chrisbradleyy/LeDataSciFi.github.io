@@ -39,11 +39,11 @@ Let's practice the tools we cover in the first two weeks: GitHub, GitHub Desktop
 
 ### Working on the ipynb file
 
-1. Follow all the directions in the Assignment worksheet file. Complete all exercises.
+**Follow all the directions in the Assignment worksheet file. Complete all exercises.**
 
 ### Polish the repo for "publication"
 
-1. Open the README file. Update it as needed in light of the new structure of the repo (aren't there new files and folders). 
+**Open the README file. Update it as needed in light of the new structure of the repo (aren't there new files and folders).**
 
 ## Grading rubric
 
