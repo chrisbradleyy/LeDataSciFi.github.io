@@ -40,6 +40,8 @@ If you miss class, you can still do the activities another time. Again, the poin
 
     - Don’t worry, we won’t grade it until it’s finished.
 
+![](make-participation.gif)
+
 ## Your repo should include (when completed):
 
 1. Live coding worksheet from "Jupyter Basics" lecture. Call this `02 jupyter basics`.
