@@ -26,19 +26,24 @@ Even though steps 1 and 5 might seem pointless during solo assignments, I encour
 
 ### **Q: What should your repo contain?**
 
-#### **A: In addition to your Python code/Jupyter-based report, everything that is necessary to replicate your findings!** Your peers should be able to download the folder to their computer and execute the main analysis file and receive back the same results you generated.
+#### **A: In addition to your Python code/Jupyter-based report, everything that is necessary to replicate your findings!** 
+Your peers should be able to download the folder to their computer and execute the main analysis file and receive back the same results you generated.
 
 #### **TIP #1:** Before you push what you think are your final changes to the master repo...
 Delete all temporary files you generated, along with any outputs, and rerun the analysis/code as though you just downloaded. Did it work? If not, then the code is not reproducible. Probably, you referenced a temporary file you created outside of the flow of the code, or accidentally put an input file in the temporary file folder. Whoops!
 
 #### **TIP #2:** After you push what you think are your final changes to the master repo...
-Download it to your computer in a different spot (say a temporary folder on your desktop), and run the analysis again, there. Did it work? If not, then the code is not reproducible outside the directory you built it in. Probably, your code included absolute path references like `C:\Users\DonBowen\Documents\project1\code\main_analysis.py` (bad!!!) instead of relative path references like `code\main_analysis.py` (good!!!).
+Download it to your computer in a different spot (say a temporary folder on your desktop), and run the analysis again, there. Did it work? If not, then the code is not reproducible outside the directory you built it in. Probably, your code included absolute path references like "C:\Users\DonBowen\Documents\project1\code\main_analysis.py" (bad!!!) instead of relative path references like "code\main_analysis.py" (good!!!).
 
 ### **Q: What are my reviewers grading?**
 
-#### **A:**  Details on what exactly is graded and how depend on the specific assignment (and you'll see this when the assignment is posted), but for a good summary, see the [Guidelines for peer review](guidelines-peerreview.html) page. 
+#### **A:**  Each assignment has different criterion, which you'll see when when the assignment is posted. For a good summary, see the [Guidelines for peer review](guidelines-peerreview.html) page. 
 
-Generically and briefly, I'll say that reproducibility is huge. Additionally, they will specifically look at (1) your README.md file, which should describe the repo to readers and (2) the main analysis file. 
+Generically and briefly, I'll say the important themes are:
+- reproducibility
+- organization of the repo (can an outside discern what is going on?)
+- the README.md file, which should describe the repo to readers 
+- the main analysis file. More on this in the next Q...
 
 ### **Q: How can I get a great grade on assignments?**
 
