@@ -38,11 +38,11 @@ Even though steps 1 and 5 might seem pointless during solo assignments, I encour
 
 Generically and briefly, I'll say that reproducibility is huge. Additionally, they will specifically look at (1) your README.md file, which should describe the repo to readers and (2) the main analysis file. 
 
-### How can I get a great grade on assignments?
+### Q: How can I get a great grade on assignments?
 
-Blow your reviewers away!
+##### **A:**  Blow your reviewers away!
 
-**TIP #3:** Make it easy for others to see the source code that executes the analysis as well as the report. 
+#### **TIP #3:** Make it easy for others to see the source code that executes the analysis as well as the report. 
   - The README.md in the main directory is what they will see first. GitHub can format "Markdown" nicely, with headers, links, media, and more and will show visitors this. Create annotated links to documents graders need to access. For example, in the way [the main assignments landing page](assignments.html) points to key documents for students. You should point them to your main Jupyter file, which GitHub will also render!
   
 **TIP #4:** Make it easy for others to run your code.
