@@ -22,7 +22,7 @@ Even though steps 1 and 5 might seem pointless during solo assignments, I encour
 
 #### **A warning about the deadline:** Shortly after the deadline, GitHub will stop you from editing the repo! So commit and push your changes often, and do not wait until minutes before the deadline.
 
-## Homework tips
+# Homework tips
 
 ### **Q: What should your repo contain?**
 
