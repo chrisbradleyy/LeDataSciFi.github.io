@@ -36,9 +36,7 @@ If you miss class, you can still do the activities another time. Again, the poin
     - Click on “Settings” -> “Collaborators”.
     - Add the instructors: `donbowen` and `danielappierto`
 
-3. Submit your repo URL to us: **%todo instructions**
-
-    - Don’t worry, we won’t grade it until it’s finished.
+3. **If you haven't yet, [please fill out this form](https://forms.gle/brbs4DbAhzZqP7bj9)**. 
 
 ![](make-participation.gif)
 
