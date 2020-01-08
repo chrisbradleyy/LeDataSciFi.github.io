@@ -9,7 +9,9 @@ Read this before you start doing any assignments!
 
 Read this before you start doing any peer review!
 
-## Assignments 
+## Assignments and project
+
+All relevant delivery dates are on the [schedule](https://ledatascifi.github.io/#schedule). In addition to the deliverables below, there are peer reviews you'll be delivering as well. 
 
 ### [ASGN01 - Our tools](asgn01.html)
 
@@ -39,9 +41,9 @@ Let's try to learn from the text something about a firm's technology, the risks 
 
 In order to get use ready for the project, **this assignment** will focus on practicing that workflow and digging into the execution and interpretation of analytic models we covered in this portion of class.
 
-### Project
+### Final project
 
-The project will have four deliverable stages, according to the [schedule](../#schedule)
+The project will have four deliverable stages, according to the [schedule](https://ledatascifi.github.io/#schedule)
 
 1. Project proposal (initial)
 2. Project proposal (final)
