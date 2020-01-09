@@ -14,7 +14,7 @@ This follows the spirit of the [workflow recipe from lecture 1](https://ledatasc
 1. Pull the existing master repo ("fetch origin") into your local repo on your computer (just in case a change was made by others). 
 2. Work on the project in the local repo (on your computer).
 3. GitHub desktop sees any changes to files when you save them and automatically "stages" them, by listing them as "changed" files in the left part of the screen.
-4. To "commit" the changes, add a short informative description and (optionally) a longer description, then click the **"Commit to master"** buttom. **Do this early and often!!!**
+4. To "commit" the changes, add a short informative description and (optionally) a longer description, then click the **"Commit to master"** button. **Do this early and often!!!**
 5. You're almost ready to push the changes to cloud, but not yet! What if someone else (or you on a different machine) made changes to the master repo? Prevent issues by doing this step: "Pull/fetch" from the origin/master. (Select the "repository" menu and then "Pull" on GitHub Desktop for Windows.) If there are any conflicts, you'll be notified and prompted to fix them. If there are conflicts, fix them!
 6. Push the changes by clicking the **"Push origin"** button! **Do this early and often!!!**
 
