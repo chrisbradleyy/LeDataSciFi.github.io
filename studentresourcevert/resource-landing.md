@@ -109,7 +109,7 @@ Once you have solved the problem (either by yourself or with the help of an inst
   - [Predicting where the wine is from (wine/location](https://archive.ics.uci.edu/ml/datasets/Wine) <--- easy starter challenge (where is the wine from?)
   - [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
   - [German credit data by person](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
-- More good sources: <data.gov>, <data.census.gov>, <data.world>, <https://ourworldindata.org/> is incredible and [has many repos on Github](https://github.com/owid) including [one that imports data via python](https://github.com/owid/owid-importer), ...
+- More good sources: [data.gov](data.gov), [data.census.gov](data.census.gov), [data.world](data.world), [https://ourworldindata.org](https://ourworldindata.org/) is incredible and also [has many repos on Github](https://github.com/owid) including [one that imports data via python](https://github.com/owid/owid-importer), ...
 
 ### Some books you might look for
 - [Signal and the Noise, by Nate Silver](https://www.amazon.com/gp/product/159420411X)
