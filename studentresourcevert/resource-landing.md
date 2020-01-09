@@ -71,7 +71,7 @@ Once you have solved the problem (either by yourself or with the help of an inst
 - **<u> Anything that is bolded/underlined below is also considered essential.</u> ** 
 
 ### Python
-- **<u>[A whirlwind tour of python](https://github.com/jakevdp/WhirlwindTourOfPython)</u>**
+- **<u> <a href="https://github.com/jakevdp/WhirlwindTourOfPython">A whirlwind tour of python</a> </u>**
 - **<u>[datacamp.com](https://www.datacamp.com/) has many self guided lessons</u>**
 - Lessons 3 and 5 of the [official documentation](https://docs.python.org/3/tutorial/introduction.html)
 - [Dive Into Python](https://diveinto.org/python3/table-of-contents.html)
