@@ -64,37 +64,29 @@ Once you have solved the problem (either by yourself or with the help of an inst
 
 # Resources 
 
-### The standbys
-- Google, Stack Overflow, [Github help](https://help.github.com), [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/running.html), [Python help](https://www.python.org/doc/): can't be beat
+###  <u><b> THE MOST ESSENTIAL RESOURCES </b></u>  - if you only read one of the sections of resources, make it this.
+
+- Help: Google, [Stack Overflow](https://stackoverflow.com), [Github help](https://help.github.com), [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/running.html), [Python help](https://www.python.org/doc/)
+- Cheat sheets to bookmark! [python basics](/img/pythonbasics.pdf), [python basics](/img/pythonbasics.pdf), [jupyter notebook](/img/jupyternotebook.pdf), [importing data](/img/importingdata.pdf), [numpy](/img/numpy.pdf), [pandas basics](/img/pandasbasics.pdf) and [more on pandas](/img/pandas.pdf), [matplotlib](/img/matplotlib.pdf), [scitkit-learn](/img/scitkit-learn.pdf), [seaborn](/img/seaborn.pdf)
 - [Coding best practices, and project management](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml)
+- **Anything that is bolded below is also considered essential.**
 
 ### Python
-- [A whirlwind tour of python](https://github.com/jakevdp/WhirlwindTourOfPython)
-- [datacamp.com](https://www.datacamp.com/) has many self guided lessons
+- **[A whirlwind tour of python](https://github.com/jakevdp/WhirlwindTourOfPython)**
+- **[datacamp.com](https://www.datacamp.com/) has many self guided lessons**
 - Lessons 3 and 5 of the [official documentation](https://docs.python.org/3/tutorial/introduction.html)
 - [Dive Into Python](https://diveinto.org/python3/table-of-contents.html)
-- [This has to be the best list of Python resources on the internet](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python).
-- Cheat sheets. There are many, many online, including these from datacamp.com:
-  - [python basics](/img/pythonbasics.pdf)
-  - [python basics](/img/pythonbasics.pdf)
-  - [jupyter notebook](/img/jupyternotebook.pdf)
-  - [importing data](/img/importingdata.pdf)
-  - [numpy](/img/numpy.pdf)
-  - [pandas basics](/img/pandasbasics.pdf) and [more on pandas](/img/pandas.pdf) 
-  - [matplotlib](/img/matplotlib.pdf)
-  - [scitkit-learn](/img/scitkit-learn.pdf)
-  - [seaborn](/img/seaborn.pdf)
-  
+- [This has to be the best list of Python resources on the internet](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python). 
 
 ### Data Science (broad)
-- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)**
 - [Probably the best collection of Python notebooks on the web](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 ### Data visualization
-- **[Kaggle's Data viz tutorial](https://www.kaggle.com/residentmario/welcome-to-data-visualization) is excellent**. It has reproducible code and data, using python. 
-- [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) is excellent as well.
+- **[Kaggle's Data viz tutorial](https://www.kaggle.com/residentmario/welcome-to-data-visualization) is excellent. It has reproducible code and data, using python.**
+- **[An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) is excellent as well.**
+- **[Data Visualization: A practical introduction, by Kieran Healy](https://socviz.co/lookatdata.html#lookatdata) especially discusses the "whys" of visualization in a smart way. The walkthroughs are in R, not python, however.**
 - [STAT545 on good visualization](https://stat545.com/effective-graphs.html)
-- [Data Visualization: A practical introduction, by Kieran Healy](https://socviz.co/lookatdata.html#lookatdata) especially discusses the "whys" of visualization in a smart way. The walkthroughs are in R, not python, however. 
 - [Some good data viz blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)
 
 ### Github, Git, and Version control
@@ -104,7 +96,7 @@ Once you have solved the problem (either by yourself or with the help of an inst
 - Again... [Coding best practices, and project management](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml)
 - [The most thorough yet simple walkthrough of Git and Github use on the web](https://happygitwithr.com). Applies to python use for the most part. 
   
-### Data, and practice ML
+### Getting data and practicing ML
 - [Scikit (python package) can read in some data](https://scikit-learn.org/stable/datasets/index.html), which has data on Boston real estate, wine, a larger california housing dataset 
 - [Pandas can read in a LOT of useful data!](https://pandas-datareader.readthedocs.io/en/latest/readers/index.html) **Data providers include: Federal Reserve ("FRED"), Ken French, NASDAQ, OECD, Qunadl, TSP, World Bank, and more!**
 - [ML competitions with serious prizes at drivendata.org](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/)
