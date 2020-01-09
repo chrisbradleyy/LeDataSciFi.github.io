@@ -6,7 +6,7 @@
 
 Let's practice the tools we cover in the first two weeks: GitHub, GitHub Desktop, Markdown, and Jupyter (Python). We will:
 
-1. Create and simple repo on GitHub and clone it to our computer
+1. Create a simple repo on GitHub and clone it to our computer
 2. Work on a python file, adding Markdown features to it
 3. Make an informative README.md file so that visitors to your repo understand it.
 
