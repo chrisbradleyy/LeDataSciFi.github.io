@@ -64,8 +64,9 @@ Once you have solved the problem (either by yourself or with the help of an inst
 
 # Resources 
 
-###  <u><b> THE MOST ESSENTIAL RESOURCES </b></u>  - if you only read one of the sections of resources, make it this.
+###  <u><b> THE MOST ESSENTIAL RESOURCES </b></u>  
 
+If you only read one of the sections of resources, make it this.
 - Help: Google, [Stack Overflow](https://stackoverflow.com), [Github help](https://help.github.com), [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/running.html), [Python help](https://www.python.org/doc/)
 - Cheat sheets to bookmark! [python basics](/img/pythonbasics.pdf), [python basics](/img/pythonbasics.pdf), [jupyter notebook](/img/jupyternotebook.pdf), [importing data](/img/importingdata.pdf), [numpy](/img/numpy.pdf), [pandas basics](/img/pandasbasics.pdf) and [more on pandas](/img/pandas.pdf), [matplotlib](/img/matplotlib.pdf), [scitkit-learn](/img/scitkit-learn.pdf), [seaborn](/img/seaborn.pdf)
 - [Coding best practices, and project management](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml)
