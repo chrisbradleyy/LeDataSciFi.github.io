@@ -5,7 +5,7 @@ As part of this course you will be reviewing, commenting on, and marking other s
 ## Peer review workflow
 
 1. After a homework deadline, you will receive an email inviting you to the repos of **TWO** classmates. Accept these invitations.
-2. Navigate to your classmates’ homework submissions and look it over. If there are any specific instructions in the README.md about grading a particular assignment, follow those.
+2. Navigate to your classmates’ homework submissions and look it over. If there are any specific instructions in the README.md or the assignment prompt about grading a particular assignment, follow those.
 3. Open a new Issue on their homework repository and fill in your review:
 
 - Generally, you will copy the [peer review template here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/peerreview_template.md) into that Issue, fill in your and the reviewee's GitHub IDs, add an "x" where needed for grades, and fill out the remarks. 
