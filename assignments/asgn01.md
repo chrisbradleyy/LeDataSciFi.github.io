@@ -15,7 +15,7 @@ Let's practice the tools we cover in the first two weeks: GitHub, GitHub Desktop
 1. First, read the [homework guidelines](guidelines-asgn.html).
 2. Click on the invitation link I sent to you and accept the assignment on GitHub. This will create a repo containing 
   - README.md
-  - Assignment 01.ipynb
+  - Assignment 01 worksheet.ipynb
 3. Clone it to your computer following the steps from [the workflow recipe in Lecture 1](https://ledatascifi.github.io/lectures-spr2020/01/01_Motivation_and_Getting_Started.html#***-THE-WORKFLOW-RECIPE--***).
   - You can decide where you want to put this folder. Anywhere that makes sense to you should be fine.
   - After GitHub Desktop clones the repo, open the folder on your computer.
@@ -43,12 +43,38 @@ Let's practice the tools we cover in the first two weeks: GitHub, GitHub Desktop
 
 ### Polish the repo for "publication"
 
-**Open the README file. Update it as needed in light of the new structure of the repo. (Aren't there new files and folders?)**
-
-## Grading rubric
-
-... %todo (any extra rubric needed here / in the readme file?)
+**Open the README file again. Update it as needed in light of the new structure of the repo. (Aren't there new files and folders?)**
 
 ## Peer review instructions
 
-... %todo (any extra rubric needed here / in the readme file?)
+Everyone will review two peers. 
+
+1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
+2. Open an issue on their homework repo and fill in your review there. Use the rubric below. 
+
+
+
+
+## Grading rubric
+
+**Evaluation of: __put the student github id here__**
+
+**Evaluation by: __put your github id here__**
+----------------------------------------------------
+| Topic                       | Excellent | Satisfactory | Needs Work |
+|-----------------------------|-----------|--------------|------------|
+| **Code executes without error** (See "ease of access" in guidelines)            |           |              |            |
+| **Code gives correct answers**  (See answer key)            |           |              |            |
+| **Achievement, creativity** (Of README file) |           |              |            |
+| **README has 5 markup features and describes repo structure clearly** (Grade on completeness)            |           |              |            |
+| **README writing is concise and without grammar and formatting errors**            |           |              |            |
+
+
+Remarks:
+
+* Elaborate on above, especially for "needs work."
+* Some specific praise?
+* Something I learned?
+* Specific constructive criticism?
+* Something I know and that you, my peer, might like to know because it is relevant to something you struggled with.
+
