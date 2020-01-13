@@ -50,7 +50,7 @@ Let's practice the tools we cover in the first two weeks: GitHub, GitHub Desktop
 Everyone will review two peers. 
 
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
-2. Open an issue on their homework repo, copy the rubric below (), and fill in your review there.  
+2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn01.md)), and fill in your review there.  
 
 ## Grading rubric
 
