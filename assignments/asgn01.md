@@ -58,14 +58,13 @@ Evaluation of: __put the student github id here__
 
 Evaluation by: __put your github id here__
 
-----------------------------------------------------
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
-| **Code executes without error** \*                               |        |          |            |
-| **Code gives correct answers**   \*\*                                                  |        |          |            |
-| **Achievement, creativity** (Of README file)                                          |        |          |            |
-| **README has 5 markup features, describes repo clearly** \*\*\*       |        |          |            |
-| **README writing is concise and without grammar and formatting errors**                            |        |          |            |
+| **Code executes without error** \*                                |        |          |            |
+| **Code gives correct answers**   \*\*                             |        |          |            |
+| **Achievement, creativity** (Of README file)                      |        |          |            |
+| **README has 5 markup features, describes repo clearly** \*\*\*   |        |          |            |
+| **README writing: concise, no grammar or formatting errors**      |        |          |            |
 
 \* _See "ease of access" in guidelines_
 
