@@ -61,11 +61,17 @@ Evaluation by: __put your github id here__
 ----------------------------------------------------
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
-| **Code executes without error** (See "ease of access" in guidelines)            |           |              |            |
-| **Code gives correct answers**  (See answer key)            |           |              |            |
-| **Achievement, creativity** (Of README file) |           |              |            |
-| **README has 5 markup features and describes repo structure clearly** (Grade on completeness)            |           |              |            |
-| **README writing is concise and without grammar and formatting errors**            |           |              |            |
+| **Code executes without error** \*                               |        |          |            |
+| **Code gives correct answers**   \*\*                                                  |        |          |            |
+| **Achievement, creativity** (Of README file)                                          |        |          |            |
+| **README has 5 markup features, describes repo clearly** \*\*\*       |        |          |            |
+| **README writing is concise and without grammar and formatting errors**                            |        |          |            |
+
+\* _See "ease of access" in guidelines_
+
+\*\* _See answer key_
+
+\*\*\* _Grade on completeness_
 
 Remarks:
 
