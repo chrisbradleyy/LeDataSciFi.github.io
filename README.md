@@ -35,8 +35,7 @@ Email: dma220
 
 **In RBC 460, with Prof. Bowen:**
 - Tu 10am-11am
-- Wed 4pm-5pm
-- Thu 10am-11am
+- Wed 3pm-5pm
 - Fri 2-3pm
 
 **In _TBD_, with Mr. Appierto:**
