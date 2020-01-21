@@ -5,12 +5,14 @@
   <b>Professor Donald Bowen  </b>
 </p>
 Office: RBC 460  <br>
-Email: deb219
+Email: deb219 <br>
+GitHub: donbowen
 <br>
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> TA - Daniel Appierto  </b>
 </p>
-Email: dma220
+Email: dma220 <br>
+GitHub: danielappierto
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> Objectives, briefly </b>
