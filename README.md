@@ -38,7 +38,7 @@ Email: dma220
 - Wed 3pm-5pm
 - Fri 2-3pm
 
-**In _TBD_, with Mr. Appierto:**
+**In RBC 407, with Mr. Appierto:**
 - Wed 3pm-5pm
 - Fri 10am-12pm
 
