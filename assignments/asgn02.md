@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Due date: See the [schedule](https://ledatascifi.github.io/#schedule).
+**Due date: See the [schedule](https://ledatascifi.github.io/#schedule).**
 
 Let's practice the golden rules and flex our new panda muscles. We will:
 
@@ -61,6 +61,20 @@ Don't forget the golden rules:
 2. For each dataset, and different slices/aggregations/combinations of each dataset, explore the data.
 3. Explore and check for data issues. Speculate on what might be causing them and if possible, fix them or alter your analysis to account for them. 
 
+## A few comments
+
+Relax about the following things:
+
+- Tidying/reshaping is NOT your assignment. Some of your tables may be awkwardly shaped in the report. That’s OK.
+- Table beauty is not a big deal. Simply printing to “screen” is fine.
+- (Later in the semester, easier-to-read tables will be more important, but it's early, and I want you to concentrate on getting the concrete parts of the analysis right.)
+
+**Tip: Treat this assignment as a “cheat sheet” for future-you!** Don’t assume that you’ll remember the lessons you learned while writing this assignment. Write things down:
+
+- Add notes on difficulties/oddities you encountered. For example, which tables/figures are easy/hard to make, which data formats make better inputs for plotting functions or for human-friendly tables.
+- Provide attribution whenever you take code or an idea from somewhere else, whether a blog post, a colleague, a vignette, etc. Putting those pointers in your “cheat sheet” will be useful for future-you – and it’s just good practice to indicate where you got things from.
+
+ 
 ## When you are done with the analysis
 
 The readme file should be "publication ready". It should describe to the reader what this repo is analyzing, the necessary packages (might a reader need to `pip install` anything?), and the key inputs (are any "API" tokens needed?). 
@@ -74,7 +88,7 @@ Open your main python file, clear any and all results, and run the analysis from
 
 ## Grading rubric
 
-See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric)
+See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
 
 Evaluation of: __put the student github id here__
 
