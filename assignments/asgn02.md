@@ -35,7 +35,7 @@ _Note: In all assignments, it may or may not make sense to save temp (intermedia
 I've given you a list of firms from 2006 with variables
 - "permno" = an identify for firms used by CRSP to track stocks 
 - "fyear" = the fiscal year the remaining variable apply to 
-- "gsector" = gsector (see https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard)
+- "gsector" = gsector (see [the wiki article on GICS](https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard))
 - "state" = of headquarters
 
 You also have a data set of daily returns for 2006 with "permno", "date", and "ret".
@@ -79,15 +79,14 @@ See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric)
 Evaluation of: __put the student github id here__
 
 Evaluation by: __put your github id here__
-----------------------------------------------------
+
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
-| **Coding style**            |           |              |            |
-| **Coding strategy**         |           |              |            |
-| **Achievement, creativity** |           |              |            |
-| **Code executes without error** \*                                |        |          |            |
-| **Code gives correct answers** \*\*            |        |          |            |
-| **Repo follows golden rules as needed** | | | |
+| **Coding style**                               |        |          |            |
+| **Coding strategy**                             |        |          |            |
+| **Code executes without error** \*                     |        |          |            |
+|  **Code gives correct answers** \*\*    |        |          |            |
+| **Repo follows golden rules as needed**      |        |          |            |
 
 \* _See "ease of access" in guidelines_
 
