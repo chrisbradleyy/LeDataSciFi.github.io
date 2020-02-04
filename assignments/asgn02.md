@@ -44,7 +44,9 @@ Both of these datasets are `.dta` files, meaning they come from Stata. Have no f
 
 ### Sample restrictions
 
-Your analysis should only consider firms in both datasets. (HINT: Which type of merge should you use?) We will talk more about merging
+Your analysis should only consider firms in **both** datasets. (HINT: Which type of merge should you use?) 
+
+We will talk more about merging in future weeks, but [the top voted answer here is pretty good](https://stackoverflow.com/questions/53645882/pandas-merging-101).
 
 ### Your goal
 
@@ -80,6 +82,8 @@ Don't forget the golden rules:
 3. Explore and check for data issues. Speculate on what might be causing them and if possible, fix them or alter your analysis to account for them. 
 
 ## A few comments
+
+_Answer to merging Q above: Inner! (If you've read this far on the instructions before charging ahead, nice!)_
 
 Relax about the following things:
 
