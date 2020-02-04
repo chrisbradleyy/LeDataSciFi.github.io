@@ -42,22 +42,39 @@ You also have a data set of daily returns for 2006 with "permno", "date", and "r
 
 Both of these datasets are `.dta` files, meaning they come from Stata. Have no fear, pandas can **read** these easily!
 
+### Sample restrictions
+
+Your analysis should only consider firms in both datasets. (HINT: Which type of merge should you use?) We will talk more about merging
+
 ### Your goal
 
-Let's explore risk and return by industry and state. For simplicity, let's only look at CA and NY firms and only at	tech and finance. 
+Let's explore risk and return by industry and state. For simplicity, let's only look at CA and NY firms and only at tech and finance. 
 
 At a minimum, you should produce the following tables, **along with some discussion, analysis, and interpretation**:
-- T1 ("Daily return characterists"): Using daily returns, output the number of observations, unique firms, and return statistics (mean, std, min, max) for each state and industry
-- T2 ("Annual return characterists"): Using _**annualized**_ returns, output information about the distribution of returns across firms in each industry-state combination. (E.g. what is the 25th and 75th percentile returns?)
+- T1 ("Daily return characteristics"): Using daily returns, report for each state and industry separately: 
+	- the number of observations
+	- the number of unique firms
+	- return statistics (mean, std, min, max), which should be based on the daily **percent** return (i.e. $return*100$)
+- T2 ("Annual return characteristics"): Using _**annualized**_ returns, output information about the distribution of returns across firms in each industry-state combination. (Compute statistics you think are useful!)
+	- Use the daily returns (the raw value, not the percent return) to compute the **exact** annual return. It might help to try to write out the math; try to write out a formula that uses 5 days of returns to compute the total week's return. Then you can extrapolate the "computational steps embedded" in that formula to do an entire year. 
+	- HINT: Load the following "test unit" dataframe. You should get 61.051% and -1.0% returns for each firm, respectively.
+	
+```
+returns = pd.DataFrame({
+    'permno' : [1,1,1,1,1,2,2,2,2,2], 
+    'year' : [2000,2000,2000,2000,2000,2000,2000,2000,2000,2000],
+    'ret' : [.1,.1,.1,.1,.1,.1,0,-0.1,0,0]
+    })
+```
 
 And I have some questions:
-- Q1: Which firm in each industry-state had the best month within the year? 
-- Q2: The worst month?
-- Q3: Which industry-state had the lowest average volatility?
+- Q1: Which firm in each industry-state had the best month within the year? (Again: Compute _exact_ monthly returns from the daily.)
+- Q2: Same, but look for the worst month?
+- Q3: Which industry-state had the lowest average volatility? (Compute volatility for each firm then take the average.)
 
 Don't forget the golden rules:
 
-1. Organize your repo sensibly
+1. Organize your repo using our guidelines.
 2. For each dataset, and different slices/aggregations/combinations of each dataset, explore the data.
 3. Explore and check for data issues. Speculate on what might be causing them and if possible, fix them or alter your analysis to account for them. 
 
