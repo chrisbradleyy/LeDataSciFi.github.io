@@ -57,6 +57,7 @@ At a minimum, you should produce the following tables, **along with some discuss
 	- return statistics (mean, std, min, max), which should be based on the daily **percent** return (i.e. $return*100$)
 - T2 ("Annual return characteristics"): Using _**annualized**_ returns, output information about the distribution of returns across firms in each industry-state combination. (Compute statistics you think are useful!)
 	- Use the daily returns (the raw value, not the percent return) to compute the **exact** annual return. It might help to try to write out the math; try to write out a formula that uses 5 days of returns to compute the total week's return. Then you can extrapolate the "computational steps embedded" in that formula to do an entire year. 
+	- Your resulting temporary data structure after this should have one observation per firm per year.
 	- HINT: Load the following "test unit" dataframe. You should get 61.051% and -1.0% returns for each firm, respectively.
 	
 ```
