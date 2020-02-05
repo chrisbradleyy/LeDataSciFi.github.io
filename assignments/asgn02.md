@@ -33,7 +33,7 @@ _Note: In all assignments, it may or may not make sense to save temp (intermedia
 ### Inputs you already have 
 
 I've given you a list of firms from 2006 with variables
-- "permno" = an identify for firms used by CRSP to track stocks 
+- "permno" = an identity for firms used by CRSP to track stocks 
 - "fyear" = the fiscal year the remaining variable apply to 
 - "gsector" = gsector (see [the wiki article on GICS](https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard))
 - "state" = of headquarters
@@ -56,11 +56,12 @@ At a minimum, you should produce the following tables, **along with some discuss
 - T1 ("Daily return characteristics"): Using daily returns, report for each state and industry separately: 
 	- the number of observations
 	- the number of unique firms
-	- return statistics (mean, std, min, max), which should be based on the daily **percent** return (i.e. $return*100$)
+	- return statistics (mean, std, min, max), which should be based on the daily **percent** return (i.e. return*100)
 - T2 ("Annual return characteristics"): Using _**annualized**_ returns, output information about the distribution of returns across firms in each industry-state combination. (Compute statistics you think are useful!)
-	- Use the daily returns (the raw value, not the percent return) to compute the **exact** annual return. It might help to try to write out the math; try to write out a formula that uses 5 days of returns to compute the total week's return. Then you can extrapolate the "computational steps embedded" in that formula to do an entire year. 
+	- **Annualized -->** Use the daily returns (the raw value, not the percent return) to compute the **exact** annual return. It might help to try to write out the math; try to write out a formula that uses 5 days of returns to compute the total week's return. Then you can extrapolate the "computational steps embedded" in that formula to do an entire year. 
 	- Your resulting temporary data structure after this should have one observation per firm per year.
-	- HINT: Load the following "test unit" dataframe. You should get 61.051% and -1.0% returns for each firm, respectively.
+	- HINT: Load the following "test unit" dataframe. You should get 61.051% and -1.0% returns for each firm, respectively. Use pandas functions only. If you do that, the code you just developed _should_ be applicable to the larger/realer dataset.
+
 	
 ```
 returns = pd.DataFrame({
@@ -75,17 +76,17 @@ And I have some questions:
 - Q2: Same, but look for the worst month?
 - Q3: Which industry-state had the lowest average volatility? (Compute volatility for each firm then take the average.)
 
-Don't forget the golden rules:
+**Don't forget the golden rules:**
 
 1. Organize your repo using our guidelines.
 2. For each dataset, and different slices/aggregations/combinations of each dataset, explore the data.
-3. Explore and check for data issues. Speculate on what might be causing them and if possible, fix them or alter your analysis to account for them. 
+3. Explore and check for data issues. If found, speculate on what might be causing them and if possible, fix them or alter your analysis to account for them. 
 
 ## A few comments
 
 _Answer to merging Q above: Inner! (If you've read this far on the instructions before charging ahead, nice!)_
 
-Relax about the following things:
+**Relax about the following things:**
 
 - Tidying/reshaping is NOT your assignment. Some of your tables may be awkwardly shaped in the report. That’s OK.
 - Table beauty is not a big deal. Simply printing to “screen” is fine.
@@ -94,7 +95,7 @@ Relax about the following things:
 **Tip: Treat this assignment as a “cheat sheet” for future-you!** Don’t assume that you’ll remember the lessons you learned while writing this assignment. Write things down:
 
 - Add notes on difficulties/oddities you encountered. For example, which tables/figures are easy/hard to make, which data formats make better inputs for plotting functions or for human-friendly tables.
-- Provide attribution whenever you take code or an idea from somewhere else, whether a blog post, a colleague, a vignette, etc. Putting those pointers in your “cheat sheet” will be useful for future-you – and it’s just good practice to indicate where you got things from.
+- Provide attribution whenever you take code or an idea from somewhere else, whether a blog post, a colleague, a vignette, etc. Putting those pointers in your “cheat sheet” will be useful for future-you – and it’s just good practice to indicate where you got things from. It also protects you on the plagarism front. 
 
  
 ## When you are done with the analysis
