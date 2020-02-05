@@ -8,7 +8,8 @@ As part of this course you will be reviewing, commenting on, and marking other s
 2. Navigate to your classmates’ homework submissions and look it over. If there are any specific instructions in the README.md or the assignment prompt about grading a particular assignment, follow those.
 3. Open a new Issue on their homework repository and fill in your review:
 
-- Generally, you will copy the [peer review template here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/peerreview_template.md) into that Issue, fill in your and the reviewee's GitHub IDs, add an "x" where needed for grades, and fill out the remarks. 
+- **In each assignment, I will provide a peer review rubric specific to that assignment, which you will copy into that issue.**
+- Fill in your and the reviewee's GitHub IDs, add an "x" where needed for grades, and fill out the remarks. 
 - How should you decide between "Excellent", "Satisfactory", and "Needs Work"? [Jump to the guide to filling out a rubric below](#filling-out-the-rubric).
 - Some assignments might ask you to evaluate specific things or additional topics. Follow those instructions if present.
 
