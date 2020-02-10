@@ -15,6 +15,7 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
 ### The analysis:
 
 1. Load "CCM_cleaned_for_class.dta" using the code below. This data are from "Compustat", which collects accounting data from 10-Ks and other corporate disclosures. The "CCM" in the filename means "CRSP-Compustat Merged" because it has a variable called "lpermno" which can be linked to CRSP (a database of stock prices).
+  - [Variable descriptions here](https://github.com/LeDataSciFi/lectures-spr2020/tree/master/assignment_data)
   - `ccm = pd.read_stata('https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/CCM_cleaned_for_class.dta?raw=true')`
 2. Make a section in your notebook called "Data Exploration" and do the following:
   - The best practice data exploration steps from the lecture.
