@@ -1,18 +1,18 @@
 # Assignment 3 - Explore Compustat
 
-## Overview
+### Overview
 
 **Due date: See the [schedule](https://ledatascifi.github.io/#schedule).**
 
-The goal is to get your feet wet with using `seabown` to explore a dataset.
+The goal is to get your feet wet with using `seaborn` to explore a dataset.
 
-## Let's get started
+### Let's get started
 
 1. Again, read the [homework guidelines](guidelines-asgn.html).
 2. Click on the invitation link I sent to you and accept the assignment on GitHub. This will create a repo.
 3. Clone it to your computer, a la assignment 1. 
 
-## The analysis:
+### The analysis:
 
 1. Load "CCM_cleaned_for_class.dta" using the code below. This data are from "Compustat", which collects accounting data from 10-Ks and other corporate disclosures. The "CCM" in the filename means "CRSP-Compustat Merged" because it has a variable called "lpermno" which can be linked to CRSP (a database of stock prices).
   - `ccm = pd.read_stata('https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/CCM_cleaned_for_class.dta?raw=true')`
@@ -48,12 +48,12 @@ The goal is to get your feet wet with using `seabown` to explore a dataset.
   - github.com/ledatascifi : go to your assignment and make sure everything is there
   - Edit the readme file so visitors know what the repo is doing (like "(yada yada) ... assignment.ipynb runs the main analysis based on ... (yada yada))
   
-## Peer review instructions
+### Peer review instructions
 
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
 2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  
 
-## Grading rubric
+### Grading rubric
 
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
 
