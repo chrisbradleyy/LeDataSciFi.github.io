@@ -25,7 +25,7 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
 3. Make a section in your notebook called "Case Studies" and do the following:
   - Create a variable describing the change in profitability (`prof_a`) for the firm and `describe()` that variable for the whole dataset. The change should be in levels (Profitability(t)-Profitability(t-1) and not in percentages.)
   - Use `query` to filter to four firms of your choice in the decade of the 2000s. Do not use AAPL, MSFT, TSLA, Ford, VZ, or GM - explore some other firms!
-  - Plot three variables of your choice for all four firms. Look for noteworthy and meaningful changes (large declines, inclines, or changes in the slope of time path). Do one graph for each variable (and each graph  will have four lines corresponding to each firm). 
+  - Plot three variables of your choice for all four firms. Look for noteworthy and meaningful changes (large declines, inclines, or changes in the slope of time path). Do one graph for each variable (and each graph  will have four lines corresponding to each firm). I'd recommend using the ticker for the hue, so that readers can quickly figure out which firms are in the graph. (I have no idea what GVKEY 11045 is!)
   - Use markdown cells before and after your plots to describes the plots for readers and say what you think is interesting about them.
 4. Make a section in your notebook called "Financial leverage during the crisis":
   - Start with the original data (CCM_cleaned_for_class.dta) again.
