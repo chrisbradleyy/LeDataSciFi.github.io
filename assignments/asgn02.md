@@ -53,7 +53,7 @@ We will talk more about merging in future weeks, but [the top voted answer here 
 Let's explore risk and return by industry and state. For simplicity, let's only look at CA and NY firms and only at tech and finance. 
 
 At a minimum, you should produce the following tables, **along with some discussion, analysis, and interpretation**:
-- T1 ("Daily return characteristics"): Using daily returns, report for each state and industry separately: 
+- T1 ("Daily return characteristics"): Using daily returns, report for each state and industry combination (so each stat for the 4 combinations of CA/NY and Fin/IT): 
 	- the number of observations
 	- the number of unique firms
 	- return statistics (mean, std, min, max), which should be based on the daily **percent** return (i.e. return*100)
