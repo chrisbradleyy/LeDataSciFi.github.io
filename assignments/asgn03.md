@@ -23,7 +23,7 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
   - Look for two variables (you only need two!) with rampant missing values. If found, write in a markdown cell that "Future work will need to understand why there are missing values of ______ and ______ and understand whether and how we should deal with them."
   - Note: You don't need do anything to deal with outliers or missing values, and I did not in my "answer key"
 3. Make a section in your notebook called "Case Studies" and do the following:
-  - Create a variable describing the change in profits (`prof_a`) for the firm and `describe()` that variable for the whole dataset. The change should be in levels (Profitability(t)-Profitability(t-1) and not in percentages.)
+  - Create a variable describing the change in profitability (`prof_a`) for the firm and `describe()` that variable for the whole dataset. The change should be in levels (Profitability(t)-Profitability(t-1) and not in percentages.)
   - Use `query` to filter to four firms of your choice in the decade of the 2000s. Do not use AAPL, MSFT, TSLA, Ford, VZ, or GM - explore some other firms!
   - Plot three variables of your choice for all four firms. Look for noteworthy and meaningful changes (large declines, inclines, or changes in the slope of time path). Do one graph for each variable (and each graph  will have four lines corresponding to each firm). 
   - Use markdown cells before and after your plots to describes the plots for readers and say what you think is interesting about them.
