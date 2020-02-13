@@ -32,12 +32,12 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
   - Reduce to 2003-2013 (use the fyear variable)
   - Create a "sic2" variable based on the first 2 digits of "sic". This variable describes the industry for the firm. You can learn about [SIC codes here](https://en.wikipedia.org/wiki/Standard_Industrial_Classification) and [this excel file](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjFs7qX7cfnAhXxtlkKHfB6BUoQFjABegQIAxAC&url=https%3A%2F%2Fwww.dnb.com%2Fcontent%2Fdam%2Fenglish%2Feconomic-and-industry-insight%2Fsic_2_digit_codes.xls&usg=AOvVaw0UCJkYdyG_8d7_wysKwC60) has each industry's name. 
   - Eliminate observations for SIC2 = 99 or 41. 
-  - Compute average leverage (using the book value of assets) and average profits for each industry (SIC2)-year. And here I mean the combination of industry and year! (So, for example, Chemicial-2000, Tech-2000, Finance-2000 all have different values than Chemicial-2001, Tech-2001, Finance-2001.)
-  - `describe()` the **industry-year** average leverage and profit variables you just made
+  - Compute average leverage (using the book value of assets - variable td_a) and average profitability (prof_a) for each industry (SIC2)-year. And here I mean the combination of industry and year! (So, for example, Chemicial-2000, Tech-2000, Finance-2000 all have different values than Chemicial-2001, Tech-2001, Finance-2001.)
+  - `describe()` the **industry-year** average leverage and profitability variables you just made
   - Find the 4 industries with the highest average leverage in 2007 and the 4 industries with the lowest average leverage in 2007
-  - Reduce the data to just those 10 industries
-  - Plot the average leverage for your 10 industries for 2003-2013
-  - Plot the average profit for your 10 industries for 2003-2013
+  - Reduce the data to just those 8 industries
+  - Plot the average leverage for your 8 industries for 2003-2013
+  - Plot the average profitability for your 8 industries for 2003-2013
   - Summarize what you learned in a markdown cell. 
 5. When you're done with the above
   - Your repo should be logically organized, with subfolders for inputs, outputs, and temp files (if needed). No file should be in a folder that it doesn't belong to. (No outputs in the input folder!) The code should be in the main folder. 
