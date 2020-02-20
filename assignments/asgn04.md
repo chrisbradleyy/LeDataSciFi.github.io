@@ -35,19 +35,21 @@ Assume that the **stock data is the "left" dataset and the French data is the "r
 1. Why isn't the answer to Q2 and Q4 the same?
 3. After an outer merge? 
 4. After an inner merge?
-5. Do a _**right**_ merge. Now, add a variable to this dataset that equals "the variance of the market return for the year" for each firm year (see the hint below on this). What is the mean of this variable after the merges?
+5. Do a _**right**_ merge. Now, add a variable to this dataset that equals "the variance of the market return for the year" for every observation in the dataset. What is the average of this variable? (See the hints below on this.)
 
-**For the sake of your classmate doign the review, please put your answers to these questions in one concise cell at the end of this "Part" of the assignment.**
+**For the sake of your classmates doing the review, please put your answers to these questions in one concise cell at the end of this "Part" of the assignment.**
 
-HINT 1 for Q8: When you `groupby(['year'])['mkt'].std()`, pandas will return a dataset with one observation for each firm-year. You want to copy that 
+HINT 1 for Q8:  You know that this variable should have a count equal your answer to Q4. 
 
-HINT 2 for Q8:  You know that this variable should have a count equal your answer to Q4. 
+HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 
-HINT 3 for Q8: If you get a mean of 1.289761, that is wrong.
+## PART 2: The glow up
 
-## PART 2:
+**Task:** Repeat any 2 plots you've done before in the course that you think could be improved based on what we discussed in the "Good Viz" lectures. For each, replicate _**exactly**_  what you did before, and then create a better one. (Like a before/after picture comparison.) Briefly explain why you made the changes/what is better about them. 
 
-Repeat any 2 plots you've done before in the course that you think could be improved based on what we discussed in the "Good Viz" lectures. For each, replicate _**exactly**_  what you did before, and then create a better one. (Like a before/after picture comparison.) Briefly explain why you made the changes/what is better about them. 
+**How your improvements will be graded: Effectiveness and creativity.**  Focus on "first-order" issues first (choosing effective chart types, facets/hues _**as needed**_), then on informative labels, axis titles, chart titles, and the like. Be creative! Figures might get completely reimagined as new types, or multiple figures, or the data will be altered in some way. (The before and after picture might not present the _exact same_ underlying data, but they must be attempting to convey the same point.)
+
+We did not talk about customizing figures in class, and instead used the time on getting the "meat on the slab" first, but the lecture pages do include helpful links that will get you started on customization. I'd look at those before running off to Stack Overflow, as the background will make S.O. posts more intelligible. 
 
 ## When you're done with the above (How to finalize your assignment)
 
@@ -78,10 +80,12 @@ Evaluation by: __put your github id here__
 
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
-| **Coding style**                               |        |          |            |
-| **Coding strategy**                             |        |          |            |
 | **Code executes without error.** This means that the code runs **on your own computer** after you clone the repo. \*                     |        |          |            |
-|  **Code gives correct answers** \*\*    |        |          |            |
+| **Code gives correct answers to Part 1** \*\*    |        |          |            |
+| **Coding style (overall)** - comments when code isn't self documenting, notebook cells are divided sensibly (but not excessively), notebook report is structured nicely for a reader (headers, informative text exists and is well placed, etc.)                         |        |          |            |
+| **Graphing - wholistic effectiveness** Did they improve your ability to understand the message of the graph?                              |        |          |            |
+| **Graphing - creativeness** How inventive was their glow up? "Excellent" in this category should not be given lightly! But give more than "Needs work" if the graphs exceed a minimal amount of ambition/scope and the execution show reasonable level of mastery of the raw techniques and coding functions.        |        |          |            |
+| **Graphing - control**. Is the aspect ratio reasonable? Are the axis ranges and labels sensible? Are axis/graph titles informative (if they are needed - some graphs are so obvious they aren't). Are colors applied sensibly when merited (but not gratitously.  "Excellent" means you wouldn't tweak much if anything on the figure even if you could do it as easily as with a pencil.            |        |          |            |
 | **Repo follows golden rules as needed, including the README**  This means doing all the steps in the "When you're done with the above"  section, plus unlisted golden rules listed in the lectures.  |        |          |            |
 
 \* _See "ease of access" in the rubric guidelines for more details_
