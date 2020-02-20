@@ -54,6 +54,7 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 ## When you're done with both parts (How to finalize your assignment)
 
 - Your repo should be logically organized, with subfolders for inputs, outputs, and temp files (if needed). No file should be in a folder that it doesn't belong to. (No outputs in the input folder!) The code should be in the main folder. 
+- Clean up your repo - delete extraneous files not needed by peer reviews, or if you want to keep them: move them to a "`dev`" subfolder (which is commonly known to be a place where you put files you used while developing the code). You could call this subfolder "old files" or "my files" or whatever you want. Just clean it up for your reviewers and external eyes :)
 - If you create output or temp folders, make sure your analysis file begins by deleting those folders and remaking them from scratch. 
 - If you need any additional inputs, download them to inputs. You don’t need to save the CCM file to your computer unless you want!
 - Make sure that you refer to files with relative paths ("/input/wine.csv") and NOT absolute paths ("User/Don/Desktop/Project/input/wine.csv") because the latter won't work on anyone else's computer
