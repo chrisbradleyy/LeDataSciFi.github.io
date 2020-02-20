@@ -49,9 +49,9 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 
 **How your improvements will be graded: Effectiveness and creativity.**  Focus on "first-order" issues first (choosing effective chart types, facets/hues _**as needed**_), then on informative labels, axis titles, chart titles, and the like. **Be creative!** Figures might get completely reimagined as new types, or multiple figures, or the data will be altered in some way. (The before and after picture might not present the _exact same_ underlying data, but they must be attempting to convey the same point.)
 
-We did not talk about customizing figures in class, and instead used the time on getting the "meat on the slab" first, but the lecture pages do include helpful links that will get you started on customization. I'd look at those before running off to Stack Overflow, as the background will make S.O. posts more intelligible. 
+**A recommendation:** We did not talk about customizing figures in class, and instead used the time on getting the "meat on the slab" first, but the lecture pages do include helpful links that will get you started on customization. I'd look at those before running off to Stack Overflow, as the background will make S.O. posts more intelligible. 
 
-## When you're done with the above (How to finalize your assignment)
+## When you're done with both parts (How to finalize your assignment)
 
 - Your repo should be logically organized, with subfolders for inputs, outputs, and temp files (if needed). No file should be in a folder that it doesn't belong to. (No outputs in the input folder!) The code should be in the main folder. 
 - If you create output or temp folders, make sure your analysis file begins by deleting those folders and remaking them from scratch. 
