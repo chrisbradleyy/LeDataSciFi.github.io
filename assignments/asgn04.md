@@ -47,7 +47,7 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 
 **Task:** Repeat any 2 plots you've done before in the course that you think could be improved based on what we discussed in the "Good Viz" lectures. For each, replicate _**exactly**_  what you did before, and then create a better one. (Like a before/after picture comparison.) Briefly explain why you made the changes/what is better about them. 
 
-**How your improvements will be graded: Effectiveness and creativity.**  Focus on "first-order" issues first (choosing effective chart types, facets/hues _**as needed**_), then on informative labels, axis titles, chart titles, and the like. Be creative! Figures might get completely reimagined as new types, or multiple figures, or the data will be altered in some way. (The before and after picture might not present the _exact same_ underlying data, but they must be attempting to convey the same point.)
+**How your improvements will be graded: Effectiveness and creativity.**  Focus on "first-order" issues first (choosing effective chart types, facets/hues _**as needed**_), then on informative labels, axis titles, chart titles, and the like. **Be creative!** Figures might get completely reimagined as new types, or multiple figures, or the data will be altered in some way. (The before and after picture might not present the _exact same_ underlying data, but they must be attempting to convey the same point.)
 
 We did not talk about customizing figures in class, and instead used the time on getting the "meat on the slab" first, but the lecture pages do include helpful links that will get you started on customization. I'd look at those before running off to Stack Overflow, as the background will make S.O. posts more intelligible. 
 
@@ -68,15 +68,11 @@ We did not talk about customizing figures in class, and instead used the time on
 
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
 2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPTUER AS WELL!**
-2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  
+2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  You can delete the "notes" I put in each row (the non-bolded explanatory parts).
 
 ## Grading rubric
 
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
-
-Evaluation of: __put the student github id here__
-
-Evaluation by: __put your github id here__
 
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
@@ -85,12 +81,12 @@ Evaluation by: __put your github id here__
 | **Coding style (overall)** - comments when code isn't self documenting, notebook cells are divided sensibly (but not excessively), notebook report is structured nicely for a reader (headers, informative text exists and is well placed, etc.)                         |        |          |            |
 | **Graphing - wholistic effectiveness** Did they improve your ability to understand the message of the graph?                              |        |          |            |
 | **Graphing - creativeness** How inventive was their glow up? "Excellent" in this category should not be given lightly! But give more than "Needs work" if the graphs exceed a minimal amount of ambition/scope and the execution show reasonable level of mastery of the raw techniques and coding functions.        |        |          |            |
-| **Graphing - control**. Is the aspect ratio reasonable? Are the axis ranges and labels sensible? Are axis/graph titles informative (if they are needed - some graphs are so obvious they aren't). Are colors applied sensibly when merited (but not gratitously.  "Excellent" means you wouldn't tweak much if anything on the figure even if you could do it as easily as with a pencil.            |        |          |            |
+| **Graphing - control**. Is the aspect ratio reasonable? Are the axis ranges and labels sensible? Are axis/graph titles informative (if they are needed - some graphs are so obvious they aren't). Are colors applied sensibly when merited (but not gratitously)?  "Excellent" means you wouldn't tweak much if anything on the figure even if you could do it as easily as with a pencil.            |        |          |            |
 | **Repo follows golden rules as needed, including the README**  This means doing all the steps in the "When you're done with the above"  section, plus unlisted golden rules listed in the lectures.  |        |          |            |
 
 \* _See "ease of access" in the rubric guidelines for more details_
 
-\*\* _See answer key I email out_
+\*\* _See answer key_
 
 Remarks:
 
