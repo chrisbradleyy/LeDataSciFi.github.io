@@ -66,11 +66,11 @@ Evaluation by: __put your github id here__
 
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
-| **Coding style**                               |        |          |            |
+| **Coding style**  comments when code isn't self documenting, notebook cells are divided sensibly (but not excessively), notebook report is structured nicely for a reader (headers, informative text exists and is well placed, etc.)                             |        |          |            |
 | **Coding strategy**                             |        |          |            |
-| **Code executes without error** \*                     |        |          |            |
+| **Code executes without error.** This means that the code runs **on your own computer** after you clone the repo. \*                     |        |          |            |
 |  **Code gives correct answers** \*\*    |        |          |            |
-| **Repo follows golden rules as needed, including the README**      |        |          |            |
+| **Repo follows golden rules as needed, including the README.**  This means doing all the steps in the "When you're done with the above" section, plus unlisted golden rules listed in the lectures.      |        |          |            |
 
 \* _See "ease of access" in guidelines_
 
