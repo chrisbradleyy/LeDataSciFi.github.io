@@ -54,6 +54,7 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
 ### Peer review instructions
 
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
+2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPTUER AS WELL!**
 2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  
 
 ### Grading rubric
@@ -67,7 +68,7 @@ Evaluation by: __put your github id here__
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
 | **Coding style**  comments when code isn't self documenting, notebook cells are divided sensibly (but not excessively), notebook report is structured nicely for a reader (headers, informative text exists and is well placed, etc.)                             |        |          |            |
-| **Coding strategy**                             |        |          |            |
+| **Coding strategy**   See [details here.](guidelines-peerreview.html#filling-out-the-rubric)                          |        |          |            |
 | **Code executes without error.** This means that the code runs **on your own computer** after you clone the repo. \*                     |        |          |            |
 |  **Code gives correct answers** \*\*    |        |          |            |
 | **Repo follows golden rules as needed, including the README.**  This means doing all the steps in the "When you're done with the above" section, plus unlisted golden rules listed in the lectures.      |        |          |            |
