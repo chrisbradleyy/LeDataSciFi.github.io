@@ -1,8 +1,12 @@
 # Our first real data science project
 
-## Objective
+**Due date: See the [schedule](https://ledatascifi.github.io/#schedule).**
 
-**Due date: See the [schedule](https://ledatascifi.github.io/#schedule).** Warning: This assignment is the first project where you will have to get data, clean it yourself, and parse the data to create variables to analyze. These take time! 
+**Warning/time guidance:** This assignment is the first project where you will have to get data, clean it yourself, and parse the data to create variables to analyze. These steps take time! 
+- Using the materials from our lectures on "Getting Data From the Web", try to have the [first three steps](#how-to-actually-proceed-and-build-up-your-code) done before next week.
+- Steps 4 and 5 build off the lectures on "Parsing Text Documents". They will probably take time because they require creativity and you will have to iterate on ideas to find something that works and is interesting. 
+
+## Objective
 
 Economic theory tells us that a firm's investment policy (both R&D and CAPX), in the absence of _"economic frictions"_, should equate the marginal cost (MC) of an additional unit of capital to the marginal benefit (MB) of investing that capital today. If it was true that there are no relevant frictions (but there are!) **and** we could measure the ratio of MB/MC (which is called "Marginal Q"), then we could perfectly predict investment with only Marginal Q! 
 
@@ -62,18 +66,19 @@ Let's get started
   - You might add a check to only download a file if you don't already have it. 
 3. When you are confident the program works, let it run on the whole dataset! Mine took about 10 minutes, and downloaded 148 files that took about 232MB on my computer. 
 4. Write a function that takes a row of the dataset as an input, opens the filing in question, and creates your risk measures. Here's one (but there are many more) way to do that:
-  1. Open one of the 10-Ks in Jupyter to work on. 
-  2. Develop code to clean it up so that you can actually analyze the text. **More on this later.** 
-  3. Only when you have this working well, turn it into a function (I called mine `extract_filing_text`) and use it on the 10-K you're practicing on.
-  3. Develop code that creates your risk measures. Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?
-  4. Only when you have this working well, turn it into a function (I called mine `create_risk_measures`) and use it on the 10-K you're practicing on. 
+  - Open one of the 10-Ks in Jupyter to work on. 
+  - Develop code to clean it up so that you can actually analyze the text. **More on this later.** 
+  - Only when you have this working well, turn it into a function (I called mine `extract_filing_text`) and use it on the 10-K you're practicing on.
+  - Develop code that creates your risk measures. Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?
+  - Only when you have this working well, turn it into a function (I called mine `create_risk_measures`) and use it on the 10-K you're practicing on. 
 5. Now, you need to find a way to run both of these functions on every filing and then add 5 new variables to the dataset. Keep in mind that the new variables will be blank except for the 148 observations with filings. 
-3. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 technology. You should do this visually.
-  - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables
-  - You should write brief summaries of your findings.
-4. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created
-  - You should write brief summaries of your findings.
-5. Bonus: Explore the relationships between investment, tech, and risks simulaneously using regressions. (One regression for CAPX and one for R&D.)
+6. Analysis. Present you findings visually and follow the lessons on effective visualization!
+  - Explore the correlation between 2008 investment (CAPX and R&D) and 2007 technology.
+    - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables
+    - You should write brief summaries of your findings.
+  - Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created
+    - You should write brief summaries of your findings.
+  - Bonus: Explore the relationships between investment, tech, and risks simulaneously using regressions. (One regression for CAPX and one for R&D.)
 
 ## When you're done (this section is different than last time!)
 
