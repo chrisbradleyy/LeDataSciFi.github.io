@@ -31,9 +31,9 @@ So, we need an annual dataset of firms with three sets of variables: (1) investm
     - Be careful: you might need to make sure the topic is being discussed in the context (near) of risk. E.g. "Patent" is often talked about without invoking risks. 
   - Some risks you could look to measure include, but are not limited to: antitrust; litigation - e.g. patent, consumer, class action; real estate; inflation; commodity; supply chain; natural disasters; weather; employees (fraud, compensation, departure); changes in tax policy; currency rates; regulatory approval; reputation; refinancing
   - Prof. Kathleen Hanley [has a recent paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792943) on risks. It focuses on financial firms, which isn't our sample, but nevertheless, it contains a long list of risks in Table 5 you might find interesting.
-  - Pick a risk type (e.g. antitrust) and come up with 3 different ways to measure it from the text. 
-  - Pick a second risk type and create a measure for it (you only need to do one, but you can do more)
-  - Pick a third risk type and create a measure for it (you only need to do one, but you can do more)
+  - Pick a risk type (e.g. antitrust) and come up with 3 different ways to measure it from the text. You can try different terms, different regexs, different limits on how close terms need to be, and more. Comparing these might help you understand how your choices can improve or hurt the value of your measurement. 
+  - Pick a second risk type and create a measure for it (you only need to do one measurement on this risk type, but you can do more)
+  - Pick a third risk type and create a measure for it (again, you only need to do one, but you can do more)
   
 ## Let's get started
 
@@ -47,7 +47,7 @@ So, we need an annual dataset of firms with three sets of variables: (1) investm
 2. Loop over those files, and for each one, create your risk variables. (See the next section for more details.)
 3. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 technology. You should do this visually.
   - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables_
-4. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created
+4. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created.
 5. Bonus: Explore the relationships between investment, tech, and risks simulaneously using regressions. (One regression for CAPX and one for R&D.)
 
 ## How to actually proceed and build up your code
@@ -77,7 +77,11 @@ So, we need an annual dataset of firms with three sets of variables: (1) investm
   - Develop code that creates your risk measures. Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?
   - Only when you have this working well, turn it into a function (I called mine `create_risk_measures`) and use it on the 10-K you're practicing on. 
 5. Now, you need to find a way to run both of these functions on every filing and then add 5 new variables to the dataset. Keep in mind that the new variables will be blank except for the 148 observations with filings. 
-6. Analysis. Present you findings visually and follow the lessons on effective visualization!
+6. Analysis. Present your findings visually and follow the lessons on effective visualization!
+  - Describe to readers your risk measurements both in terms how you measured them, what you hope they capture, and their statistical properties. 
+  - Discuss briefly whether these measurements are likely "valid" in the sense they capture what you hope.
+  - BONUS: If possible / merited, present some evidence they do capture your hopes. (You probably don't have enough data here to validate that your measure is associated with the actual risk. But if you do, show us!)
+    - This step (validating the measurement) is very important in production quality analysis! 
   - Explore the correlation between 2008 investment (CAPX and R&D) and 2007 technology.
     - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables
     - You should write brief summaries of your findings.
