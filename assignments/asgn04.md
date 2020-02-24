@@ -60,10 +60,10 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
   > <process data, prep for plotting>
   > <plot figure>
   > ```
-  > The reason this figure is bad is because <reasons>. 
+  > The reason this figure is bad is because \<reasons\>. 
   >  
   > ### Figure 1: <title here> (After)  
-  > <plot figure>
+  > 
   > ```python
   > sns.amazingplot()  
   > ```
