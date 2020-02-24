@@ -51,7 +51,7 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 
   > ## Part 2: the Glow up
   >
-  > ### Figure 1: <title here> (BEFORE)
+  > ### Figure 1: \<title here\> (BEFORE)
   >
   > The original figure was created as follows:
   > ```python  
@@ -62,7 +62,7 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
   > ```
   > The reason this figure is bad is because \<reasons\>. 
   >  
-  > ### Figure 1: <title here> (After)  
+  > ### Figure 1: \<title here\> (After)  
   > 
   > ```python
   > sns.amazingplot()  
