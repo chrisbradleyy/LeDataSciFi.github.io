@@ -8,9 +8,11 @@
 
 ## Objective
 
-Economic theory tells us that a firm's investment policy (both R&D and CAPX), in the absence of _"economic frictions"_, should equate the marginal cost (MC) of an additional unit of capital to the marginal benefit (MB) of investing that capital today. If it was true that there are no relevant frictions (but there are!) **and** we could measure the ratio of MB/MC (which is called "Marginal Q"), then we could perfectly predict investment with only Marginal Q! 
+Economic theory tells us that a firm's investment policy (both R&D and CAPX), in the absence of _"economic frictions"_, should equate the marginal cost (MC) of an additional unit of capital to the marginal benefit (MB) of investing that capital today. 
 
-Alas, measuring Marginal Q is impossible :( , so empirical researchers interested in understanding corporate investment policies have proposed many fixes. I won't discuss these other than to say most focus on improved estimation of Marginal Q or adding additional variables to investment models. And that's the approach this assignment is going to take. 
+If it was true that there are no relevant frictions (but there are!) **and** we could measure the ratio of MB/MC (which is called "Marginal Q"), then we could perfectly predict investment with only Marginal Q! 
+
+Alas, measuring Marginal Q is impossible :( , so empirical researchers interested in understanding corporate investment policies have proposed many fixes. I won't discuss these other than to say most focus on improved estimation of Marginal Q or adding additional variables to investment models. The latter is the approach this assignment is following - seeing if and how other variables are related to investment. 
 
 **So today, we are going to an exploratory analysis: Are the investment choices (R&D and CAPX) a firm makes related to its technology and risks it faces?**
 
@@ -18,19 +20,22 @@ Alas, measuring Marginal Q is impossible :( , so empirical researchers intereste
 
 So, we need an annual dataset of firms with three sets of variables: (1) investment,  (2) technology, and (3) risks. I've provided the first two in (A, described below), but **you'll need to develop five measures of risk on your own using the text in firm 10-K filings.**
 
-**A.** Provided for you: variables describing investment (CAPX and R&D, **both scaled by last year's assets, and when I say CAPX and R&D I always mean the scaled versions**) and technology (various patent measures)
-  - "2007_inv_and_tech.dta", which is in the [usual place](https://github.com/LeDataSciFi/lectures-spr2020/tree/master/assignment_data)
+**A. Provided for you:.** variables describing investment (CAPX and R&D, **both scaled by last year's assets, and when I say CAPX and R&D I always mean the scaled versions**) and technology (various patent measures)
+  - "2007_inv_and_tech.dta", which is in the [usual place](https://github.com/LeDataSciFi/lectures-spr2020/tree/master/assignment_data) and can be downloaded similarly
   - This sample includes data for **2007 and 2008** fiscal years for ~200 firms
   - **This data also includes variables that will help you find the 10-K filing online**
 
-**B.** You'll need to get: Variables describing risks a firm faces 
-  - Possibilities not limited to: antitrust; litigation - e.g. patent, consumer, class action; real estate; inflation; commodity; supply chain; natural disasters; weather; employees (fraud, compensation, departure); changes in tax policy; currency rates; regulatory approval; reputation; refinancing
+**B. You'll need to create:** Variables describing risks a firm faces 
+
+  - At this point in the class, you probably aren't aware of any sophisticated language techniques, and that's fine! Simply looking for the "topic" (e.g. patent litigation) probably suffices. 
+    - Be careful: you might need to make sure the topic is being discussed in the context (near) of risk. E.g. "Patent" is often talked about without invoking risks. 
+  - Some risks you could look to measure include, but are not limited to: antitrust; litigation - e.g. patent, consumer, class action; real estate; inflation; commodity; supply chain; natural disasters; weather; employees (fraud, compensation, departure); changes in tax policy; currency rates; regulatory approval; reputation; refinancing
   - Prof. Kathleen Hanley [has a recent paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792943) on risks. It focuses on financial firms, which isn't our sample, but nevertheless, it contains a long list of risks in Table 5 you might find interesting.
   - Pick a risk type (e.g. antitrust) and come up with 3 different ways to measure it from the text. 
   - Pick a second risk type and create a measure for it (you only need to do one, but you can do more)
   - Pick a third risk type and create a measure for it (you only need to do one, but you can do more)
   
-Let's get started
+## Let's get started
 
 1. Again, read the homework guidelines.
 2. Click on the invitation link I sent to you and accept the assignment on GitHub. This will create a repo.
@@ -41,7 +46,7 @@ Let's get started
 1. Download and save 10-Ks for all firms in the sample. (See the next section for more details.)
 2. Loop over those files, and for each one, create your risk variables. (See the next section for more details.)
 3. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 technology. You should do this visually.
-  - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables
+  - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables_
 4. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created
 5. Bonus: Explore the relationships between investment, tech, and risks simulaneously using regressions. (One regression for CAPX and one for R&D.)
 
