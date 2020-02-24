@@ -20,7 +20,7 @@ Alas, measuring Marginal Q is impossible :( , so empirical researchers intereste
 
 So, we need an annual dataset of firms with three sets of variables: (1) investment,  (2) technology, and (3) risks. I've provided the first two in (A, described below), but **you'll need to develop five measures of risk on your own using the text in firm 10-K filings.**
 
-**A. Provided for you:.** variables describing investment (CAPX and R&D, **both scaled by last year's assets, and when I say CAPX and R&D I always mean the scaled versions**) and technology (various patent measures)
+**A. Provided for you:** variables describing investment (CAPX and R&D, **both scaled by last year's assets, and when I say CAPX and R&D I always mean the scaled versions**) and technology (various patent measures)
   - "2007_inv_and_tech.dta", which is in the [usual place](https://github.com/LeDataSciFi/lectures-spr2020/tree/master/assignment_data) and can be downloaded similarly
   - This sample includes data for **2007 and 2008** fiscal years for ~200 firms
   - **This data also includes variables that will help you find the 10-K filing online**
@@ -45,6 +45,7 @@ So, we need an annual dataset of firms with three sets of variables: (1) investm
 
 1. Download and save 10-Ks for all firms in the sample. (See the next section for more details.)
 2. Loop over those files, and for each one, create your risk variables. (See the next section for more details.)
+3. Explore your risk variables.
 3. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 technology. You should do this visually.
   - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables_
 4. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created.
@@ -69,10 +70,10 @@ So, we need an annual dataset of firms with three sets of variables: (1) investm
       sleep(3) # take a pause before trying another filing
     ```
   - You might add a check to only download a file if you don't already have it. 
-3. When you are confident the program works, let it run on the whole dataset! Mine took about 10 minutes, and downloaded 148 files that took about 232MB on my computer. 
+3. When you are confident the program works, let it run on the whole dataset! Mine took about 10 minutes, and downloaded files for 148 firms that took about 232MB on my computer. 
 4. Write a function that takes a row of the dataset as an input, opens the filing in question, and creates your risk measures. Here's one (but there are many more) way to do that:
   - Open one of the 10-Ks in Jupyter to work on. 
-  - Develop code to clean it up so that you can actually analyze the text. **More on this later.** 
+  - Develop code to clean it up so that you can actually analyze the text. We will talk about this next week.  
   - Only when you have this working well, turn it into a function (I called mine `extract_filing_text`) and use it on the 10-K you're practicing on.
   - Develop code that creates your risk measures. Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?
   - Only when you have this working well, turn it into a function (I called mine `create_risk_measures`) and use it on the 10-K you're practicing on. 
