@@ -1,6 +1,4 @@
-# Assignment under construction!
-
-Come back soon!
+# Our first real data science project
 
 ## Objective
 
@@ -72,8 +70,46 @@ Let's get started
 5. Now, you need to find a way to run both of these functions on every filing and then add 5 new variables to the dataset. Keep in mind that the new variables will be blank except for the 148 observations with filings. 
 3. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 technology. You should do this visually.
   - _Note: Because investment is the "outcome", we want the "inputs" to be measured before the 2008 fiscal year starts, which is why we use the prior year ("lagged") technology variables
+  - You should write brief summaries of your findings.
 4. Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created
+  - You should write brief summaries of your findings.
 5. Bonus: Explore the relationships between investment, tech, and risks simulaneously using regressions. (One regression for CAPX and one for R&D.)
 
+## When you're done (this section is different than last time!)
 
+- Your repo should be logically organized, with subfolders for the EDGAR filings, inputs (the CCM file I gave you, and anything else you download to use), outputs (if you create any), and temp files (if your parser creates intermediate files, put them here). No file should be in a folder that it doesn't belong to. (No outputs in the input folder!) The code should be in the main folder. 
+  - If you create output or temp folders, make sure your analysis file begins by deleting those folders and remaking them from scratch. (Don't delete the EDGAR filings subfolder though! That's an "input".) 
+  - Clean up your repo - delete extraneous files not needed by peer reviews, or if you want to keep them: move them to a "`dev`" subfolder (which is commonly known to be a place where you put files you used while developing the code). You could call this subfolder "old files" or "my files" or whatever you want. Just clean it up for your reviewers and external eyes :)
+- **Edit the readme file so visitors know what the repo is doing** (like "(yada yada) ... assignment.ipynb runs the main analysis based on ... (yada yada))
+  - You should inform them if they need to `pip install` anything
+  - You should note that running this code will create subfolders with approx 250MB in size
+- Make sure that your code only refers to files with relative paths ("/input/wine.csv") and NOT absolute paths ("User/Don/Desktop/Project/input/wine.csv") because the latter won't work on anyone else's computer
+- In Jupyter: Restart the kernal and clear the output
+- In Jupyter: Run the entire file, and make sure it works **from scratch**. This means no errors, and also check that your answers didn’t change!
+  - When I do this, my code doesn't attempt to redownload any files I already have, so this is actually fast
+- In Jupyter: Save your assignment file.
+- In Github Desktop: "Commit" and "Push to origin"
+- github.com/ledatascifi : go to your assignment and make sure everything is there
 
+## Cheers!
+
+**Give yourself a hug round of applause at this point!**
+
+Your code should be really flexible now. If you have the appetitie + a larger list of EDGAR files + a large enough hard drive + and time, then you could download more than 100GB of 10-K filings and run this analysis across 20 years of data for all publically traded firms. 
+
+Or, you could do any analysis you wanted that focused in part on the 10-Ks of firms. Some great ones:
+- [Claim: Identifying changes in 10-K/Q filings can generate a 20% alpha](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1658471)
+- [Prof. Hanley measured emerging risks in the financial sector](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792943)
+- [Build a unique list of competitors for each firm (really powerful!)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1520062)
+- [I used 10-K text to identify public rivals of startup firms](https://ssrn.com/abstract=3245839)
+
+## Peer review instructions
+
+1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
+2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPTUER AS WELL!**
+3. After you run it, do not push any changes to the repo. Simply delete it off your computer and remove it from GitHub Desktop (click "Repository" then "Remove") so it doesn't try to update it in the future. This isn't necessary, but will save you disk space and keep GH Desktop a little tidier. 
+2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  You can delete the "notes" I put in each row (the non-bolded explanatory parts).
+
+## Grading rubric
+
+Coming soon!
