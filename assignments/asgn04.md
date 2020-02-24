@@ -47,6 +47,27 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 
 **Task:** Repeat any 2 plots you've done before in the course that you think could be improved based on what we discussed in the "Good Viz" lectures. For each, replicate _**exactly**_  what you did before, and then create a better one. (Like a before/after picture comparison.) Briefly explain why you made the changes/what is better about them. 
 
+**The code that repeats your prior figure should be the MINIMAL amount need to reproduce the figure and contain no excess lines of code.** For example, if you're improving the last figure of assignemnt 3, don't subject reviewers to your entire assignment 3 code. You might have to delete and clean up a bunch of your code to do this. That's partly the point, in fact!
+
+  > ## Part 2: the Glow up
+  >
+  > ### Figure 1: <title here> (BEFORE)
+  >
+  > The original figure was created as follows:
+  > ```python  
+  > <import packages>
+  > <load data>
+  > <process data, prep for plotting>
+  > <plot figure>
+  > ```
+  > The reason this figure is bad is because <reasons>. 
+  >  
+  > ### Figure 1: <title here> (After)  
+  > <plot figure>
+  > ```python
+  > sns.amazingplot()  
+  > ```
+
 **How your improvements will be graded: Effectiveness and creativity.**  Focus on "first-order" issues first (choosing effective chart types, facets/hues _**as needed**_), then on informative labels, axis titles, chart titles, and the like. **Be creative!** Figures might get completely reimagined as new types, or multiple figures, or the data will be altered in some way. (The before and after picture might not present the _exact same_ underlying data, but they must be attempting to convey the same point.)
 
 **A recommendation:** We did not talk about customizing figures in class, and instead used the time on getting the "meat on the slab" first, but the lecture pages do include helpful links that will get you started on customization. I'd look at those before running off to Stack Overflow, as the background will make S.O. posts more intelligible. 
