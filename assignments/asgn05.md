@@ -93,7 +93,7 @@ _Note: Because investment is the "outcome", we want the "inputs" to be measured 
     - You should write brief summaries of your findings.
   - Explore the correlation between 2008 investment (CAPX and R&D) and 2007 risk variables you created
     - You should write brief summaries of your findings.
-  - Bonus: Explore the relationships between investment, tech, and risks simulaneously using regressions. (One regression for CAPX and one for R&D.)
+  - Bonus: Explore the relationships between investment, tech, and risks simultaneously using regressions. (One regression for CAPX and one for R&D.)
 
 ## When you're done (this section is different than last time!)
 
