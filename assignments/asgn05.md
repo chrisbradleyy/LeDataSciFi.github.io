@@ -113,11 +113,11 @@ _Note: Because investment is the "outcome", we want the "inputs" to be measured 
 
 ## Cheers!
 
-**Give yourself a hug round of applause at this point!**
+**Give yourself a big round of applause at this point!**
 
-Your code should be really flexible now. If you have the appetitie + a larger list of EDGAR files + a large enough hard drive + and time, then you could download more than 100GB of 10-K filings and run this analysis across 20 years of data for all publically traded firms. 
+Your code is probably very flexible and powerful at this point. If you have the appetitie + a larger list of EDGAR files to download + a large enough hard drive + and time, then you could download more than 100GB of 10-K filings and run this analysis across 20 years of data for all publically traded firms. 
 
-Or, you could do any analysis you wanted that focused in part on the 10-Ks of firms. Some great ones:
+**OOOOR**, even cooler, you are in the ball park of pulling off any analysis you want that needs to harness the power of these filings. These four studies are various provocative, great, and (in one case) mine:
 - [Claim: Identifying changes in 10-K/Q filings can generate a 20% alpha](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1658471)
 - [Prof. Hanley measured emerging risks in the financial sector](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792943)
 - [Build a unique list of competitors for each firm (really powerful!)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1520062)
