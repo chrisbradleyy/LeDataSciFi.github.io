@@ -95,7 +95,7 @@ _Answer to merging Q above: Inner! (If you've read this far on the instructions 
 **Tip: Treat this assignment as a “cheat sheet” for future-you!** Don’t assume that you’ll remember the lessons you learned while writing this assignment. Write things down:
 
 - Add notes on difficulties/oddities you encountered. For example, which tables/figures are easy/hard to make, which data formats make better inputs for plotting functions or for human-friendly tables.
-- Provide attribution whenever you take code or an idea from somewhere else, whether a blog post, a colleague, a vignette, etc. Putting those pointers in your “cheat sheet” will be useful for future-you – and it’s just good practice to indicate where you got things from. It also protects you on the plagarism front. 
+- Provide attribution whenever you take code or an idea from somewhere else, whether a blog post, a colleague, a vignette, etc. Putting those pointers in your “cheat sheet” will be useful for future-you – and it’s just good practice to indicate where you got things from. It also protects you on the plagiarism front. 
 
  
 ## When you are done with the analysis
@@ -112,10 +112,6 @@ Open your main python file, clear any and all results, and run the analysis from
 ## Grading rubric
 
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
-
-Evaluation of: __put the student github id here__
-
-Evaluation by: __put your github id here__
 
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
