@@ -104,7 +104,7 @@ _Note: Because investment is the "outcome", we want the "inputs" to be measured 
   - You should inform them if they need to `pip install` anything
   - You should note that running this code will create subfolders with approx 250MB in size
 - Make sure that your code only refers to files with relative paths ("/input/wine.csv") and NOT absolute paths ("User/Don/Desktop/Project/input/wine.csv") because the latter won't work on anyone else's computer
-- In Jupyter: Restart the kernal and clear the output
+- In Jupyter: Restart the kernel and clear the output
 - In Jupyter: Run the entire file, and make sure it works **from scratch**. This means no errors, and also check that your answers didn’t change!
   - When I do this, my code doesn't attempt to redownload any files I already have, so this is actually fast
 - In Jupyter: Save your assignment file.
