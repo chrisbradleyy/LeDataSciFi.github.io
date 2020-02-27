@@ -47,7 +47,7 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 
 **Task:** Repeat any 2 plots you've done before in the course that you think could be improved based on what we discussed in the "Good Viz" lectures. For each, replicate _**exactly**_  what you did before, and then create a better one. (Like a before/after picture comparison.) Briefly explain why you made the changes/what is better about them. 
 
-**The code that repeats your prior figure should be the MINIMAL amount need to reproduce the figure and contain no excess lines of code.** For example, if you're improving the last figure of assignemnt 3, don't subject reviewers to your entire assignment 3 code. You might have to delete and clean up a bunch of your code to do this. That's partly the point, in fact!
+**The code that repeats your prior figure should be the MINIMAL amount need to reproduce the figure and contain no excess lines of code.** For example, if you're improving the last figure of assignment 3, don't subject reviewers to your entire assignment 3 code. You might have to delete and clean up a bunch of your code to do this. That's partly the point, in fact!
 
   > ## Part 2: the Glow up
   >
@@ -79,7 +79,7 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 - If you create output or temp folders, make sure your analysis file begins by deleting those folders and remaking them from scratch. 
 - If you need any additional inputs, download them to inputs. You don’t need to save the CCM file to your computer unless you want!
 - Make sure that you refer to files with relative paths ("/input/wine.csv") and NOT absolute paths ("User/Don/Desktop/Project/input/wine.csv") because the latter won't work on anyone else's computer
-- In Jupyter: Restart the kernal and clear the output
+- In Jupyter: Restart the kernel and clear the output
 - In Jupyter: Run the entire file, and make sure it works **from scratch**. This means no errors, and also check that your answers didn’t change!
 - In Jupyter: Save the file.
 - In Github Desktop: "Commit" and "Push to origin"
@@ -89,7 +89,7 @@ HINT 2 for Q8: If you get a mean of 1.289761, that is wrong.
 ## Peer review instructions
 
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
-2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPTUER AS WELL!**
+2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPUTER AS WELL!**
 2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  You can delete the "notes" I put in each row (the non-bolded explanatory parts).
 
 ## Grading rubric
@@ -101,9 +101,9 @@ See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
 | **Code executes without error.** This means that the code runs **on your own computer** after you clone the repo. \*                     |        |          |            |
 | **Code gives correct answers to Part 1** \*\*    |        |          |            |
 | **Coding style (overall)** - comments when code isn't self documenting, notebook cells are divided sensibly (but not excessively), notebook report is structured nicely for a reader (headers, informative text exists and is well placed, etc.)                         |        |          |            |
-| **Graphing - wholistic effectiveness** Did they improve your ability to understand the message of the graph?                              |        |          |            |
+| **Graphing - holistic effectiveness** Did they improve your ability to understand the message of the graph?                              |        |          |            |
 | **Graphing - creativeness** How inventive was their glow up? "Excellent" in this category should not be given lightly! But give more than "Needs work" if the graphs exceed a minimal amount of ambition/scope and the execution show reasonable level of mastery of the raw techniques and coding functions.        |        |          |            |
-| **Graphing - control**. Is the aspect ratio reasonable? Are the axis ranges and labels sensible? Are axis/graph titles informative (if they are needed - some graphs are so obvious they aren't). Are colors applied sensibly when merited (but not gratitously)?  "Excellent" means you wouldn't tweak much if anything on the figure even if you could do it as easily as with a pencil.            |        |          |            |
+| **Graphing - control**. Is the aspect ratio reasonable? Are the axis ranges and labels sensible? Are axis/graph titles informative (if they are needed - some graphs are so obvious they aren't). Are colors applied sensibly when merited (but not gratuitously)?  "Excellent" means you wouldn't tweak much if anything on the figure even if you could do it as easily as with a pencil.            |        |          |            |
 | **Repo follows golden rules as needed, including the README**  This means doing all the steps in the "When you're done with the above"  section, plus unlisted golden rules listed in the lectures.  |        |          |            |
 
 \* _See "ease of access" in the rubric guidelines for more details_
