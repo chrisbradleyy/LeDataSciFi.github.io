@@ -32,7 +32,7 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
   - Reduce to 2003-2013 (use the fyear variable)
   - Create a "sic2" variable based on the first 2 digits of "sic". This variable describes the industry for the firm. You can learn about [SIC codes here](https://en.wikipedia.org/wiki/Standard_Industrial_Classification) and [this excel file](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjFs7qX7cfnAhXxtlkKHfB6BUoQFjABegQIAxAC&url=https%3A%2F%2Fwww.dnb.com%2Fcontent%2Fdam%2Fenglish%2Feconomic-and-industry-insight%2Fsic_2_digit_codes.xls&usg=AOvVaw0UCJkYdyG_8d7_wysKwC60) has each industry's name. 
   - Eliminate observations for SIC2 = 99 or 41. 
-  - Compute average leverage (using the book value of assets - variable td_a) and average profitability (prof_a) for each industry (SIC2)-year. And here I mean the combination of industry and year! (So, for example, Chemicial-2000, Tech-2000, Finance-2000 all have different values than Chemicial-2001, Tech-2001, Finance-2001.)
+  - Compute average leverage (using the book value of assets - variable td_a) and average profitability (prof_a) for each industry (SIC2)-year. And here I mean the combination of industry and year! (So, for example, Chemical-2000, Tech-2000, Finance-2000 all have different values than Chemical-2001, Tech-2001, Finance-2001.)
   - `describe()` the **industry-year** average leverage and profitability variables you just made
   - Find the 4 industries with the highest average leverage in 2007 and the 4 industries with the lowest average leverage in 2007
   - Reduce the data to just those 8 industries
@@ -44,7 +44,7 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
   - If you create output or temp folders, make sure your analysis file begins by deleting those folders and remaking them from scratch. 
   - If you need any additional inputs, download them to inputs. You don’t need to save the CCM file to your computer unless you want!
   - Make sure that you refer to files with relative paths ("/input/wine.csv") and NOT absolute paths ("User/Don/Desktop/Project/input/wine.csv") because the latter won't work on anyone else's computer
-  - In Jupyter: Restart the kernal and clear the output
+  - In Jupyter: Restart the kernel and clear the output
   - In Jupyter: Run the entire file, and make sure it works **from scratch**. This means no errors, and also check that your answers didn’t change!
   - In Jupyter: Save the file.
   - In Github Desktop: "Commit" and "Push to origin"
@@ -54,16 +54,12 @@ The goal is to get your feet wet with using `seaborn` to explore a dataset.
 ### Peer review instructions
 
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
-2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPTUER AS WELL!**
+2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPUTER AS WELL!**
 2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  
 
 ### Grading rubric
 
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
-
-Evaluation of: __put the student github id here__
-
-Evaluation by: __put your github id here__
 
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
