@@ -35,7 +35,7 @@ Let's practice the tools we cover in the first two weeks: GitHub, GitHub Desktop
 
 - The beginning of the README should contain a very brief description as to what the repository is (a sentence or two), so that an unknowing visitor landing on the repository can orient themselves. You should also help the visitor navigate your repository (in whatever way you think is most appropriate).
 - Then, introduce yourself briefly with some personal details and professional goals, including some goal related to this class. 
-- **Showcase five functionalities of GitHub-flavoured markdown.** The [markdown cheatsheet on GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) might help, or click the Help menu in Jupyter and click on Markdown. [This file goes way above and beyond](https://github.com/STAT545-UBC/STAT545-home/blob/master/content/evaluation/hw01/sample_readme.md) but the author got a lot of good practice and surely was able to use these features many times through their class. 
+- **Showcase five functionalities of GitHub-flavored markdown.** The [markdown cheatsheet on GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) might help, or click the Help menu in Jupyter and click on Markdown. [This file goes way above and beyond](https://github.com/STAT545-UBC/STAT545-home/blob/master/content/evaluation/hw01/sample_readme.md) but the author got a lot of good practice and surely was able to use these features many times through their class. 
 
 ### Working on the ipynb file
 
@@ -53,10 +53,6 @@ Everyone will review two peers.
 2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn01.md)), and fill in your review there.  
 
 ## Grading rubric
-
-Evaluation of: __put the student github id here__
-
-Evaluation by: __put your github id here__
 
 | Topic                       | Excellent | Satisfactory | Needs Work |
 |-----------------------------|-----------|--------------|------------|
