@@ -37,7 +37,7 @@ GitHub: danielappierto
 
 **In RBC 460, with Prof. Bowen:**
 - Tu 10am-11am
-- Fri 2-3pm
+- Fri 1-2pm
 
 **In RBC 407, with Mr. Appierto:**
 - Wed 3pm-5pm
