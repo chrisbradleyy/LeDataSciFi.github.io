@@ -34,7 +34,7 @@ Some pointers:
 - Risks you could look to measure include, but are not limited to: antitrust; litigation - e.g. patent, consumer, class action; real estate; inflation; commodity; supply chain; natural disasters; weather; employees (fraud, compensation, departure); changes in tax policy; currency rates; regulatory approval; reputation; refinancing
 - Prof. Kathleen Hanley [has a recent paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792943) on risks. It focuses on financial firms, which isn't our sample, but nevertheless, it contains a long list of risks in Table 5 you might find interesting.
 - _Be careful: You might need to make sure the topic is being discussed in the context (near) of risk. E.g. "Patent" is often talked about without invoking risks._
-- _Be careful: Sometimes the risk is discussed using a synonym or a partial word. E.g. "patents" does not equal "patent"._
+- _Be careful: Sometimes the risk is discussed using a synonym or a partial word. E.g. the string "patents" is not the same to a computer as "patent"._
   
 **How many variables do I need to create?**
 1. Pick a risk type (e.g. antitrust) and come up with 3 different ways to measure it from the text. You can try different terms, different regexs, different limits on how close terms need to be, and more. Comparing these might help you understand how your choices can improve or hurt the value of your measurement. 
