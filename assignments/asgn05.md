@@ -1,5 +1,7 @@
 # Our first real data science project
 
+**PLEASE CHECK THESE INSTRUCTIONS BEFORE SUBMITTING**
+
 **Due date: See the [schedule](https://ledatascifi.github.io/#schedule).**
 
 **Warning/time guidance:** This assignment is the first project where you will have to get data, clean it yourself, and parse the data to create variables to analyze. These steps take time! 
@@ -95,6 +97,18 @@ _Note: Because investment is the "outcome", we want the "inputs" to be measured 
     - You should write brief summaries of your findings.
   - Bonus: Explore the relationships between investment, tech, and risks simultaneously using regressions. (One regression for CAPX and one for R&D.)
 
+ # Your final code should be three distinct files: 
+ 1. `download_10ks.ipynb`, which downloads the 10ks, 
+ 2. `parse_10ks.ipynb`, which loops over the downloaded files and saves a new dataset in the outputs folders called `outputs/risks.dta`. `risks.dta` should have `gvkey`, `fyear`, and your new risk variables.
+ 3. `analysis.ipynb`, which merges `risks.dta` with the original dataset and conducts the analysis.
+
+ # Three requirements
+ 1. The repo on your computer will have about 230MB of 10k filings, but your online repo (the one on github.com) should not, because we don't want to make other people download all of them again. **So you must add a "gitignore" file to your repo which has `edgar_filings/*` (or whatever your folder with the 10Ks is called). If you do this right, when you go to the repo on github.com, you won't see any of the files.**
+ 2. Inside `analysis.ipynb`, after you merge the original dataset with `risks.dta`, **print out the number of rows (which should be the same as the original dataset) and the count of your risk variables.** You should have 148 values for each risk variable (one for each 10K you downloaded).
+ 3. The README should tell readers what the three `ipynb` files are and the order they should be run in.   
+
+
+
 ## When you're done (this section is different than last time!)
 
 - Your repo should be logically organized, with subfolders for the EDGAR filings, inputs (the CCM file I gave you, and anything else you download to use), outputs (if you create any), and temp files (if your parser creates intermediate files, put them here). No file should be in a folder that it doesn't belong to. (No outputs in the input folder!) The code should be in the main folder. 
@@ -111,6 +125,10 @@ _Note: Because investment is the "outcome", we want the "inputs" to be measured 
 - In Github Desktop: "Commit" and "Push to origin"
 - github.com/ledatascifi : go to your assignment and make sure everything is there
 
+
+
+
+
 ## Cheers!
 
 **Give yourself a big round of applause at this point!**
@@ -126,9 +144,18 @@ Your code is probably very flexible and powerful at this point. If you have the 
 ## Peer review instructions
 
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
-2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPUTER AS WELL!**
+2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN JUST `analysis.ipynb`. IT SHOULD WORK ON YOUR COMPUTER AS WELL!**
+   - JUST THE ANALYSIS FILE!
 3. After you run it, do not push any changes to the repo. Simply delete it off your computer and remove it from GitHub Desktop (click "Repository" then "Remove") so it doesn't try to update it in the future. This isn't necessary, but will save you disk space and keep GH Desktop a little tidier. 
 2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), and fill in your review there.  You can delete the "notes" I put in each row (the non-bolded explanatory parts).
+
+
+
+
+
+
+
+
 
 ## Grading rubric
 
