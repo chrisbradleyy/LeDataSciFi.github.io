@@ -20,7 +20,7 @@ This file:
     - Test this function on at least 5 random rows. You can use `df.sample(5)` to pick 5 rows at random from the dataset.
     - HINT: Your function will have more than this, but this code will probably be inside the function. Replace the comments with code that does whatever the comments mention.
       ```python
-      if you haven't already downloaded the file:
+      if # you haven't already downloaded the file:
         try:
           # open url with filing you want
         except:
