@@ -8,7 +8,7 @@ This file:
    1. **Measure one risk type three different ways.** There are many ways you could try to measure "antitrust risk", so come up with 3 different ways to measure it from the text. You can try different terms, different regexs, different limits on how close terms need to be, and more. Comparing these different ways might help you understand how your choices can improve or hurt the value of your measurement. 
    2. **Pick a second risk type and create a single measure for it** (you only need to do one measurement on this risk type, but you can do more)
    3. **Pick a third risk type and create a single measure for it** (again, you only need to do one, but you can do more)
-      
+
     Bonus - interesting variables you could also measure:
     - The total length of the document (# of words)
     - The # of unique words (similar to total length)
@@ -29,12 +29,12 @@ So, here's how I would build this code up:
 1. Now you can define one "risk". 
 
     **Here are the coding mechanics of this:** Let's, for example, say I'm looking for discussions of losers and I'll save it in a new variable called `losers` added into my initial dataset: 
-    - In this example, I think that if "DETROIT" is near "LIONS", the document is talking about losers. 
-    - IMPORTANT: I have to see both words near each other to be sure it is about losers! If the document is just talking about Lions, it might be about animals, and if it is just talking about Detroit, it is talking about the economic engine of our great country, but if both words are close, the document is talking about losing and losers. _God, why am I a Lions fan? What have I done to foresake you?_
-    - I define a regex pattern that looks for the word "detroit" near "loser". We talked about how to do this in class: Use `NEAR_regex`. Let's call that pattern `loser_regex_pattern`.
-    - `hits = len(re.findall(loser_regex_pattern,<clean_10_text>))` will count the number of times the document discusses losing and save it to `hits`.
-    - Save `hits` inside of the variable `losers` for that document (put it in the correct row!)  
-    - **Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?**
+ - In this example, I think that if "DETROIT" is near "LIONS", the document is talking about losers. 
+ - IMPORTANT: I have to see both words near each other to be sure it is about losers! If the document is just talking about Lions, it might be about animals, and if it is just talking about Detroit, it is talking about the economic engine of our great country, but if both words are close, the document is talking about losing and losers. _God, why am I a Lions fan? What have I done to foresake you?_
+ - I define a regex pattern that looks for the word "detroit" near "loser". We talked about how to do this in class: Use `NEAR_regex`. Let's call that pattern `loser_regex_pattern`.
+ - `hits = len(re.findall(loser_regex_pattern,<clean_10_text>))` will count the number of times the document discusses losing and save it to `hits`.
+ - Save `hits` inside of the variable `losers` for that document (put it in the correct row!)  
+ - **Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?**
 
     **So how should you define the regex pattern?**
     - You could just count how many times the risk word is used. But _be careful: You might need to make sure the topic is being discussed in the context (near) of risk. E.g. "Patent" is often talked about without invoking risks._
