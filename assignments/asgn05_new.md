@@ -18,17 +18,18 @@ Your boss explains that she needs an exploratory analysis done. Her full explana
 2. Click on the invitation link I sent to you and accept the assignment on GitHub. This will create a repo.
 3. Clone it to your computer, a la assignment 1.
 
-## Your assignment repo should have the following files
+## Steps to complete the assignment
 
-1. `download_10Ks.ipynb`: Downloads the 10-K filings for the sample firms. [Go here for more details](asgn05_download.html).
-    - creates an `input folder/` with the original dataset inside
+1. Create `download_10Ks.ipynb`: Downloads the 10-K filings for the sample firms. [Go here for more details](asgn05_download.html).
+    - creates an `input/` folder with the original dataset inside
     - creates an `edgar_filings/` folder with all the files inside
-1. `.gitignore` and `screenshot.png`: [Go here for more details](asgn05_gitignore.html).
-1. `NEAR_regex.py`: Download this from [here](https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/NEAR_regex.py) and copy it into your repo
-1. `measure_risk.ipynb`: Measure risks by counting the number of times a given risk is discussed in the 10-K. [Go here for more details](asgn05_measurerisk.html).
-    - save the result to `output/ccm_with_risk.dta` (which is the original data plus 5 new risk variables)
-1. See how **2008 investment** is related to **2007 technology and risk.** [Go here for more details](asgn05_analysis.html).
-1. `README.md`: Should 
+1. Create `.gitignore` and `screenshot.png`: [Go here for more details](asgn05_gitignore.html).
+1. Create `NEAR_regex.py`: Download this from [here](https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/NEAR_regex.py) and copy it into your repo
+1. Create `measure_risk.ipynb`: Measure risks by counting the number of times a given risk is discussed in the 10-K. [Go here for more details](asgn05_measurerisk.html).
+    - creates an `output/` folder with `ccm_with_risk.dta` inside (which is the original data plus 5 new risk variables)
+    - At this point, I would delete the input and edgar filings folders, then run the `download` file twice (see if it works from scratch, and if it works once it's already been run), then run the `measure_risk` file twice.
+1. Create `analysis.ipynb`: Load `output/ccm_with_risk.dta` and see how **2008 investment** is related to **2007 technology and risk.** [Go here for more details](asgn05_analysis.html).
+1. Create `README.md`: It should 
     - Tell readers what the `py` and `ipynb` files do and the order they should be run in.   
     - Inform them if they need to `pip install` anything
     - Should note that running this code will create subfolders with approx 250MB in size
@@ -41,6 +42,17 @@ Your boss explains that she needs an exploratory analysis done. Her full explana
 
 ## Rubric
 
-`Download_10Ks.ipynb` - ...............
-`.gitignore` - exists and is correct (the repo online shows no edgar files)
-`screenshot.png` - shows 148 files inside their `edgar_filings` folder of 100-400 MB. The file size can vary based on some choices you make when saving the webpages. 
+Coming soon!
+
+<!--
+`README.md`
+`Download_10Ks.ipynb` is correct
+    - the path to the 10k files is `edgar_filing/cik_<#>/` and then sensible subfolder
+    - `screenshot.png` - shows 148 files inside their `edgar_filings` folder of 100-400 MB. The file size can vary based on some choices you make when saving the webpages. 
+    - `.gitignore` - exists and is correct (the repo online shows no edgar files)
+
+
+`analysis.ipynb`
+- runs
+- describe - 148 obs for each variable, not all 0
+--!>
