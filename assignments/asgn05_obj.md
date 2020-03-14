@@ -28,9 +28,9 @@ url = 'https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_da
 ccm = pd.read_stata(url)
 ```
 
-## So... your main challenge 
+## So, your main challenge...
 
-...Is to create variables that measure risks for each firm. Please return to the main assignment page now and continue.
+... is to create variables that measure risks for each firm. Please return to the main assignment page now and continue.
 
 
 
