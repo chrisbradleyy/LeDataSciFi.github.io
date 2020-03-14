@@ -9,10 +9,10 @@ This file:
       2. **Pick a second risk type and create a single measure for it** (you only need to do one measurement on this risk type, but you can do more)
       3. **Pick a third risk type and create a single measure for it** (again, you only need to do one, but you can do more)
       
-    Bonus:
-    - Save the total length of the document (# of words)
-    - Save the # of unique words (similar to total length)
-    - Save the "tone" of the document
+    Bonus - interesting variables you could also measure:
+    - The total length of the document (# of words)
+    - The # of unique words (similar to total length)
+    - The "tone" of the document
       
 1. Saves the augmented dataset (the original data plus 5 new risk variables) to `output/ccm_with_risk.dta`
 
