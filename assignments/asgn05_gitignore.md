@@ -4,7 +4,7 @@ It's not polite to upload so many 10-Ks to GitHub. It takes up space on the serv
 
 So, you should tell GitHub not to upload those from your computer to the website!
 
-## Step 1: `.gitignore`.
+## Step 1: Create `.gitignore`
 
 The easiest way is probably:
 1. Open GitHub Desktop and go to your assignment 5 repo.
