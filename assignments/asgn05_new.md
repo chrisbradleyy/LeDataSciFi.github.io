@@ -18,7 +18,7 @@ Your boss explains that she needs an exploratory analysis done. Her full explana
 2. Click on the invitation link I sent to you and accept the assignment on GitHub. This will create a repo.
 3. Clone it to your computer, a la assignment 1.
 
-## Your assignment should create the following files
+## Your assignment repo should have the following files
 
 1. `download_10Ks.ipynb`: Downloads the 10-K filings for the sample firms. [Go here for more details](asgn05_download.html).
     - creates an `input folder/` with the original dataset inside
@@ -27,9 +27,12 @@ Your boss explains that she needs an exploratory analysis done. Her full explana
 1. `NEAR_regex.py`: Download this from [here](https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/NEAR_regex.py) and copy it into your repo
 1. `measure_risk.ipynb`: Measure risks by counting the number of times a given risk is discussed in the 10-K. [Go here for more details](asgn05_measurerisk.html).
     - save the result to `output/ccm_with_risk.dta` (which is the original data plus 5 new risk variables)
-1. See how **2008 investment** is related to **2007 technology and risk.**
+1. See how **2008 investment** is related to **2007 technology and risk.** [Go here for more details](asgn05_analysis.html).
+1. `README.md`: Should 
+    - Tell readers what the `py` and `ipynb` files do and the order they should be run in.   
+    - Inform them if they need to `pip install` anything
+    - Should note that running this code will create subfolders with approx 250MB in size
     
-
 
 
 
