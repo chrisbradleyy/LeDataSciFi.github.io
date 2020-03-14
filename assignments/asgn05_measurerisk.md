@@ -16,7 +16,7 @@ This file:
       
 1. Saves the augmented dataset (the original data plus 5 new risk variables) to `output/ccm_with_risk.dta`
 
-## Recommendations: How to measure "risk" in a 10k
+## How to measure "risk" in a 10k
 
 So you need to create variables describing risks a firm faces. At this point in the class, you probably aren't aware of any sophisticated language techniques, and that's fine! Simply counting how many times the 10-K discusses the "risk" (e.g. patent litigation) probably suffices. 
 
@@ -42,16 +42,15 @@ So, here's how I would build this code up:
     - _Be careful: Sometimes the risk is discussed using a synonym or a partial word. E.g. the string "patents" is not the same to a computer as "patent"._
     - Advanced: What do you think `[(drake|billie eilish), (grammy|grammies|oscar|oscars)]` will do?
  
-1. Repeat the steps to define that risk a second way, but change the words and parameters you used.
-1. Repeat the steps to define that risk a third way, but change the words and parameters you used.
-1. Repeat the steps to define a second type of risk.
+1. Repeat the steps in #3 above to define that risk a second way, but change the words and parameters you used.
+1. Repeat the steps in #3 above to define that risk a third way, but change the words and parameters you used.
+1. Repeat the steps in #3 above to define a second type of risk.
     - Open some 10-Ks manually and read them to verify if your guess for how to check actually results in hits.
     - If it doens't work like you think (misses obvious discussions of the risk, or finds non-discussions), tweak it.
-1. Repeat the steps to define a third type of risk.
+1. Repeat the steps in #3 above to define a third type of risk.
     - Open some 10-Ks manually and read them to verify if your guess for how to check actually results in hits.
     - If it doens't work like you think (misses obvious discussions of the risk, or finds non-discussions), tweak it.
-1. Now, loop over all the rows in pandas to measure the risks for all 148 files.
-    - Warning: Looping over rows in pandas is a little different than normal! Look it up!
+1. Now, loop over all the rows in pandas and for each, measure the risks in the corresponding 10-K. _Warning: Looping over rows in pandas is a little different than normal! Look up how to do it!_
     
     **IMPORTANT! `.describe()` those five variables!**
     - If you have less than 148 observations (count=148) for any of the risk variables, there was an error somewhere. **Fix it - do not proceed!**
@@ -59,6 +58,6 @@ So, here's how I would build this code up:
     - If any of your variables are always 0, it's meaningless. **Change it - do not proceed!**
     - If any of your variables are always really high, consider if your search thinks too many things are that risk. Searching for "risk" for example is too vague. 
     
-## Some pointers
+## Some more pointers on how to measure risk 
 - Risks you could look to measure include, but are not limited to: antitrust; litigation - e.g. patent, consumer, class action; real estate; inflation; commodity; supply chain; natural disasters; weather; employees (fraud, compensation, departure); changes in tax policy; currency rates; regulatory approval; reputation; refinancing
 - Prof. Kathleen Hanley [has a recent paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792943) on risks. It focuses on financial firms, which isn't our sample, but nevertheless, it contains a long list of risks in Table 5 you might find interesting.
