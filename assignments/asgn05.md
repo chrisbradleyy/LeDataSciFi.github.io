@@ -4,6 +4,8 @@
 
 **Due date: See the [schedule](https://ledatascifi.github.io/#schedule).**
 
+**Warning/time guidance:** This assignment is the first project where you will have to get data, clean it yourself, and parse the data to create variables to analyze. These steps take time! 
+
 ## Project Set Up
 
 Your boss explains that she needs an exploratory analysis done. Her full explanation about why you're doing this is [here](asgn05_obj.html). The nuts and bolts of the set up are: 
@@ -29,16 +31,36 @@ Your boss explains that she needs an exploratory analysis done. Her full explana
     - creates an `output/` folder with `ccm_with_risk.dta` inside (which is the original data plus 5 new risk variables)
     - At this point, I would delete the input and edgar filings folders, then run the `download` file twice (see if it works from scratch, and if it works once it's already been run), then run the `measure_risk` file twice.
 1. Create `analysis.ipynb`: Load `output/ccm_with_risk.dta` and see how **2008 investment** is related to **2007 technology and risk.** [Go here for more details](asgn05_analysis.html).
+    - When you're done, restart the kernel in this file, clear the output, and make sure it works **from scratch**. This means no errors, and also check that your answers didn’t change!
 1. Create `README.md`: It should 
     - Tell readers what the `py` and `ipynb` files do and the order they should be run in.   
     - Inform them if they need to `pip install` anything
     - Should note that running this code will create subfolders with approx 250MB in size
-    
+1. Finish up
+      - Clean up your repo - delete extraneous files not needed by peer reviews, or if you want to keep them: move them to a "`dev`" subfolder (which is commonly known to be a place where you put files you used while developing the code). You could call this subfolder "old files" or "my files" or whatever you want. Just clean it up for your reviewers and external eyes :)
+    - In Jupyter: Save all of the ipynb files.
+    - In Github Desktop: "Commit" and "Push to origin"
+    - github.com/ledatascifi : go to your assignment and make sure that the input and output folders are there, that the edgar filings are NOT there, that all the code and the README is there.
 
+## Cheers!
 
+**Give yourself a big round of applause at this point!**
 
+Your code is probably very flexible and powerful at this point. If you have the appetite + a larger list of EDGAR files to download + a large enough hard drive + and time, then you could download more than 100GB of 10-K filings and run this analysis across 20 years of data for all publicly traded firms. 
 
+**OOOOR**, even cooler, you are in the ball park of pulling off any analysis you want that needs to harness the power of these filings. These four studies are variously provocative, great, and (in one case) mine:
+- [Claim: Identifying changes in 10-K/Q filings can generate a 20% alpha](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1658471)
+- [Prof. Hanley measured emerging risks in the financial sector](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792943)
+- [Build a unique list of competitors for each firm (really powerful!)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1520062)
+- [I used 10-K text to identify public rivals of startup firms](https://ssrn.com/abstract=3245839)
 
+## Peer review instructions
+
+1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
+2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN JUST `analysis.ipynb`. IT SHOULD WORK ON YOUR COMPUTER AS WELL!**
+   - JUST THE ANALYSIS FILE!
+3. After you run it, do not push any changes to the repo. Simply delete it off your computer and remove it from GitHub Desktop (click "Repository" then "Remove") so it doesn't try to update it in the future. This isn't necessary, but will save you disk space and keep GH Desktop a little tidier. 
+2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn05.md)), and fill in your review there.  You can delete the "notes" I put in each row (the non-bolded explanatory parts).
 
 ## Rubric
 
@@ -50,9 +72,9 @@ Coming soon!
     - the path to the 10k files is `edgar_filing/cik_<#>/` and then sensible subfolder
     - `screenshot.png` - shows 148 files inside their `edgar_filings` folder of 100-400 MB. The file size can vary based on some choices you make when saving the webpages. 
     - `.gitignore` - exists and is correct (the repo online shows no edgar files)
-
-
 `analysis.ipynb`
 - runs
 - describe - 148 obs for each variable, not all 0
---!>
+
+did they do the bonuses
+-->
