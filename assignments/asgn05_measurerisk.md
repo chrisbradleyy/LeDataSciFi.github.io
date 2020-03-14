@@ -29,12 +29,12 @@ So, here's how I would build this code up:
 1. Now you can define one "risk". 
 
     **Here are the coding mechanics of this:** Let's, for example, say I'm looking for discussions of losers and I'll save it in a new variable called `losers` added into my initial dataset: 
-- In this example, I think that if "DETROIT" is near "LIONS", the document is talking about losers. 
-- IMPORTANT: I have to see both words near each other to be sure it is about losers! If the document is just talking about Lions, it might be about animals, and if it is just talking about Detroit, it is talking about the economic engine of our great country, but if both words are close, the document is talking about losing and losers. _God, why am I a Lions fan? What have I done to foresake you?_
-- I define a regex pattern that looks for the word "detroit" near "loser". We talked about how to do this in class: Use `NEAR_regex`. Let's call that pattern `loser_regex_pattern`.
-- `hits = len(re.findall(loser_regex_pattern,<clean_10_text>))` will count the number of times the document discusses losing and save it to `hits`.
-- Save `hits` inside of the variable `losers` for that document (put it in the correct row!)  
-- **Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?**
+   - In this example, I think that if "DETROIT" is near "LIONS", the document is talking about losers. 
+   - IMPORTANT: I have to see both words near each other to be sure it is about losers! If the document is just talking about Lions, it might be about animals, and if it is just talking about Detroit, it is talking about the economic engine of our great country, but if both words are close, the document is talking about losing and losers. _God, why am I a Lions fan? What have I done to foresake you?_
+   - I define a regex pattern that looks for the word "detroit" near "loser". We talked about how to do this in class: Use `NEAR_regex`. Let's call that pattern `loser_regex_pattern`.
+   - `hits = len(re.findall(loser_regex_pattern,<clean_10_text>))` will count the number of times the document discusses losing and save it to `hits`.
+   - Save `hits` inside of the variable `losers` for that document (put it in the correct row!)  
+   - **Manually check it by opening the 10-K on the browser - do your functions give you the same values you'd create if you did it by hand?**
 
     **So how should you define the regex pattern?**
     - You could just count how many times the risk word is used. But _be careful: You might need to make sure the topic is being discussed in the context (near) of risk. E.g. "Patent" is often talked about without invoking risks._
