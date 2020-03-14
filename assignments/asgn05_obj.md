@@ -19,7 +19,14 @@ We need an annual dataset of firms with three sets of variables
 1. technology
 1. risks
   
-[This dataset](https://github.com/LeDataSciFi/lectures-spr2020/tree/master/assignment_data) has investment and technology data for **2007 and 2008**  fiscal years for ~200 firms but nothing on risks. 
+[This dataset](https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/2007_inv_and_tech.dta) has investment and technology data for **2007 and 2008**  fiscal years for ~200 firms but nothing on risks. 
+
+To download it in Python, use 
+
+```PYTHON
+url = 'https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/2007_inv_and_tech.dta?raw=true'
+ccm = pd.read_stata(url)
+```
 
 ## So... your main challenge 
 
