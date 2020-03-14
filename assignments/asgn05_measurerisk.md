@@ -5,9 +5,9 @@ This file:
 1. Loops over the rows. For each row, load the corresponding 10-K and create (at least) 5 different risk measures, and save those new measurements to each of 5 new variables in that row.
 
     **The five risks you should measure:**
-      1. **Measure one risk type three different ways.** There are many ways you could try to measure "antitrust risk", so come up with 3 different ways to measure it from the text. You can try different terms, different regexs, different limits on how close terms need to be, and more. Comparing these different ways might help you understand how your choices can improve or hurt the value of your measurement. 
-      2. **Pick a second risk type and create a single measure for it** (you only need to do one measurement on this risk type, but you can do more)
-      3. **Pick a third risk type and create a single measure for it** (again, you only need to do one, but you can do more)
+   1. **Measure one risk type three different ways.** There are many ways you could try to measure "antitrust risk", so come up with 3 different ways to measure it from the text. You can try different terms, different regexs, different limits on how close terms need to be, and more. Comparing these different ways might help you understand how your choices can improve or hurt the value of your measurement. 
+   2. **Pick a second risk type and create a single measure for it** (you only need to do one measurement on this risk type, but you can do more)
+   3. **Pick a third risk type and create a single measure for it** (again, you only need to do one, but you can do more)
       
     Bonus - interesting variables you could also measure:
     - The total length of the document (# of words)
