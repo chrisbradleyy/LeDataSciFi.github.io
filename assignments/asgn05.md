@@ -26,6 +26,7 @@ Your boss explains that she needs an exploratory analysis done. Her full explana
     - creates an `input/` folder with the original dataset inside
     - creates an `edgar_filings/` folder with all the files inside
 1. Create `.gitignore` and `screenshot.png`: [Go here for more details](asgn05_gitignore.html).
+    - **THIS IS REALLY IMPORTANT!!!**
 1. Create `NEAR_regex.py`: Download this from [here](https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/NEAR_regex.py) and copy it into your repo
 1. Create `measure_risk.ipynb`: Measure risks by counting the number of times a given risk is discussed in the 10-K. [Go here for more details](asgn05_measurerisk.html).
     - creates an `output/` folder with `ccm_with_risk.dta` inside (which is the original data plus 5 new risk variables)
