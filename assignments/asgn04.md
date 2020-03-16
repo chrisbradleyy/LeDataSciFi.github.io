@@ -17,7 +17,7 @@ We will try a few different types of merges, see how they work, and explore some
 
 Load the following two datasets (do not change these lines) and answer the follow on questions:
 
-```PYTHON
+```python
 crsp = pd.read_stata('https://github.com/LeDataSciFi/lectures-spr2020/blob/master/assignment_data/3firm_ret_1990_2020.dta?raw=true')
 crsp['ret'] = crsp['ret']*100 # convert to precentage to match FF's convention on scaling
 ff = pdr.get_data_famafrench('F-F_Research_Data_5_Factors_2x3_daily',start=1980,end=2010)[0] 
