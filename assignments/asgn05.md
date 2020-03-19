@@ -68,14 +68,25 @@ Your code is probably very flexible and powerful at this point. If you have the 
 Coming soon!
 
 <!--
-`README.md`
-`Download_10Ks.ipynb` is correct
-    - the path to the 10k files is `edgar_filing/cik_<#>/` and then sensible subfolder
-    - `screenshot.png` - shows 148 files inside their `edgar_filings` folder of 100-400 MB. The file size can vary based on some choices you make when saving the webpages. 
-    - `.gitignore` - exists and is correct (the repo online shows no edgar files)
-`analysis.ipynb`
-- runs
-- describe - 148 obs for each variable, not all 0
+File: `README.md`
+Evaluate                Yes          No        Note, if No
+ `README.md` Orients readers
+`screenshot.png` shows 148 files inside their `edgar_filings` folder of 100-400 MB. (The file size can vary based on some choices you make when saving the webpages. )
+`.gitignore` exists and is correct (the repo online shows no edgar files)
 
-did they do the bonuses
+File: `Download_10Ks.ipynb`
+Evaluate                Yes          No        Note, if No
+saved input file
+saved edgar files
+path to edgar files sensible
+
+File: `analysis.ipynb`
+Evaluate                Yes          No        Note, if No
+- runs without error
+- 148 obs for each variable
+- "No" if any of the search variables are always 0
+- did they explicitly try to compare 2008 investment to the prior year tech and risk variables?
+"No" means they just compared the variables
+- did they try the bonus metrics (total words, etc)
+- did they try regression bonus
 -->
