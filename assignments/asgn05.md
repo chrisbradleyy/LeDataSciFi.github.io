@@ -88,7 +88,7 @@ Your code is probably very flexible and powerful at this point. If you have the 
 |                       | Comment about how they defined the risk variables. (I.e how the word lists are set up.) Do you think they will be overly broad (lots of false positives) or overly narrow (lots of false negatives) based on how the word lists are set up? Suggest an alteration they could consider to improve their measure. | | |  |
 |                   | Are you **really** impressed with how they wrote this file? (E.g. the organization of code was extremely easy to follow and understand, how they defined the dictionaries was especially thoughtful, the code goes above and beyond?) If yes, comment. | | | |
 |                   | Did they measure the bonus variables? If so, which? | | | |
-|  `analysis.ipynb` | Runs without error | | | |
+|  `analysis.ipynb` | Runs **on your computer** without error | | | |
 |                   | Shows five risk variables with 148 observations | | | |
 |                   | Put "No" if any of the search variables are always 0 | | | |
 |                   | Do they show visualizations that help you see the correlation between the measures and investment? | | | |
@@ -96,3 +96,11 @@ Your code is probably very flexible and powerful at this point. If you have the 
 |                        | Are you **really** impressed with the execution and presentation of results? If yes, comment.  | | | |
 |                        | Is the code easy to read and follow? | | | |
 |                        | Are there any concerns you have with this file/code? | | | Explain if yes |
+
+Additional remarks:
+
+- Some specific praise?
+- Something I learned?
+- Specific constructive criticism?
+- Something I know and that you, my peer, might like to know because it is relevant to something you struggled with.
+
