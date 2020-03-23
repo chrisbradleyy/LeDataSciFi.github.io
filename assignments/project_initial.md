@@ -1,7 +1,5 @@
 # Proposals
 
-## Initial Proposals
-
 In the "usual" repo, modify the README as a group. Use the template below and fill it in. 
 
   > # Research Proposal: < Title >
@@ -10,14 +8,14 @@ In the "usual" repo, modify the README as a group. Use the template below and fi
   >
   > ## Research Question
   >
-  > Cover:
+  > This section should cover:
   > 1. What do we want to know or what problems are we trying to solve?
   > 2. What are our hypotheses?
   > 3. What are our metrics of success? 
   >
-  > ## "Data"
+  > ## Necessary Data
   >
-  > Cover:
+  > This section should cover:
   > 1. What does the final dataset need to look like (mostly dictated by the question and the availability of data):
   >      - What is an observation, e.g. a firm, or a firm-year, etc.
   >      - What is the sample period?
