@@ -2,12 +2,12 @@
 
 The project will have several deliverable stages to keep us on track, according to the [schedule](https://ledatascifi.github.io/#schedule). _Changes to that master schedule supercede any dates below._
 
-1. 8% **Project proposal (initial)**. More [below](#initial-proposals).
-2. 10% **Peer review/critiques/suggestions**.  More [below](#peer-reviewcritiquessuggestions).
-2. 10% **Project proposal (final)**. More [below](#final-proposals).
-3. 30% **Project status report**. More [below](#project-status-report).
-4. 22% **Written component - report and presentation files**. More [below](#written-components).
-5. 20% **Presentations**. More [below](#presentations).
+1. 8% **Project proposal (initial)**. Discussed [below](#initial-proposals) with specific instructions [here](https://ledatascifi.github.io/assignments/project_initial.html).
+2. 10% **Peer review/critiques/suggestions**.  Discussed [below](#peer-reviewcritiquessuggestions).
+2. 10% **Project proposal (final)**. Discussed [below](#final-proposals).
+3. 30% **Project status report**. Discussed [below](#project-status-report).
+4. 22% **Written component - report and presentation files**. Discussed [below](#written-components).
+5. 20% **Presentations**. Discussed [below](#presentations).
 
 ### Initial proposals
 
