@@ -41,13 +41,7 @@ Let's try to learn from the text something about a firm's technology, the risks 
 
 In order to get use ready for the project, **this assignment** will focus on practicing that workflow and digging into the execution and interpretation of analytic models we covered in this portion of class.
 
-### Final project
+### [Final project](project.html)
 
-The project will have four deliverable stages, according to the [schedule](https://ledatascifi.github.io/#schedule)
-
-1. Project proposal (initial)
-2. Project proposal (final)
-3. Project status report
-4. Project delivery
-
+Check out the link above. 
 
