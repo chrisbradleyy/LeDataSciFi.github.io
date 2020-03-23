@@ -1,4 +1,4 @@
-# Proposals
+# Initial Proposals
 
 In the "usual" repo, modify the README as a group. Use the template below and fill it in. 
 
