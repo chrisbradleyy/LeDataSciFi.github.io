@@ -11,8 +11,9 @@ The project will have several deliverable stages to keep us on track, according 
 
 ### Initial proposals
 
+**Instructions are [here](project_initial.html).**
+
 - General idea: The question are you interested in, the data you need to acquire, the variables you'll use, and the  plan for how you'll analyze it (what methods you'll try and why you think they apply to your problem), considerations about how data might impact that.
-- Instructions are [here](project_initial.html).
 - Graded on: question viability, creativity, finance application, and plan sketch
 
 <!-- 
@@ -31,6 +32,7 @@ The project will have several deliverable stages to keep us on track, according 
 ### Final proposals
 
 - General idea: Take feedback and heavily modify your plan as warranted. (Up to and including scrapping the question!) 
+- More details later
 
 <!--  FIIIIIIIIIIIILL IN!
 - Graded on:
@@ -40,6 +42,7 @@ The project will have several deliverable stages to keep us on track, according 
 
 - General idea: You've now acquired the key data and finished most of the data cleaning. 
 - Report has nice data sections describing data source(s) and how you got/cleaned the data
+- More details later
 
 <!--  FIIIIIIIIIIIILL IN!
 - Graded on:
@@ -48,6 +51,7 @@ The project will have several deliverable stages to keep us on track, according 
 ### Written components
 
 - Code, report, and presentation files due
+- More details later
 
 <!--  FIIIIIIIIIIIILL IN!
 - Graded on:
@@ -55,7 +59,7 @@ The project will have several deliverable stages to keep us on track, according 
 
 ### Presentations
 
-- More details as we get closer to this part.
+- More details later
 
 <!--  FIIIIIIIIIIIILL IN!
 - Graded on:
