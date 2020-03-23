@@ -5,8 +5,8 @@ The project will have several deliverable stages to keep us on track, according 
 1. 8% **Project proposal (initial)**. Discussed [below](#initial-proposals) with specific instructions [here](https://ledatascifi.github.io/assignments/project_initial.html).
 2. 10% **Peer review/critiques/suggestions**.  Discussed [below](#peer-reviewcritiquessuggestions) with specific instructions [here](project_peer_review.html)
 2. 10% **Project proposal (final)**. Discussed [below](#final-proposals).
-3. 20% **Project status report**. Discussed [below](#project-status-report).
-4. 42% **Written component - report and presentation files**. Discussed [below](#written-components).
+3. 15% **Project status report**. Discussed [below](#project-status-report).
+4. 45% **Written component - report and presentation files**. Discussed [below](#written-components).
 5. 12% **Presentations**. Discussed [below](#presentations).
 
 ### Initial proposals
