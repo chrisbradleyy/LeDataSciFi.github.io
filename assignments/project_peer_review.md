@@ -19,11 +19,11 @@ In the "usual" repo, modify the README as a group. Use the template below and fi
   > 2. Below is an incomplete list of things you can look into. Separate them into major and lessor issues. The lessor issues go in the next section. Major comments should get a little more discussion (but limit each to a paragraph or two). Further comments should be bullet points.
   >    1. _You should read their report, and think about the question/problem_ 
   >       - Do you have a "spin" or "angle" to help "sell" the project as interesting (e.g. for a newspaper)?
-  >       - Is it too large to solve here? If so, the group will need to narrow the question?
-  >       - Is it too easy to solve here, or could it potentially be more ambitious? (E.g. someone has already posted a solution, or the data is all readily available from one or two sources.) If so, they need to shift it to avoid previous work or make it more ambitious - try to suggest an option or two. 
+  >       - Is it too large to solve here? If so, how might the group narrow the question?
+  >       - Is it too easy to solve here or could it potentially be more ambitious? (E.g. someone has already posted a solution, or the data is all readily available from one or two sources.) If so, they need to shift it to avoid previous work or make it more ambitious - try to suggest an option or two. 
   >       - Is it finance related? if not, can it (and how) be made finance related?
   >    3. _Other things to consider and evaluate on the question:_
-  >       - What do you think about the hypothesis? should it be changed, or some aspects added, or something removed?
+  >       - What do you think about the hypothesis? Should it be changed, or some aspects added, or something removed?
   >       - Are the metrics for success reasonable given the question?
   >    3. _Things things to consider and evaluate on the data:_  
   >       - Does the observation level make sense for the question?
