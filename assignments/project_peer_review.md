@@ -2,7 +2,7 @@
 
 Here are the peer review assignments:
 
-| Group                                 | Should review                         |
+| This group                            | Should review                         |
 |:--------------------------------------| :-------------------------------------|
 | Beetle juice and the numpys           | Data-troit Lions                      |
 | Corona Crushers                       | Don's Deplorables                     |
