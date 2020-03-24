@@ -18,16 +18,16 @@ In the "usual" repo, modify the README as a group. Use the template below and fi
   > 1. _This section is an enumerated list of paragraphs, like what you see here. Issues should be ranked in the order of importance. You should probably highlight 3-8 things (maybe more) and I would like you to focus on SOLUTIONS AND SUGGESTIONS you can offer them._
   > 2. Below is an incomplete list of things you can look into. Separate them into major and lessor issues. The lessor issues go in the next section. Major comments should get a little more discussion (but limit each to a paragraph or two). Further comments should be bullet points.
   >    1. _You should read their report, and think about the question/problem_ 
-  >       - do you have a "spin" or "angle" to help "sell" the project as interesting (e.g. for a newspaper)
-  >       - is it too large to solve here or too easy to solve here, e.g. someone has already posted a solution. if so, the group will need to narrow the question or shift it to avoid previous work
-  >       - is it finance related? if not, can it (and how) be made finance related?
+  >       - Do you have a "spin" or "angle" to help "sell" the project as interesting (e.g. for a newspaper)?
+  >       - Is it too large to solve here? If so, the group will need to narrow the question?
+  >       - Is it too easy to solve here, or could it potentially be more ambitious? (E.g. someone has already posted a solution, or the data is all readily available from one or two sources.) If so, they need to shift it to avoid previous work or make it more ambitious - try to suggest an option or two. 
+  >       - Is it finance related? if not, can it (and how) be made finance related?
   >    3. _Other things to consider and evaluate on the question:_
-  >       - what do you think about the hypothesis? should it be changed, or some aspects added, or something removed?
-  >       - is the plan 
-  >       - are the metrics for success reasonable given the question
+  >       - What do you think about the hypothesis? should it be changed, or some aspects added, or something removed?
+  >       - Are the metrics for success reasonable given the question?
   >    3. _Things things to consider and evaluate on the data:_  
   >       - Does the observation level make sense for the question?
-  >       - Is the sample period sufficient and/or realistic given the question and availability of data
+  >       - Is the sample period sufficient and/or realistic given the question and availability of data?
   >       - Should they add, remove, or change any sample conditions?
   >       - Do you think they need any unmentioned variables? Are any of the "like to have" variables actually necessary?
   >       - Do you think they should try to get any unmentioned variables?
