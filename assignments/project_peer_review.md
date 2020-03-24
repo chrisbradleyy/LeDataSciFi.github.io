@@ -1,6 +1,30 @@
 # Peer Review Instructions
 
-In the "usual" repo, modify the README as a group. Use the template below and fill it in. Please,
+Here are the peer review assignments:
+
+| Group                                 | Should review                         |
+|:--------------------------------------| :-------------------------------------|
+| Beetle juice and the numpys           | Data-troit Lions                      |
+| Corona Crushers                       | Don's Deplorables                     |
+| Cryptonite                            | FIN377.query('Student in [Anderson]') |
+| Data-troit Lions                      | Harryvana                             |
+| Don's Deplorables                     | import numpy as 2:Electric Bugaloo    |
+| FIN377.query('Student in [Anderson]') | It's Free Real Estate                 |
+| Harryvana                             | Keyboard Warriors                     |
+| import numpy as 2:Electric Bugaloo    | Pandas Express                        |
+| It's Free Real Estate                 | Who Run the World!? (Bots)            |
+| Keyboard Warriors                     | Beetle juice and the numpys           |
+| Pandas Express                        | Corona Crushers                       |
+| Who Run the World!? (Bots)            | Cryptonite                            |
+
+How do you do the review?
+1. Go to https://github.com/LeDataSciFi/proposals/
+1. I'll give you all access tonight.
+1. Find the folder of the team you're reviewing
+1. Review their proposal (it might be in a readme, pdf, word document - doesn't matter)
+1. Upload your review to same place (can be in a .md, pdf, or word document - doesn't matter)
+
+Use the template below and fill it in. Please,
 
 1. **BE NICE!**
 2. **BE HELPFUL! The point is to give your classmates a nice push forward so they can achieve their aims.**
