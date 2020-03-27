@@ -97,7 +97,7 @@ summary_col(results=[q1, q2a, q2b, q3, q4a,q4b],
 
 Coming later.
 
-## PART 2: Prediction with Boosted Regression Trees
+## PART 3: Prediction with Boosted Regression Trees
 
 Coming later.
 
