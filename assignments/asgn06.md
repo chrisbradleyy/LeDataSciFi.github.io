@@ -24,6 +24,8 @@ pd.options.display.float_format = '{:,.1f}'.format
 fannie_mae.drop('Loan_Identifier',axis=1).describe().round(1).transpose()
 ```
 
+What this assignment is going to focus on is the **original interest rate** variable. 
+
 ### Before you start on the questions... EDA (exploratory data analysis)
 
 You should do the usual data exploration. Do this data exploration in a "scrap" file so you can explore quickly and messily. You'll create a "nicer" submission file later. Figure out:
@@ -39,27 +41,40 @@ You should do the usual data exploration. Do this data exploration in a "scrap" 
 
 ### Questions 
 
-Coming tonight. For now, focus on the peer reviews that are due and the EDA.
-
-<!--
 OK, now you are in a better position to think about these questions. Within the file you intend to be the "nice, pretty" submission file:
 1. Write a short data section that summarizes the data for someone who has never opened it before. Answer essential questions about the dataset (observation units, time period, sample size, many of the questions above) and note any issues you have with the data (variable X has problem Y that needs to get addressed before using it in regressions or a prediction model because Z).
-2.
+2. Plot the average interest rate for each year.
+2. Regression \#1: **Print a summary table of the following model**
 
+    <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * \log(\text{Co-Borrower Credit Score}_i)%2B \beta_1 * \text{First time home buyer indicator}_i %2B \beta_2 * \text{10 year treasury rate} %2B u_{i,t}">
+    <!-- that hack to put a formula in a MD file comes from https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b , and %2B is the plus sign -->
+  
+    where _r_ is the original interest rate for loan _i_ origined in year _t_. Be careful about that First Time Home Buyer variable - drop any observations where it is unknown. 
 
-    You can fit a regression with statsmodels or sklearn
-    You can view the results visually or numerically of your model with either
-    You can interpret the mechanical meaning of the coefficients in a regression
-        continuous variables
-        categorical a.k.a qualitative variables with two values (aka "dummy" or "binary" variables)
-        categorical a.k.a qualitative variables with more than values (aka "fixed effects")
-        how an interaction term changes interpretation
-    You understand what a t-stat / p-value does and does not tell you
-    You can measure the goodness of fit on a regression
-    You are aware of common regression analysis pitfalls and disasters
+    - For each  <img src="https://render.githubusercontent.com/render/math?math=\beta">, write a sentence interpreting what the coefficient means, and whether it is statistically significant (if so, to what level?).
 
--->
+2. Regression \#2: **Print a summary table of the following two models**
 
+    **Model 2A**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * \log(\text{Co-Borrower Credit Score}_i) %2B \beta_1 * \log(\text{OLTV}_i) %2B u_{i,t}">
+  
+    **Model 2B**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * \log(\text{Co-Borrower Credit Score}_i) %2B \beta_1 * \log(\text{OLTV}_i) %2B \beta_2 \log(\text{Co-Borrower Credit Score}_i) * \log(\text{OLTV}_i) %2B u_{i,t}">
+
+    - Interpret  <img src="https://render.githubusercontent.com/render/math?math=\beta_2">, focusing on how it relates to the interpretation of the credit score variable.
+    - Why did the credit score coefficient change so much?
+
+3. If you were trying to improve the R2, how might you transform the credit score variable? Try at least one! How did the R2s change?
+4. Regression \#2: Estimate both of these models:
+
+    **Model 4A**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * Year %2B u_{i,t}">
+  
+    **Model 4B**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * (Year=1999) %2B  \beta_1 * (Year=2000) %2B ... %2B   \beta_N * (Year=2018) %2B u_{i,t}">
+    
+    Model 4B turns the numeric variable year into a set of what's called "fixed effects", which is a set of dummy variables, one for each value of the variable. See the lecture notes for details. 
+    
+    - What is the R2 of each? 
+    - Why is one so much better?
+    - Can you use the specification 4B in a predictive model? Why or why not?
+    
 ## PART 2: Prediction with Regression 
 
 Coming later.
