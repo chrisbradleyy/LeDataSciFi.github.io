@@ -62,6 +62,17 @@ The goal of the project is not to simply take a pre-cleaned dataset, and run a b
 - More details later
 
 <!--  FIIIIIIIIIIIILL IN!
+
+
+    Frame a question of your choice that can be addressed by identifying, collecting, and analyzing relevant data.
+    Describe and obtain the data.
+    Perform exploratory data analysis (EDA) and include in your report at least two (but probably many more) data visualizations.
+    Describe any data cleaning or transformations that you perform and why they are motivated by your EDA.
+    Apply relevant inference or prediction methods (e.g., linear regression, logistic regression, or classification and regression trees), including, if appropriate, feature engineering and regularization. Use cross-validation or test data as appropriate for model selection and evaluation. Make sure to carefully describe the methods you are using and why they are appropriate for the question to be answered.
+    Summarize and interpret your results (including visualization). Provide an evaluation of your approach and discuss any limitations of the methods you used.
+    Describe any surprising discoveries that you made and future work.
+
+
 - Graded on:
 --> 
 
