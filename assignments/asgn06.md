@@ -77,6 +77,22 @@ OK, now you are in a better position to think about these questions. Within the 
     - Why is one so much better?
     - Can you use the specification 4B in a predictive model? Why or why not?
     
+**Bonus formatting trick:** This regression section results in 6 models. I reported all six in a _single_ table using 
+
+```python
+q1 = ols().fit() # give or take ;)
+... 
+q4b = ols().fit() 
+summary_col(results=[q1, q2a, q2b, q3, q4a,q4b],
+            float_format='%0.2f',
+            stars = True,
+            model_names=['Q1','Q2A','Q2B','Q3','Q4A','Q4B'],
+            info_dict=info_dict,
+            regressor_order=[ # you can specify which variables you
+            # want at the top of the table here]
+           )
+```
+    
 ## PART 2: Prediction with Regression 
 
 Coming later.
