@@ -62,7 +62,7 @@ OK, now you are in a better position to think about these questions. Within the 
     - Interpret  <img src="https://render.githubusercontent.com/render/math?math=\beta_2">, focusing on how it relates to the interpretation of the credit score variable.
     - Why did the credit score coefficient change so much?
 
-3. If you were trying to improve the R2, how might you transform the credit score variable? Try at least one! How did the R2s change?
+3. If you were trying to improve the R2 of model 2A, how might you transform the credit score variable? Try at least one! How did the R2s change?
 4. Regression \#2: Estimate both of these models:
 
     **Model 4A**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * Year %2B u_{i,t}">
