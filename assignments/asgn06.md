@@ -1,5 +1,7 @@
 # Assignment 6 - Prediction Models and Regressions
 
+Because of how it's formatted on the site, [it's actually easier to read this page here](https://github.com/LeDataSciFi/LeDataSciFi.github.io/blob/master/assignments/asgn06.md)
+
 ### Overview
 
 **Due date: See the [schedule](https://ledatascifi.github.io/#schedule).**
