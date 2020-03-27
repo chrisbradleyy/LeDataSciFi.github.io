@@ -33,7 +33,7 @@ The goal of the project is not to simply take a pre-cleaned dataset, and run a b
 
 **Instructions are [here](project_peer_review.html).**
 
-- General idea: Each TEAM will look at two other proposals and suggest significant avenues for improvement. This is important!
+- General idea: Each TEAM will look at one other proposal and suggest significant avenues for improvement. This is important!
 - Graded on: The quality and substance of your team's review. I am only asking for each team to do one review, but I expect a high level of contribution, both on thought process and data. This likely will require your team to explore yourselves the data sources potentially useful for the team you're reviewing. 
 
 ### Final proposals
