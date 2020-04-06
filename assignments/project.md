@@ -38,12 +38,13 @@ The goal of the project is not to simply take a pre-cleaned dataset, and run a b
 
 ### Final proposals
 
-- General idea: Take feedback and heavily modify your plan as warranted. (Up to and including scrapping the question!) 
-- More details later
-
-<!--  FIIIIIIIIIIIILL IN!
-- Graded on:
---> 
+- General idea: Take feedback and heavily modify your plan as warranted.
+- Instruction #1: In the project repo, update `README.md`. 
+    - The question should be  precise (NOT VAGUE), the hypothesis clear, and the metrics well defined. 
+    - The necessary data should be clarified and cleaned. 
+    - Treat this document as if it is public facing, and a proposal for which you would like research funding. That is, the proposal document should be polished (both in visual formatting and editing) for external audiences.
+- Instruction #2: In the project repo, create `revision_summary.md`. Please thank your reviewers, and list in 3 bullet points what you think the most meaningful changes you made to the proposal were. 
+- Graded on: The improvement from the prior version, how feedback was incorporated, and current status
 
 ### Project status report
 
