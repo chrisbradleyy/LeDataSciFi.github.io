@@ -13,8 +13,10 @@ misc | A folder for files that aren't listed above but that you want to keep | N
 ## Before and after the gitignore is altered and updated
 
 Before, this is my participation folder on my computer and on GH:
-![](pics/before_local.png)
-![](pics/before_remote.png)
+
+ <img src="pics/before_local.png" alt="Ready to nicely finalize this" style="width:500px"> 
+
+ <img src="pics/before_remote.png" alt="But it looks messy on GH" style="width:500px"> 
 
 _**Dan: These pictures will work in the assignment folder of the main website**_
 
