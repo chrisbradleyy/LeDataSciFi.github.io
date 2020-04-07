@@ -14,23 +14,23 @@ misc | A folder for files that aren't listed above but that you want to keep | N
 
 Before, this is my participation folder on my computer and on GH:
 
- <img src="pics/before_local.png" alt="Ready to nicely finalize this" style="width:500px"> 
+ <img src="pics/before_local.png" alt="Ready to nicely finalize this" width="600" > 
 
- <img src="pics/before_remote.png" alt="But it looks messy on GH" style="width:500px"> 
+ <img src="pics/before_remote.png" alt="But it looks messy on GH" width="600" > 
 
 _**Dan: These pictures will work in the assignment folder of the main website**_
 
 Steps:
 1. Open git in the folder where you want. Below, in Windows, I right clicked in the participation folder and clicked “Git Bash Here”. If you can’t do this, you can open Powershell/Terminal, and use the `cd “<path>”` command.
-      ![](pics/open_git.png)
+       <img src="pics/open_git.png" alt="Open Git Bash" width="600" > 
 2. Put `git rm -r --cached .` in git bash/terminal/powershell and hit enter.
-      ![](pics/bash_1.png)
+       <img src="pics/bash_1.png" alt="First Bash command" width="600" > 
 3. Put `git add .` in git bash/terminal/powershell and hit enter.
-      ![](pics/bash_2.png)
+       <img src="pics/bash_2.png" alt="Second Bash command" width="600" > 
 4. Open Github Desktop, summarize the commit (e.g. “removing gitignored files”), and push. In the screenshot below, notice how github is preparing to delete all the checkpoint files.
-      ![](pics/ghdesk_ready.png)
+       <img src="pics/ghdesk_ready.png" alt="About to push renewed repo" width="600" > 
 5. Now my online github repo is much cleaner!
-      ![](pics/all_done.png)
+       <img src="pics/all_done.png" alt="Oh, yes" width="600" > 
 
 ## The `livecoding` folder
 
@@ -59,15 +59,16 @@ Instructions:
 `L20 sklearn intro.ipynb` | Effort Check |
 `NEAR_regex.py` | | Provided by Professor Bowen
 
-# Homework
-Pandas practice from end of this [lecture](https://ledatascifi.github.io/lectures-spr2020/02/02_Pandas.html)
-
-Visualization practice from end of this [lecture](https://ledatascifi.github.io/lectures-spr2020/02/03_Making_Some_Viz_Happen.html)
-
-Rewriting Q1-Q4 using requests.html from this [lecture](https://ledatascifi.github.io/lectures-spr2020/03/01_Intro_to_scraping.html)
-
-Tesla regex practice from this [lecture](https://ledatascifi.github.io/lectures-spr2020/03/02_parse_and_search_text.html)
-
-
 Here is what my folder looks like:
-![](pics/livecoding_folder.png)
+
+<img src="pics/livecoding_folder.png" alt="Livecoding folder" width="600" > 
+
+## The `homework` folder
+
+Should contain code:
+- Pandas practice from end of this [lecture](https://ledatascifi.github.io/lectures-spr2020/02/02_Pandas.html)
+- Visualization practice from end of this [lecture](https://ledatascifi.github.io/lectures-spr2020/02/03_Making_Some_Viz_Happen.html)
+- Rewriting Q1-Q4 using requests.html from this [lecture](https://ledatascifi.github.io/lectures-spr2020/03/01_Intro_to_scraping.html)
+- Tesla regex practice from this [lecture](https://ledatascifi.github.io/lectures-spr2020/03/02_parse_and_search_text.html)
+
+
