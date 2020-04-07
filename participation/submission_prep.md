@@ -32,6 +32,7 @@ Before, this is my participation folder on my computer and on GH:
  <img src="pics/before_remote.png" alt="But it looks messy on GH" width="600" > 
 
 Steps:
+1. Update the gitignore file as described above. Any additional files you want to hide from GH should be in the `misc/` folder or added to the gitignore file. 
 1. Open git in the folder where you want. Below, in Windows, I right clicked in the participation folder and clicked “Git Bash Here”. If you can’t do this, you can open Powershell/Terminal, and use the `cd “<path>”` command.
        <img src="pics/open_git.png" alt="Open Git Bash" width="600" > 
 2. Put `git rm -r --cached .` in git bash/terminal/powershell and hit enter.
