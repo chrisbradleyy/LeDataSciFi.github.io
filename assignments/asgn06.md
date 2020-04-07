@@ -14,7 +14,7 @@ I'm sure these dates will change a few times, so check back regularly...
 2. Click on the invitation link I sent to you and accept the assignment on GitHub. This will create a repo.
 3. Clone it to your computer, a la assignment 1.
 
-## PART 1: Regression
+## PART 1: Regression within `regression.ipynb`
 
 Load the following dataset (do not change these lines at first). Variable descriptions can be found [here](https://github.com/LeDataSciFi/lectures-spr2020/tree/master/assignment_data). 
 
@@ -93,14 +93,13 @@ summary_col(results=[q1, q2a, q2b, q3, q4a,q4b],
            )
 ```
     
-## PART 2: Prediction with Regression 
+## PART 2: Prediction contest within `contest.ipynb`
 
-Coming later.
+Use your new skills to estimate a model you think will produce the most accurate out-of-sample predictions. Try as many model types as you want, tune the models' hyperparameters, use folds to generate extra samples, preprocess and modify the sample as you please. 
 
-## PART 3: Prediction with Boosted Regression Trees
+At the end of the file, specify an object called `model` with which I can run `model.predict()` on hold-out data I kept secret. I will evaluate your R2 on the hold-out predictions. 
 
-Coming later.
-
+**The grade for this file is not based on effort, but on results:** Your grade will be based on how far your R2 is from the class leader's. 
 
 ## When you're done all of these parts (How to finalize your assignment)
 
