@@ -56,7 +56,7 @@ Instructions:
 | File | Requirements | Notes |
 | :--- | :--- |  :--- |
 `L02 first_python_code.ipynb` | Effort check | Used to be called `In Class Lecture 2`
- `L02a a-simple-program.ipynb`|  | Professor Bowen provided this code
+ `L02a a-simple-program.ipynb`| Effort check | Professor Bowen provided this code
 `L03 Py Basics.ipynb` | **Will check for:** at least 2 examples of each operation covered during this lecture | Used to be called `Class 3 live coding`
 `L04 intro_to_numpy.ipynb` | Effort Check |  
 `L05 pandas baby_names FRED.ipynb` | **Will check for:** a few uses of pandas and baby names code |
@@ -71,9 +71,9 @@ Instructions:
 `L17 reg and viz.ipynb` | Effort Check|
 `L18 regression interpretation.ipynb` |**Will check for:** At least two regressions run with some sort of interpretation|
 `L20 sklearn intro.ipynb` | Effort Check |
-`NEAR_regex.py` | | Provided by Professor Bowen
+`NEAR_regex.py` | Is it here | Provided by Professor Bowen
 
-Here is what my folder looks like:
+Here is what my `livecoding/` folder looks like:
 
 <img src="pics/livecoding_folder.png" alt="Livecoding folder" width="600" > 
 
