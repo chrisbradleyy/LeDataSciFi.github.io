@@ -1,14 +1,27 @@
-## In your participation folder, you should see
+# Finalizing your participation file for submission
+
+- [What it should look like](#your-participation-folder-on-GH-should-look-like)
+- [What's in it](#more-details-on-what-is-in-the-participation-folder)
+- Your participation folder on your computer will have files that shouldn't be uploaded. [You will need to change the gitignore file and do four steps to remove those files from GitHub.](#before-and-after-the-gitignore-is-altered-and-updated)
+- [What's in the livecoding folder](#the-livecoding-folder)
+- [What's in the homework folder](#the-homework-folder)
+
+## Your participation folder on GH should look like
+
+Here is a glance at mine (your commit notes can obviously be different):
+<img src="pics/all_done.png" alt="Oh, yes" width="600" > 
+
+## More details on what is in the participation folder
 
 | File or Folder | Description | Requirements |
 | :--- | :--- | :--- |
-README.md |   What visitors see when they open the repo   |  It should be comprehensive and efficiently introduce any visitor to the content of the repo <br> <br> It can't be default / blank!
-navigating_github | | This file was started [in lecture 01/01](https://ledatascifi.github.io/lectures-spr2020/01/01_Motivation_and_Getting_Started.html) and modified [in lecture 01/02](https://ledatascifi.github.io/lectures-spr2020/01/02_Jupyter_Basics.html) and [in lecture 01/03](https://ledatascifi.github.io/lectures-spr2020/01/03_Digging_into_Py.html) and [in lecture 02/01](https://ledatascifi.github.io/lectures-spr2020/02/01_Numpy.html). _(Those aren't dates but module #/lec# from the class URLs)_ <br> <br> **Must contain** <br> - Three markdown features (per 01/03 notes) <br> - Section with useful URLS (per 01/01 lecture)  <br> - Section with "How to" notes for your own benefit. (per 01/03 notes) <br> - Golden Rules per the 02/01 [lecture](https://ledatascifi.github.io/lectures-spr2020/02/01_Numpy.html) <br> - At the bottom of that table, add a new row: the first column should say "Randoms" and the second column should say "NEVER DRAW RANDOM NUMBERS WITHOUT A SEED".
-codebook | A folder for cheat sheets, and reusable code snippets, like a recipe book | Contains `My personal python cheatsheet.ipnyb` which contains whatever you found useful
-homework | A folder for homework and after class practice files | Contains `01a-numpy-practice.ipynb`, which (1) you download  [here](https://github.com/LeDataSciFi/lectures-spr2020/blob/master/content/02/01a-numpy-practice.ipynb) and (2) **solve the prompts within**
-livecoding | A folder for our livecoding files |  See below
-.gitignore | So the GH master repo doesn't have unnecessary files | **After I finished all the changes above on my computer**, my folders looked like the pictures on the left, below. But I didn't want to upload all of those to the remote GH repo. So I modified this file to include: <br><br> ```/livecoding/L12 MY_FIRST_SPIDER/wiki_html/*``` <br> ```.ipynb_checkpoints``` <br>  ```__pycache__/``` <br> <br> These will prevent github from uploading any files in the pycache and wiki_html folders, along with any ipnyb check files (from any folder). <br><br> Your steps: <br> 1. Add those to your gitignore file. <br> 2. Add any other folders or file types you have on your computer but don't want to upload or backup. <br> 3. Some files in your gitignore might already be uploaded to the remote repo. To remove those from the remote repo (but not your computer), follow the steps [below](#before-and-after-the-gitignore-is-altered-and-updated).
-misc | A folder for files that aren't listed above but that you want to keep | None. This folder is entirely voluntary.
+`README.md` |   What visitors see when they open the repo   |  It should be comprehensive and efficiently introduce any visitor to the content of the repo <br> <br> It can't be default / blank!
+`navigating_github.md` | | This file was started [in lecture 01/01](https://ledatascifi.github.io/lectures-spr2020/01/01_Motivation_and_Getting_Started.html) and modified [in lecture 01/02](https://ledatascifi.github.io/lectures-spr2020/01/02_Jupyter_Basics.html) and [in lecture 01/03](https://ledatascifi.github.io/lectures-spr2020/01/03_Digging_into_Py.html) and [in lecture 02/01](https://ledatascifi.github.io/lectures-spr2020/02/01_Numpy.html). _(Those aren't dates but module #/lec# from the class URLs)_ <br> <br> **Must contain** <br> - Three markdown features (per 01/03 notes) <br> - Section with useful URLS (per 01/01 lecture)  <br> - Section with "How to" notes for your own benefit. (per 01/03 notes) <br> - Golden Rules per the 02/01 [lecture](https://ledatascifi.github.io/lectures-spr2020/02/01_Numpy.html) <br> - At the bottom of that table, add a new row: the first column should say "Randoms" and the second column should say "NEVER DRAW RANDOM NUMBERS WITHOUT A SEED".
+`codebook/` | A folder for cheat sheets, and reusable code snippets, like a recipe book | Contains `My personal python cheatsheet.ipnyb` which contains whatever you found useful
+`homework/` | A folder for homework and after class practice files | Contains `01a-numpy-practice.ipynb`, which (1) you download  [here](https://github.com/LeDataSciFi/lectures-spr2020/blob/master/content/02/01a-numpy-practice.ipynb) and (2) **solve the prompts within**
+`livecoding/` | A folder for our livecoding files |  See below
+`.gitignore` | So the GH master repo doesn't have unnecessary files | **After I finished all the changes above on my computer**, my folders looked like the pictures on the left, below. But I didn't want to upload all of those to the remote GH repo. So I modified this file to include: <br><br> ```/livecoding/L12 MY_FIRST_SPIDER/wiki_html/*``` <br> ```.ipynb_checkpoints``` <br>  ```__pycache__/``` <br> <br> These will prevent github from uploading any files in the pycache and wiki_html folders, along with any ipnyb check files (from any folder). <br><br> Your steps: <br> 1. Add those to your gitignore file. <br> 2. Add any other folders or file types you have on your computer but don't want to upload or backup. <br> 3. Some files in your gitignore might already be uploaded to the remote repo. To remove those from the remote repo (but not your computer), follow the steps [below](#before-and-after-the-gitignore-is-altered-and-updated).
+`misc/` | A folder for files that aren't listed above but that you want to keep | None. This folder is entirely voluntary.
 
 ## Before and after the gitignore is altered and updated
 
@@ -17,8 +30,6 @@ Before, this is my participation folder on my computer and on GH:
  <img src="pics/before_local.png" alt="Ready to nicely finalize this" width="600" > 
 
  <img src="pics/before_remote.png" alt="But it looks messy on GH" width="600" > 
-
-_**Dan: These pictures will work in the assignment folder of the main website**_
 
 Steps:
 1. Open git in the folder where you want. Below, in Windows, I right clicked in the participation folder and clicked “Git Bash Here”. If you can’t do this, you can open Powershell/Terminal, and use the `cd “<path>”` command.
