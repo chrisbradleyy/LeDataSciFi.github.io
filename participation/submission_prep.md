@@ -1,5 +1,7 @@
 # Finalizing your participation file for submission
 
+You need to rename files, organize the folder, make the repo on GH nice using the gitignore file. The last commit before the deadline will be graded. [The schedule with the deadline is here](https://ledatascifi.github.io/#schedule). Additional details about how this is graded [are here](participation.html).
+
 - [What it should look like](#your-participation-folder-on-GH-should-look-like)
 - [What's in it](#more-details-on-what-is-in-the-participation-folder)
 - Your participation folder on your computer will have files that shouldn't be uploaded. [You will need to change the gitignore file and do four steps to remove those files from GitHub.](#before-and-after-the-gitignore-is-altered-and-updated)
