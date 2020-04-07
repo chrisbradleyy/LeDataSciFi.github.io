@@ -40,10 +40,9 @@ If you miss class, you can still do the activities another time. Again, the poin
 
 ![](make-participation.gif)
 
-## Your repo should include (when completed):
+## How to finalize and submit your participation repo
 
-1. Live coding worksheet from "Jupyter Basics" lecture. Call this `02 jupyter basics`.
-2. More to come... 
+[The instructions are here.](submission_prep.html)
 
 ## Acknowledgments 
 
