@@ -64,14 +64,14 @@ OK, now you are in a better position to think about these questions. Within the 
     - Interpret  <img src="https://render.githubusercontent.com/render/math?math=\beta_2">, focusing on how it relates to the interpretation of the credit score variable.
     - Why did the credit score coefficient change so much?
 
-3. If you were trying to improve the R2 of model 2A, how might you transform the credit score variable? Try at least one! Report whether the R2 went up or not.
+3. If you were trying to improve the R2 of model 2A, how might you transform the credit score variable? Try at least one! Report whether the R2 went up or not. Call this **Model 3**. 
 4. Regression \#2: Estimate both of these models:
 
     **Model 4A**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * Year %2B u_{i,t}">
   
     **Model 4B**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * (Year=1999) %2B  \beta_1 * (Year=2000) %2B ... %2B   \beta_N * (Year=2018) %2B u_{i,t}">
     
-    Model 4B turns the numeric variable year into a set of what's called "fixed effects", which is a set of dummy variables, one for each value of the variable. See the lecture notes for details. 
+    Model 4B turns the numeric variable year into a set of what's called "fixed effects", which is a set of dummy variables, one for each value of the variable. See the lecture notes on categorical variables for more details. 
     
     - What is the R2 of each? 
     - Why is one so much better?
@@ -80,6 +80,12 @@ OK, now you are in a better position to think about these questions. Within the 
 **Bonus formatting trick:** This regression section results in 6 models. I reported all six in a _single_ table using 
 
 ```python
+from statsmodels.iolib.summary2 import summary_col # nicer tables
+
+# format extra stats for the regression table
+info_dict={'R-squared' : lambda x: f"{x.rsquared:.2f}",
+           'No. observations' : lambda x: f"{int(x.nobs):d}"}
+
 q1 = ols().fit() # give or take ;)
 ... 
 q4b = ols().fit() 
