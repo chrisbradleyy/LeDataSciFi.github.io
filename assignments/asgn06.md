@@ -52,7 +52,7 @@ The rest of the steps are the same as earlier assignments:
 
 ## Grading rubric
 
-_Well, this is a ways away. But it will look similar to prior assignments. You can get a sneak preview of how it will look [here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn06.md)_
+_This will look similar to prior assignments. You can get a sneak preview of how it will cover [here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn06.md)_
 
 <!--
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
