@@ -10,7 +10,7 @@ pd.options.display.float_format = '{:,.1f}'.format
 fannie_mae.drop('Loan_Identifier',axis=1).describe().round(1).transpose()
 ```
 
-### Before you start on the questions... EDA (exploratory data analysis)
+## Before you start on the questions... EDA (exploratory data analysis)
 
 You should do the usual data exploration. Do this data exploration in a "scrap" file so you can explore quickly and messily. You'll create a "nicer" submission file later. Figure out:
 - What are observations? What time does the sample cover?
@@ -23,7 +23,7 @@ You should do the usual data exploration. Do this data exploration in a "scrap" 
   - For categorical variables - maybe try a box plot for the various levels?
   - Take notes about what you find
 
-### Questions 
+## Questions 
 
 OK, now you are in a better position to think about these questions. Within the file you intend to be the "nice, pretty" submission file:
 1. Write a short data section that summarizes the data for someone who has never opened it before. Answer essential questions about the dataset (observation units, time period, sample size, many of the questions above) and note any issues you have with the data (variable X has problem Y that needs to get addressed before using it in regressions or a prediction model because Z).
@@ -80,3 +80,10 @@ summary_col(results=[q1, q2a, q2b, q3, q4a,q4b],
             # want at the top of the table here]
            )
 ```
+
+## When you're done with this
+
+1. Make sure you clean up your file for publication. Make the code and markdown headers/text easy to read and follow. 
+2. Clear the kernal and run all. 
+3. Save it.
+4. Commit and push it via GitHub Desktop.
