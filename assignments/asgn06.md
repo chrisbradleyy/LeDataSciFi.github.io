@@ -22,29 +22,25 @@ Create `regression.ipynb` and follow [the directions for that file here](asgn06_
     
 ## PART 2: Prediction contest within `contest.ipynb`
 
-Use your new skills to estimate a model you think will produce the most accurate out-of-sample predictions. Try as many model types as you want, tune the models' hyperparameters, use folds to generate extra samples, preprocess and modify the sample as you please. 
-
-At the end of the file, specify an object called `model` with which I can run `model.predict()` on hold-out data I kept secret. I will evaluate your R2 on the hold-out predictions. 
-
-**The grade for this file is not based on effort, but on results:** Your grade will be based on how far your R2 is from the class leader's. 
+Create `contest.ipynb` and follow [the directions for that file here](asgn06_pred.html).
 
 ## When you're done all of these parts (How to finalize your assignment)
 
-_Well, this is a ways away. But it will look similar to prior assignments._
+- Follow the directions [here](asgn06_reg.html) and [here](asgn06_pred.html) to finish both files and save your prediction model.
 
-<!-- 
-- Your repo should be logically organized, with subfolders for inputs, outputs, and temp files (if needed). No file should be in a folder that it doesn't belong to. (No outputs in the input folder!) The code should be in the main folder.
-- Clean up your repo - delete extraneous files not needed by peer reviews, or if you want to keep them: move them to a "`dev`" subfolder (which is commonly known to be a place where you put files you used while developing the code). You could call this subfolder "old files" or "my files" or whatever you want. Just clean it up for your reviewers and external eyes :)
+The rest of the steps are the same as earlier assignments: 
 - If you create output or temp folders, make sure your analysis file begins by deleting those folders and remaking them from scratch.
 - If you need any additional inputs, download them to inputs. You don’t need to save the Fannie Mae file to your computer unless you want!
 - Make sure that you refer to files with relative paths ("/input/wine.csv") and NOT absolute paths ("User/Don/Desktop/Project/input/wine.csv") because the latter won't work on anyone else's computer
-- In Jupyter: Restart the kernel and clear the output
-- In Jupyter: Run the entire file, and make sure it works **from scratch**. This means no errors, and also check that your answers didn’t change!
+- Delete all the temp files and output files your code created
+- In Jupyter: Restart the kernel and clear the output for each file
+- In Jupyter: Run all of your files completely, and make sure they work **from scratch**. This means no errors, and also check that your answers didn’t change!
 - In Jupyter: Save the file.
+- Your repo should be logically organized, with subfolders for inputs, outputs, and temp files (if needed). No file should be in a folder that it doesn't belong to. (No outputs in the input folder!) The code should be in the main folder.
+- Clean up your repo - delete extraneous files not needed by peer reviews, or if you want to keep them: move them to a "`dev`" subfolder (which is commonly known to be a place where you put files you used while developing the code). You could call this subfolder "old files" or "my files" or whatever you want. Just clean it up for your reviewers and external eyes :)
 - In Github Desktop: "Commit" and "Push to origin"
 - github.com/ledatascifi : go to your assignment and make sure everything is there
 - **Edit the readme file so visitors know what the repo is doing** (like "(yada yada) ... assignment.ipynb runs the main analysis based on ... (yada yada))
--->
 
 ## Peer review instructions
 
