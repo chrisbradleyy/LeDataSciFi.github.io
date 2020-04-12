@@ -1,5 +1,7 @@
 # `contest.ipynb`
 
+_(It might be easier to read this file [here](https://github.com/LeDataSciFi/LeDataSciFi.github.io/blob/master/assignments/asgn06_pred.md), although the sweet Tiger King gif might not show there.)_
+
 First, load the same dataset as in part 1:
 
 ```python
