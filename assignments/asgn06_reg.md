@@ -32,7 +32,7 @@ OK, now you are in a better position to think about these questions. Within the 
 2. Plot the average interest rate for each year.
 2. Regression \#1: **Print a summary table of the following model**
 
-    <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * \log(\text{Co-Borrower Credit Score}_i)%2B \beta_1 * \text{First time home buyer indicator}_i %2B \beta_2 * \text{10 year treasury rate} %2B u_{i,t}">
+    **Model 1**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * \log(\text{Co-Borrower Credit Score}_i)%2B \beta_1 * \text{First time home buyer indicator}_i %2B \beta_2 * \text{10 year treasury rate} %2B u_{i,t}">
     <!-- that hack to put a formula in a MD file comes from https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b , and %2B is the plus sign -->
   
     where _r_ is the original interest rate for loan _i_ origined in year _t_. Be careful about that First Time Home Buyer variable - drop any observations where it is unknown. 
@@ -45,8 +45,8 @@ OK, now you are in a better position to think about these questions. Within the 
   
     **Model 2B**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * \log(\text{Co-Borrower Credit Score}_i) %2B \beta_1 * \log(\text{OLTV}_i) %2B \beta_2 \log(\text{Co-Borrower Credit Score}_i) * \log(\text{OLTV}_i) %2B u_{i,t}">
 
-    - Interpret  <img src="https://render.githubusercontent.com/render/math?math=\beta_2">, focusing on how it relates to the interpretation of the credit score variable.
-    - Why did the credit score coefficient change so much?
+    - Interpret  <img src="https://render.githubusercontent.com/render/math?math=\beta_2"> in Model 2B, focusing on how it relates to the interpretation of the credit score variable.
+    - Why did the credit score coefficient change so much between 2A and 2B?
 
 3. If you were trying to improve the R2 of model 2A, how might you transform the credit score variable? Try at least one! Report whether the R2 went up or not. Call this **Model 3**. 
 4. Regression \#2: Estimate both of these models:
@@ -57,8 +57,8 @@ OK, now you are in a better position to think about these questions. Within the 
     
     Model 4B turns the numeric variable year into a set of what's called "fixed effects", which is a set of dummy variables, one for each value of the variable. See the lecture notes on categorical variables for more details. 
     
-    - What is the R2 of each? 
-    - Why is one so much better?
+    - What is the R2 of models 4A and 4B? 
+    - Why is one (of 4A and 4B) so much better?
     - Can you use the specification 4B in a predictive model? Why or why not?
     
 **Bonus formatting trick:** This regression section results in 6 models. I reported all six in a _single_ table using 
