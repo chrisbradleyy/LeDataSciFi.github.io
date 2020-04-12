@@ -44,17 +44,15 @@ The rest of the steps are the same as earlier assignments:
 
 ## Peer review instructions
 
-_Well, this is a ways away. But it will look similar to prior assignments._
-
-<!--
 1. Click on the two invitation links I sent to you and accept the assignment on GitHub. You will have access to two peer's assignment repos.
-2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN THEIR CODE. IT SHOULD WORK ON YOUR COMPUTER AS WELL!**
-2. Open an issue on their homework repo, copy the rubric below ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn03.md)), **need to update** and fill in your review there.  You can delete the "notes" I put in each row (the non-bolded explanatory parts).
--->
+2. **CLONE BOTH REPOS TO YOUR COMPUTER, AND RUN JUST `regression.ipynb`. IT SHOULD WORK ON YOUR COMPUTER AS WELL!**
+   - JUST THE REGRESSION FILE!
+3. After you run it, do not push any changes to the repo. Simply delete it off your computer and remove it from GitHub Desktop (click "Repository" then "Remove") so it doesn't try to update it in the future. This isn't necessary, but will save you disk space and keep GH Desktop a little tidier. 
+2. Open an issue on their homework repo, copy the rubric below once I post it ([available here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn06.md)), and fill in your review there. 
 
 ## Grading rubric
 
-_Well, this is a ways away. But it will look similar to prior assignments._
+_Well, this is a ways away. But it will look similar to prior assignments. You can get a sneak preview of how it will look [here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn06.md)_
 
 <!--
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
