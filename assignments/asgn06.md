@@ -59,6 +59,19 @@ _Well, this is a ways away. But it will look similar to prior assignments._
 <!--
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
 
+Students review:
+readme - same standards as before (Y/N)
+regression file runs on my comp (Y/N)
+q2 plot right (Y/N)
+reg numbers (coefs) match answer key for models 1,2A,2B,4A (A,B,C,F)
+q3 / model 1 coef interp
+q4 / model 2b beta2 interp
+q5 / model 3 tried a transform of credit score (Y/N)
+q6 R2 on 4A and 4B
+
+Prof/TA review:
+q1, q4 (both parts), q6 (all parts)
+
 Remarks:
 
 * Elaborate on above, especially for "needs work."
