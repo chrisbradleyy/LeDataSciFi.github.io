@@ -70,7 +70,7 @@ metrics.r2_score(y_holdout,loaded_model.predict(holdout))
 
 ## When you've done the above
 
-1. Make sure you clean up your file for publication. Make the code and markdown headers/text easy to read and follow. 
-2. Clear the kernal and run all. 
-3. Save it.
-4. Commit and push it via GitHub Desktop.
+- [ ] Make sure you clean up your file for publication. Make the code and markdown headers/text easy to read and follow. 
+- [ ] Clear the kernal and run all. 
+- [ ] Save it.
+- [ ] Commit and push it via GitHub Desktop.
