@@ -52,7 +52,7 @@ The rest of the steps are the same as earlier assignments:
 
 ## Grading rubric
 
-_This will look similar to prior assignments. You can get a sneak preview of how it will cover [here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn06.md)_
+_This will look similar to prior assignments. You can get a sneak preview of what it will cover [here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn06.md)_
 
 <!--
 See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
@@ -66,9 +66,11 @@ q3 / model 1 coef interp
 q4 / model 2b beta2 interp
 q5 / model 3 tried a transform of credit score (Y/N)
 q6 R2 on 4A and 4B
+look at contest file, examine code structure (logic), code style, etc WITHOUT running (unless they want to!)
 
 Prof/TA review:
 q1, q4 (both parts), q6 (all parts)
+score on prediction
 
 Remarks:
 
