@@ -1,5 +1,7 @@
 # `regression.ipynb`
 
+_(It might be easier to read this file [here](https://github.com/LeDataSciFi/LeDataSciFi.github.io/blob/master/assignments/asgn06_reg.md))_
+
 This file loads the following dataset (do not change these lines at first). Variable descriptions can be found [here](https://github.com/LeDataSciFi/lectures-spr2020/tree/master/assignment_data). 
 
 ```python
