@@ -35,9 +35,11 @@ OK, now you are in a better position to think about these questions. Within the 
     **Model 1**: <img src="https://render.githubusercontent.com/render/math?math=r_{i,t} = \alpha %2B \beta_0 * \log(\text{Co-Borrower Credit Score}_i)%2B \beta_1 * \text{First time home buyer indicator}_i %2B \beta_2 * \text{10 year treasury rate} %2B u_{i,t}">
     <!-- that hack to put a formula in a MD file comes from https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b , and %2B is the plus sign -->
   
-    where _r_ is the original interest rate for loan _i_ origined in year _t_. Be careful about that First Time Home Buyer variable - drop any observations where it is unknown. 
+    where _r_ is the original interest rate for loan _i_ origined in year _t_. 
+    
+    **Be careful about that First Time Home Buyer variable - drop any observations where it is unknown.**
 
-    - For each  <img src="https://render.githubusercontent.com/render/math?math=\beta">, write a sentence interpreting what the coefficient means, and whether it is statistically significant (if so, to what level?).
+    For each  <img src="https://render.githubusercontent.com/render/math?math=\beta">, write a sentence interpreting what the coefficient means, and whether it is statistically significant (if so, to what level?).
 
 2. Regression \#2: **Print a summary table of the following two models**
 
