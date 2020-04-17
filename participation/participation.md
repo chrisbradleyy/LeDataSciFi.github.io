@@ -2,7 +2,7 @@ Half of your participation grade is classroom responses, and half is this partic
 
 ## Evaluation
 
-Instructions on how to finalize and submit your participation repo [are here.](submission_prep.html) ([Or here](submission_pred.md), if you're in GitHub and not on the website.)
+Instructions on how to finalize and submit your participation repo [are here.](submission_prep.html) ([Or here](submission_prep.md), if you're in GitHub and not on the website.)
 
 **In short, we’re evaluating completeness, not correctness.** You’ll be prompted in class when you should be contributing to your participation repository, and a full list of items will be posted below here. (The list will evolve as the semester progresses.)
 
