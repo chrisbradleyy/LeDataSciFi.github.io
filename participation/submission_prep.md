@@ -58,7 +58,6 @@ Instructions:
 `L02 first_python_code.ipynb` | Effort check | Used to be called `In Class Lecture 2`
  `L02a a-simple-program.ipynb`| Effort check | Professor Bowen provided this code
 `L03 Py Basics.ipynb` | **Will check for:** at least 2 examples of each operation covered during this lecture | Used to be called `Class 3 live coding`
-`L04 intro_to_numpy.ipynb` | Effort Check |  
 `L05 pandas baby_names FRED.ipynb` | **Will check for:** a few uses of pandas and baby names code |
 `L07 plotting diamonds and stocks.ipynb` | Effort Check|
 `L09 better viz.ipynb` |Effort Check |
