@@ -54,29 +54,32 @@ The rest of the steps are the same as earlier assignments:
 
 _This will look similar to prior assignments. You can get a sneak preview of what it will cover [here](https://raw.githubusercontent.com/LeDataSciFi/LeDataSciFi.github.io/master/assignments/asgn06.md)_
 
-<!--
-See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
-
-Students review:
-readme - same standards as before (Y/N)
-regression file runs on my comp (Y/N)
-q2 plot right (Y/N)
-reg numbers (coefs) match answer key for models 1,2A,2B,4A (A,B,C,F)
-q3 / model 1 coef interp
-q4 / model 2b beta2 interp
-q5 / model 3 tried a transform of credit score (Y/N)
-q6 R2 on 4A and 4B
-look at contest file, examine code structure (logic), code style, etc WITHOUT running (unless they want to!)
-
-Prof/TA review:
-q1, q4 (both parts), q6 (all parts)
-score on prediction
+| Evaluate | Does it? / Is it? | Yes | No | Comments - explain if no| 
+| :--- | :--- | :--- | :--- |  :--- |
+| `README.md` | Orients readers nicely to the repo's goal and explains how to replicate the results. | | | |
+| `regression.ipynb` | Runs **on your computer** without error  |
+| Average interest rate plot | Match answer key |
+| Regression coefficients for models 1, 2A, 2B, 4A  | Match answer key | | | _Put # of wrong coefficients here_ | 
+| Model 1 Coefficient Interpretation |  Match answer key |
+| Model 2B <img src="https://render.githubusercontent.com/render/math?math=\beta_2"> Interpration | Match answer key |
+| R2 on Model 4A and 4B  | Match answer key |
 
 Remarks:
 
-* Elaborate on above, especially for "needs work."
-* Some specific praise?
-* Something I learned?
-* Specific constructive criticism?
-* Something I know and that you, my peer, might like to know because it is relevant to something you struggled with.
+OMG, I can't believe we finished the last assignment of this class!
+
+![](https://media.giphy.com/media/iHyVaHfEYXZos8qPX2/giphy.gif)
+
+Congrats on making it this far, friend. Let's graduate, get out into the real world (if quarantine ever ends), and go long on oil. 
+
+![](oilcrop.png)
+
+<!--
+See [the rubric guidelines](guidelines-peerreview.html#filling-out-the-rubric).
+
+Prof/TA review:
+q1, q4 (both parts), q6 (all parts)
+prediction code
+score on prediction
+
 -->
