@@ -49,14 +49,15 @@ The goal of the project is not to simply take a pre-cleaned dataset, and run a b
 ### Project status report
 
 - General idea: You've now acquired the key data and finished most of the data cleaning. 
-- Report has nice data sections describing data source(s) and how you got/cleaned the data
-- Needs to show progress and that you're on track!
-- More details later
-
-<!--  FIIIIIIIIIIIILL IN!
-- Graded on:
---> 
-
+- Purpose: Needs to show progress and that you're on track!
+- Ideal: A jupyter file with nice data sections describing data source(s) and how you got/cleaned the data. This section goes straight into your final report. 
+    
+Actual  deliverable: Because of the weird impact Covid-19 has had, let's make the deliverable less structured than prior milestones/deliverable stage so you can focus your time on the analysis. **So here is what I think makes sense to balance all the objectives and constraints: I need to see a Jupyter notebook that**
+- describes (short bullet points) your data sources,
+- outlines (numbered list, broad steps, not minutia) how you acquired the data (for many groups, the downloading is in a separate file), got the data into python, and if you found any issues with the data you cleaned up (again, possibly a different file)
+- includes a bullet point list of your main observations from your EDA
+- shows your EDA (tables and figures and whatnot, does not need to be pretty or formatted)
+    
 ### Written components
 
 - Code, report, and presentation files due
